@@ -1,5 +1,5 @@
-#L-Murature e pareti perimetrali
-##Riferimenti
+# L-Murature e pareti perimetrali
+## Riferimenti
 
  1. Codice di pratica per la posa in opera di blocchi in calcestruzzo
  1. Manuale di posa calcestruzzo aerato autoclavato
