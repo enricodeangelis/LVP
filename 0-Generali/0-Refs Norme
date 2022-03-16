@@ -1,4 +1,5 @@
->Questa prima lista di norme dovrà essere ripartita tra i gruppi tematici (12) con una prima classificazione anche ridondante (una norma in più categorie) funzionale ai 12 gruppi.
+>Questa prima lista di norme è stata realizzata scaricando i risultati di una ricerca nel catalogo [UNI](http://store.uni.com/catalogo/index.php/) usando la sola parola chiave "progettazione" nel campo TITOLO
+dovrà essere ripartita tra i gruppi tematici (12) con una prima classificazione anche ridondante (una norma in più categorie) funzionale ai 12 gruppi.
 
 >aggiungeremo altre norme in seguito ed eventualmente proporremo un secondo livello di classificazione. ESEMPIO:
 # Norme A-Coperture pianificazione
@@ -10,6 +11,7 @@
  1. CEN/TS 17659:2021, Linee guida per la progettazione di membrane flessibili fissate meccanicamente per l'impermeabilizzazione del tetto
  1. CEN/TS 19100, Progetto di strutture in vetro
    * Parte 1:2021 Criteri generali di progettazione e caratterizzazione del materiale
+   * Parte 2:2021 Progetto di componenti di vetro caricati ortogonalmente alla superficie
    * Parte 3:2021 Progettazione di componenti di vetro caricati nel piano medio e dei loro ritegni meccanici
  1. EN 12056, Sistemi di scarico funzionanti a gravità all'interno degli edifici.
    * Parte 2:2001, Impianti per acque reflue, progettazione e calcolo
@@ -149,7 +151,8 @@
  1. UNI 11241:2007, Istruzioni per la progettazione e la posa di rivestimenti di pavimenti con elementi autobloccanti di calcestruzzo
  1. UNI 11407:2020, Servizi di ristorazione collettiva - Requisiti minimi per la progettazione di capitolato di appalto e disciplinare
  1. UNI 11425:2011, Impianto di ventilazione e condizionamento a contaminazione controllata (VCCC) per il blocco operatorio - Progettazione, installazione, messa in marcia, qualifica, gestione e manutenzione
- 1. UNI 11454:2012, Manutenzione - La manutenzione nella progettazione di un bene fisico
+ 1. UNI 11442:2015 Criteri per il progetto e l'esecuzione dei sistemi di coperture continue - Resistenza al vento
+UNI 11454:2012, Manutenzione - La manutenzione nella progettazione di un bene fisico
  1. UNI 11466:2012, Sistemi geotermici a pompa di calore - Requisiti per il dimensionamento e la progettazione
  1. UNI 11493-1:2016, Piastrellature ceramiche a pavimento e a parete - Parte 1: Istruzioni per la progettazione, l'installazione e la manutenzione
  1. UNI 11497:2013, Progettazione, installazione ed esercizio dei rivelatori autonomi di fumo trattati dalla UNI EN 14604
@@ -232,6 +235,7 @@
  1. UNI/TS 11559:2014, Impianti di estinzione incendi - Reti di idranti a secco - Progettazione, installazione ed esercizio
  1. UNI/TS 11693:2017, Impianti a gas per uso domestico e similare - Impianti di adduzione gas alimentati da rete di distribuzione, da bidoni e serbatoi fissi di GPL, realizzati con sistemi di tubi compositi di rame e polietilene e raccordi a pressare - Progettazione, installazione e messa in servizio
  1. UNI/TS 11726:2018, Progettazione illuminotecnica degli attraversamenti pedonali nelle strade con traffico motorizzato
+ 1. EC 1-2010 UNI 11345:2010 Attività di controllo per le fasi di progetto, esecuzione e gestione di coperture continue
 
 # EUROCODICI
 ## Eurocodice 1
@@ -302,3 +306,17 @@
  1. EN 1999-1-3:2011, Eurocodice 9 - Progettazione delle strutture di alluminio - Parte 1-3: Strutture sottoposte a fatica
  1. EN 1999-1-4:2011, Eurocodice 9 - Progettazione delle strutture di alluminio - Parte 1-4: Lamiere sottili piegate a freddo
  1. EN 1999-1-5:2007, Eurocodice 9 - Progettazione delle strutture di alluminio - Parte 1-5: Strutture a guscio
+
+# Norme sul progetto e il controllo del progetto
+ 1. UNI 10721:2012, Servizi di controllo tecnico applicati all'edilizia e alle opere di ingegneria civile
+ 1. UNI 10722 Edilizia - Qualificazione e verifica del progetto edilizio di nuove costruzioni
+  * Parte 1: Principi, criteri generali e terminologia
+  * Parte 2:2007, Definizione del programma del singolo intervento
+  * Parte 3:2009, Pianificazione del progetto e pianificazione ed esecuzione delle verifiche del progetto di un intervento edilizio
+ 1. UNI 11150, Edilizia - Qualificazione e controllo del progetto edilizio per gli interventi sul costruito.
+  * Parte 1:2005, Criteri generali, terminologia e definizione del documento preliminare alla progettazione     * Parte 2:2005 Pianificazione della progettazione
+  * Parte 3: Attività analitiche ai fini degli interventi sul costruito
+  * Parte 4: Sviluppo e controllo della progettazione degli interventi di riqualificazione
+ 1. UNI 10914-2:2001, Edilizia - Qualificazione e controllo del progetto edilizio di interventi di nuova costruzione e di interventi sul costruito
+  * Parte 2:2001, Programmazione degli interventi
+  * Parte 1:2001, Terminologia
