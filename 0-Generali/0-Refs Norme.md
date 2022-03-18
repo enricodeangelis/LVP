@@ -2,7 +2,7 @@
 dovrà essere ripartita tra i gruppi tematici (12) con una prima classificazione anche ridondante (una norma in più categorie) funzionale ai 12 gruppi.
 
 >aggiungeremo altre norme in seguito ed eventualmente proporremo un secondo livello di classificazione. ESEMPIO:
-# Norme A-Coperture pianificazione
+# Norme A-Coperture piane
 ## Norme A1 - Progettazione della Copertura
 ## Norme A2 - Materiali, strati e parti funzionali della copertura
 
