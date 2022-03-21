@@ -32,3 +32,5 @@ https://www.leca.it/download/manuali-e-brochure/
 1. *UNI EN 1015-11:2019*: Metodi di prova per malte per opere murarie - Parte 11: Determinazione della resistenza a flessione e a compressione della malta indurita
 1. *UNI EN 1015-7:2000*: Metodi di prova per malte per opere murarie - Determinazione del contenuto d'aria della malta fresca
 1. *UNI EN 1015-12:2016*: Metodi di prova per malte per opere murarie - Parte 12: Determinazione dell'aderenza al supporto di malte da intonaco esterno ed interno
+
+Aggiunto una norma
