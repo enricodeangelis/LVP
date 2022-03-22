@@ -13,6 +13,7 @@ dovrà essere ripartita tra i gruppi tematici (12) con una prima classificazione
      * Parte 1:2021 Criteri generali di progettazione e caratterizzazione del materiale
      * Parte 2:2021 Progetto di componenti di vetro caricati ortogonalmente alla superficie
      * Parte 3:2021 Progettazione di componenti di vetro caricati nel piano medio e dei loro ritegni meccanici
+     * parte 4
  1. EN 12056, Sistemi di scarico funzionanti a gravità all'interno degli edifici.
      * Parte 2:2001, Impianti per acque reflue, progettazione e calcolo
      * Parte 3:2001, Sistemi per l'evacuazione delle acque meteoriche, progettazione e calcolo
