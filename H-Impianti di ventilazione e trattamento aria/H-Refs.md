@@ -32,6 +32,16 @@
  1. **UNI CEN/TR 16798-8:2018** Prestazione energetica degli edifici - Ventilazione per gli edifici - Parte 8: Interpretazione dei requisiti nella EN 16798-7 - Metodi di calcolo per la determinazione delle portate d'aria negli edifici incluse le infiltrazioni (Modulo M5-5)
  1. **UNI CEN/TR 16798-2:2020** Prestazioni energetiche degli edifici - Ventilazione per gli edifici - Parte 2: Interpretazione dei requisiti della norma EN 16798-1 - Parametri di input ambientale interno per la progettazione e la valutazione delle prestazioni energetiche degli edifici in relazione alla qualità dell'aria interna, all'ambiente termico, all'illuminazione e all'acustica (Modulo M1-6)
  1. **UNI EN ISO 16032:2005** Acustica - Misurazione del livello di pressione sonora di impianti tecnici in edifici - Metodo tecnico progettuale
+ 1. BS EN 13142:2021 Ventilation for buildings. Components/products for residential ventilation. Required and optional performance characteristics.
+ 1. BS ISO 16814:2008 Building environment design. Indoor air quality. Methods of expressing the quality of indoor air for human occupancy.
+ 1. BS EN 15805:2021 - TC
+ Tracked Changes. Particulate air filters for general ventilation. Standardised dimensions.
+ 1. BS EN 17088:2021
+ Side curtain ventilation systems. Safety.
+ 1. BS EN 13142:2021 - TC
+ Tracked Changes. Ventilation for buildings. Components/products for residential ventilation. Required and optional performance characteristics.
+ 1. BS EN 13141-7:2021 - TC
+ Tracked Changes. Ventilation for buildings. Performance testing of components/products for residential ventilation. Performance testing of ducted mechanical supply and exhaust ventilation units (including heat recovery)
 
 ## Specifiche
 
