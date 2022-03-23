@@ -28,9 +28,13 @@
  1. **UNI EN 15423:2008** Ventilazione degli edifici - Misure antincendio per i sistemi di distribuzione dell'aria negli edifici
  1. **UNI EN 1886:2008** Ventilazione degli edifici - Unità di trattamento dell'aria - Prestazione meccanica
  1. **UNI CEN/TS 17153:2018** Ventilazione per gli edifici - Correzione della portata d'aria in base alle condizioni ambientali
+ 1. **UNI CEN/TR 16798** Prestazione energetica degli edifici.
+  * **UNI EN 16798-1:2019** Prestazione energetica degli edifici - Ventilazione per gli edifici - Parte 1: Parametri di ingresso dell'ambiente interno per la progettazione e la valutazione della prestazione energetica degli edifici in relazione alla qualità dell'aria interna, all'ambiente termico, all'illuminazione e all'acustica - Modulo M1-6
+  * **UNI CEN/TR 16798-2:2020** Prestazioni energetiche degli edifici - Ventilazione per gli edifici - Parte 2: Interpretazione dei requisiti della norma EN 16798-1 - Parametri di input ambientale interno per la progettazione e la valutazione delle prestazioni energetiche degli edifici in relazione alla qualità dell'aria interna, all'ambiente termico, all'illuminazione e all'acustica (Modulo M1-6)
+  * **UNI EN 16798-3:2018** Prestazione energetica degli edifici - Ventilazione per gli edifici - Parte 3: Per gli edifici non residenziali - Requisiti prestazionali per i sistemi di ventilazione e di condizionamento degli ambienti (Moduli M5-1, M5-4)
+  * **UNI CEN/TR 16798-4:2018** Prestazione energetica degli edifici - Ventilazione per gli edifici - Parte 4: Interpretazione dei requisiti nella EN 16798-3 - per gli edifici non residenziali - Requisiti di prestazione per i sistemi di ventilazione e condizionamento degli ambienti (Moduli M5-1, M5-4)
  1. **UNI CEN/TR 16798-10:2018** Prestazione energetica degli edifici - Ventilazione per gli edifici - Parte 10: Interpretazione dei requisiti nella EN 16798-9 - Metodi di calcolo per i requisiti energetici dei sistemi di raffrescamento (Moduli M4-1, M4-4, M4-9) - Generalità
  1. **UNI CEN/TR 16798-8:2018** Prestazione energetica degli edifici - Ventilazione per gli edifici - Parte 8: Interpretazione dei requisiti nella EN 16798-7 - Metodi di calcolo per la determinazione delle portate d'aria negli edifici incluse le infiltrazioni (Modulo M5-5)
- 1. **UNI CEN/TR 16798-2:2020** Prestazioni energetiche degli edifici - Ventilazione per gli edifici - Parte 2: Interpretazione dei requisiti della norma EN 16798-1 - Parametri di input ambientale interno per la progettazione e la valutazione delle prestazioni energetiche degli edifici in relazione alla qualità dell'aria interna, all'ambiente termico, all'illuminazione e all'acustica (Modulo M1-6)
  1. **UNI EN ISO 16032:2005** Acustica - Misurazione del livello di pressione sonora di impianti tecnici in edifici - Metodo tecnico progettuale
  1. **BS EN 15805:2021 - TC**
  Tracked Changes. Particulate air filters for general ventilation. Standardised dimensions.
