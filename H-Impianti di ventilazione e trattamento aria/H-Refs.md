@@ -43,4 +43,8 @@ Tipologie di applicazione o utilizzo specifico
 
 ### Caratteristiche e prestazioni minime
 
+> Qui metteremo le caratteristiche necessarie al dimensionamento di un impianto di ventilazione meccanica come "l'inquadramento del clima", numero di occupanti, tipologia di ventilazione, bocchette di immissione o estrazione e il loro corretto posizionamento, portata dei condotti, materiale dei condotti, isolamento acustico, integrazione con impianto di climatizzazione, etc.
+
 ### Modalità di posa o lavorazioni e possibili da evitare
+
+> Qui scriveremo le possibili indicazioni per una corretta installazione e lavorazione.
