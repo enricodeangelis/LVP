@@ -6,7 +6,7 @@ Per ottenere la ventilazione è necessaria la combinazione di elementi e/o prodo
 
  1. **UNI 10339:1995** Impianti aeraulici al fini di benessere. Generalità, classificazione e requisiti. Regole per la richiesta d'offerta(praticamente l'esito della progettazione), l'offerta, l'ordine e la fornitura.
  1. **EN 15251:2008** Criteri per la progettazione dell'ambiente interno e per la valutazione della prestazione energetica degli edifici, in relazione alla qualità dell'aria interna, all'ambiente termico, all'illuminazione e all'acustica
- 1. **EN 13142:2021** Ventilation for buildings. Components/products for residential ventilation. Required and optional performance characteristics. Ventilazione per gli edifici - Componenti/prodotti per la ventilazione residenziale - Caratteristiche prestazionali richieste e facoltative
+ 1. **EN 13142:2021** Ventilazione per gli edifici - Componenti/prodotti per la ventilazione residenziale - Caratteristiche prestazionali richieste e facoltative
  1. **ISO 16814:2008** Building environment design. Indoor air quality. Methods of expressing the quality of indoor air for human occupancy.
  1. **EN 15665:2009** Ventilazione degli edifici - Determinazione dei criteri di prestazione per i sistemi di ventilazione residenziali
  1. **EN 14134:2019** Ventilazione per gli edifici - Misura della prestazione e controllo per i sistemi di ventilazione residenziale
@@ -41,17 +41,15 @@ Per ottenere la ventilazione è necessaria la combinazione di elementi e/o prodo
   * **CEN/TR 16798-8:2018** Prestazione energetica degli edifici - Ventilazione per gli edifici - Parte 8: Interpretazione dei requisiti nella EN 16798-7 - Metodi di calcolo per la determinazione delle portate d'aria negli edifici incluse le infiltrazioni (Modulo M5-5)
   * **EN 16798-9:2017** Metodi di calcolo per i requisiti energetici dei sistemi di raffrescamento (Moduli M4-1, M4-4, M4-9) - Generalità
   * **CEN/TR 16798-10:2018** Prestazione energetica degli edifici - Ventilazione per gli edifici - Parte 10: Interpretazione dei requisiti nella EN 16798-9 - Metodi di calcolo per i requisiti energetici dei sistemi di raffrescamento (Moduli M4-1, M4-4, M4-9) - Generalità
-  * **EN 16798-13:2018** Prestazione energetica degli edifici - Ventilazione per gli edifici - Parte 13: Calcolo dei sistemi di raffreddamento (Modulo M4-8) - Generazione
-  * **CEN/TR 16798-14:2018** Prestazione energetica degli edifici - Ventilazione per gli edifici - Parte 14: Interpretazione dei requisiti nella EN 16798-13 - Calcolo dei sistemi di raffrescamento (Modulo M4-8) - Generazione
-  * **EN 16798-15:2018** Prestazione energetica degli edifici - Ventilazione per gli edifici - Parte 15: Calcolo dei sistemi di raffreddamento (Modulo M4-7) - Accumulo
-  * **CEN/TR 16798-16** Prestazione energetica degli edifici - Ventilazione per gli edifici - Parte 16: Interpretazione dei requisiti nella EN 16798-15 - Calcolo dei sistemi di raffrescamento (Modulo M4-7) - Accumulo
-  * **EN 16798-17** Prestazione energetica degli edifici - Ventilazione per gli edifici - Parte 17: Linee guida per l'ispezione degli impianti di ventilazione e condizionamento dell'aria (Modulo M4-11, M5-11, M6-11, M7-11)
-  * **CEN/TR 16798-18** Prestazione energetica degli edifici - Ventilazione per gli edifici - Parte 18: Interpretazione dei requisiti nella EN 16798-17 - Linee guida per l'ispezione dei sistemi di ventilazione e condizionamento dell'aria (Moduli M4-11, M6-11, M7-11)
+  * **EN 16798-13:2018** Prestazione energetica degli edifici - Ventilazione per gli edifici - Parte 13: Calcolo dei sistemi di raffreddamento
+  * **CEN/TR 16798-14:2018** Prestazione energetica degli edifici - Ventilazione per gli edifici - Parte 14: Interpretazione dei requisiti nella EN 16798-13
+  * **EN 16798-15:2018** Prestazione energetica degli edifici - Ventilazione per gli edifici - Parte 15: Calcolo dei sistemi di raffreddamento
+  * **CEN/TR 16798-16** Prestazione energetica degli edifici - Ventilazione per gli edifici - Parte 16: Interpretazione dei requisiti nella EN 16798-15
+  * **EN 16798-17** Prestazione energetica degli edifici - Ventilazione per gli edifici - Parte 17: Linee guida per l'ispezione degli impianti di ventilazione e condizionamento dell'aria
+  * **CEN/TR 16798-18** Prestazione energetica degli edifici - Ventilazione per gli edifici - Parte 18: Interpretazione dei requisiti nella EN 16798-17
  1. **EN ISO 16032:2005** Acustica - Misurazione del livello di pressione sonora di impianti tecnici in edifici - Metodo tecnico progettuale
- 1. **EN 15805:2021 - TC**
- Tracked Changes. Particulate air filters for general ventilation. Standardised dimensions.
- 1. **EN 13141-7:2021 - TC**
- Tracked Changes. Ventilation for buildings. Performance testing of components/products for residential ventilation. Performance testing of ducted mechanical supply and exhaust ventilation units (including heat recovery)
+ 1. **EN 15805:2021 - TC** Tracked Changes. Particulate air filters for general ventilation. Standardised dimensions.
+ 1. **EN 13141-7:2021 - TC** Tracked Changes. Ventilation for buildings. Performance testing of components/products for residential ventilation.
 
 ## Specifiche
 
