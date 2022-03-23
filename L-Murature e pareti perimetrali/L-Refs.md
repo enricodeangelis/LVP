@@ -35,6 +35,23 @@ https://www.leca.it/download/manuali-e-brochure/
 1. *UNI EN 1015-7:2000*: Metodi di prova per malte per opere murarie - Determinazione del contenuto d'aria della malta fresca
 1. *UNI EN 1015-12:2016*: Metodi di prova per malte per opere murarie - Parte 12: Determinazione dell'aderenza al supporto di malte da intonaco esterno ed interno
 
+> Parola chiave su Norme UNI: Facciata
+
+1. *UNI EN ISO 16283-3:2016*: Acustica - Misure in opera dell'isolamento acustico in edifici e di elementi di edificio - Parte 3: Isolamento acustico di facciata
+1. *UNI 11018:2003*: Rivestimenti e sistemi di ancoraggio per facciate ventilate a montaggio meccanico - Istruzioni per la progettazione, l'esecuzione e la manutenzione - Rivestimenti lapidei e ceramici
+
+> Parola chiave su Norme UNI: Rivestimenti esterni
+
+1. *UNI 8012:1979*: Edilizia. Rivestimenti esterni ed interni. Analisi dei requisiti.
+1. *UNI EN 14915:2020*: Rivestimenti interni ed esterni di pareti con elementi di legno massiccio - Caratteristiche, requisiti e marcatura
+1. *UNI EN 13442:2013*: Pavimentazioni di legno e rivestimenti interni ed esterni di pareti con elementi discontinui di legno - Determinazione della resistenza agli agenti chimici
+1. *UNI EN 13647:2021*: Pavimentazioni di legno e rivestimenti interni ed esterni di pareti con elementi discontinui di legno - Determinazione delle caratteristiche geometriche
+1. *UNI EN 1910:2016*: Pavimentazioni di legno e rivestimenti interni ed esterni di pareti con elementi discontinui di legno - Determinazione della stabilità dimensionale
+1. *UNI EN 14951:2006*: Rivestimenti interni ed esterni di pareti con elementi di legno massiccio di latifoglie - Elementi profilati lavorati
+1. *UNI EN 15146:2007*: Rivestimenti interni e esterni di pareti con elementi discontinui di legno massiccio di conifere - Profili realizzati senza incastri maschio e femmina
+1. *UNI EN 14519:2006*: Rivestimenti interni ed esterni di pareti con elementi discontinui di legno massiccio di conifere - Profili realizzati con incastri maschio e femmina
+1. *UNI CEN/TR 13548:2006*: Regole generali per la progettazione e l'installazione delle piastrellature di ceramica
+
 > EUROCODICE (aggiunto anche due da cartella 0)
 
 1. *EN 1996-1-1:2013*, Eurocodice 6: Progettazione delle strutture in muratura - Parte 1-1: Regole generali per strutture di muratura armata e non armata
