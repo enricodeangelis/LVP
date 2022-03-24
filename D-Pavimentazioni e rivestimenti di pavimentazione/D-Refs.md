@@ -37,6 +37,10 @@
 1. Sustainability in Italian Ceramic Tile Production: Evaluation of the Environmental Impact (OD)
 #### Rivestimenti resilienti e laminati
 1. Guida tecnica per pavimenti e rivestimenti LAMINAM
+#### Isolanti acustici
+1. Guida all'siolamento acustico e capitolati tecnici INDEX
+1. Rapporto di prova dell'siolamento acustico via aerea ISTITUTO GIORDANO (OD)
+1. Sistema per l'isolamento acustico contro il rumore di calpestio MAPEI
 
 ### Riferimenti normativi
 #### Pavimentazioni in resina
@@ -78,3 +82,8 @@ piastrellature ceramiche
 1. UNI EN ISO 11855-5 Progettazione dell'ambiente costruito - Progettazione, dimensionamento,
 installazione e controllo dei sistemi di riscaldamento e raffreddamento radianti integrati - Parte 5: Installazione.
 1. UNI EN 1264-4 Istallazione – Parte 4: Sistemi radianti alimentati ad acqua per il riscaldamento e il raffrescamento integrati nelle strutture.
+#### Isolanti acustici
+1. Legge 26 ottobre 1995, n. 447 Legge quadro sull'inquinamento acustico
+1. D.P.C.M. 5 dicembre 1997 - Determinazione dei requisiti acustici passivi degli edifici Pubblicato in G.U. Serie generale n. 297 del 22 dicembre 1997 (OD di ANIT)
+1. UNI EN 12354-2:2002 Acustica in edilizia - Valutazioni delle prestazioni acustiche di edifici a partire dalle prestazioni di prodotti - Isolamento acustico al calpestio tra ambienti
+1. UNI EN ISO 717-1:2021 Acustica - Valutazione dell'isolamento acustico in edifici e di elementi di edificio - Parte 1: Isolamento acustico per via aerea
