@@ -69,20 +69,25 @@
 1. UNI 10462:1995		Elementi edilizi. Tolleranze dimensionali. Definizione e classificazione [link](http://store.uni.com/catalogo/uni-10462-1995/)
 
 ## Associazioni di categoria
+[ASSOBETON](https://www.assobeton.it/ASSOBETON/gest_sito.nsf/Document_List.xsp?documentId=D44A77FFB3431928C12583F9003CA1A8)
 1. Strutture prefabbricate: catalogo delle tipologie esistenti, [link](https://www.assobeton.it/ASSOBETON/gest_sito.nsf/Allegato.xsp?documentId=279B51BDFD660EDCC12584C00052C25F)
 1. Strutture prefabbricate: schedario dei collegament,i [link](https://www.bing.com/search?q=schedario+collegamenti+assobeton&cvid=2991f5dd0b0f463086fecc8a9bba762b&aqs=edge..69i57.8327j0j1&pglt=299&FORM=ANNTA1&PC=HCTS)
-1. Condizioni Generali di Appalto, [link]()
-1. Strutture prefabbricate: schedario di edifici prefabbricati in c.a., [link]()
+1. Condizioni Generali di Appalto, [link]() ONE DRIVE
+1. Strutture prefabbricate: schedario di edifici prefabbricati in c.a., [link]() ONE DRIVE 
+
+[ORDINE INGEGNERI NAPOLI](http://www.ordineingegnerinapoli.it/news/documenti/corsosismica2007-cmare-fabbrocino.pdf)
+
+[AITEC](https://www.aitecweb.com/Pubblicazioni/Pubblicazioni-in-vendita)
 
  ## Linee Guida 
  1. Progetto SAFECAST - Regole per la progettazione delle connessioni nelle strutture prefabricate, [link](https://www.assobeton.it/ASSOBETON/gest_sito.nsf/Allegato.xsp?documentId=5C20B12759B1BCDDC12584C000555889&action=openDocument)
  1. Progetto SAFECLADDING - Regole per la progettazione sismica delle connessioni pannello-struttura negli edifici prefabbricati, [link](https://www.assobeton.it/ASSOBETON/gest_sito.nsf/Allegato.xsp?documentId=DB6D0A2AC656C7C3C125879D0058BE97&action=openDocument)
 
 
- 1. STC - Direzione lavori in presenza di manufatti prefabbricati, [link]()
+ 1. STC - Direzione lavori in presenza di manufatti prefabbricati, [link]() ONE DRIVE MANCANTE
 
-https://www.assobeton.it/ASSOBETON/gest_sito.nsf/Document_List.xsp?documentId=D44A77FFB3431928C12583F9003CA1A8
 
-https://www.aitecweb.com/Pubblicazioni/Pubblicazioni-in-vendita
 
-http://www.ordineingegnerinapoli.it/news/documenti/corsosismica2007-cmare-fabbrocino.pdf
+
+
+
