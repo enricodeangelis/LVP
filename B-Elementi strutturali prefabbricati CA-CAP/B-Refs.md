@@ -16,6 +16,6 @@ https://www.aitecweb.com/Pubblicazioni/Pubblicazioni-in-vendita
 http://www.ordineingegnerinapoli.it/news/documenti/corsosismica2007-cmare-fabbrocino.pdf
 
 ## Norme ISO
-1. ISO 12345
-2. ISO 20987:2019 [link] 
+1. ISO 20987:2019 **Performance standards in building. Performance test for precast concrete floors. Behaviour under concentrated load** [link](https://bsol.bsigroup.com/Download/SubscriptionPdfDocument?materialNumber=000000000030212172&documentNumber=BS%20EN%2015037-5%3A2013)
+1. 
 
