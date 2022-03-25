@@ -7,7 +7,8 @@
  1. Strutture prefabbricate: schedario di edifici prefabbricati in c.a., [link]()
  1. Condizioni Generali di Appalto, [link]()
  1. STC - Direzione lavori in presenza di manufatti prefabbricati, [link]()
- 1. zz
+ 1. uni en
+ 2. 
 
 https://www.assobeton.it/ASSOBETON/gest_sito.nsf/Document_List.xsp?documentId=D44A77FFB3431928C12583F9003CA1A8
 
