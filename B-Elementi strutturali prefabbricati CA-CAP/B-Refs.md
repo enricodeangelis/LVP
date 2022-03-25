@@ -17,6 +17,20 @@ http://www.ordineingegnerinapoli.it/news/documenti/corsosismica2007-cmare-fabbro
 
 ## Norme ISO
 1. ISO 20987:2019 **Performance standards in building. Performance test for precast concrete floors. Behaviour under concentrated load** [link](https://bsol.bsigroup.com/Download/SubscriptionPdfDocument?materialNumber=000000000030212172&documentNumber=BS%20EN%2015037-5%3A2013)
-1. ISO 9883:1993 **Performance standards in building. Performance test for precast concrete floors. Behaviour under concentrated load** [link] ()
-1. ISO 9882:1993 **Performance standards in building. Performance test for precast concrete floors. Behaviour under non-concentrated load** [link] ()
+1. ISO 9883:1993 **Performance standards in building. Performance test for precast concrete floors. Behaviour under concentrated load** [link](https://bsol.bsigroup.com/Bibliographic/BibliographicInfoData/000000000011167545)
+1. ISO 9882:1993 **Performance standards in building. Performance test for precast concrete floors. Behaviour under non-concentrated load** [link](https://bsol.bsigroup.com/Bibliographic/BibliographicInfoData/000000000011167534)
+
+## Norme UNI
+1. UNI 10807:1999		Ringhiere, balaustre o parapetti prefabbricati - Determinazione della resistenza meccanica ai carichi dinamici [link](http://store.uni.com/catalogo/uni-10807-1999/)
+1. UNI 10809:1999		Ringhiere, balaustre o parapetti prefabbricati - Dimensioni, prestazioni meccaniche e sequenza delle prove [link](http://store.uni.com/catalogo/uni-10809-1999/)
+1. UNI 10805:1999		Ringhiere, balaustre o parapetti prefabbricati - Determinazione della resistenza meccanica a carico statico di colonne e colonne-piantone. [link](http://store.uni.com/catalogo/uni-10805-1999/)
+1. UNI 10806:1999		Ringhiere, balaustre o parapetti prefabbricati - Determinazione della resistenza meccanica ai carichi statici distribuiti. [link](http://store.uni.com/catalogo/uni-10806-1999/)
+1. UNI 10808:1999		Ringhiere, balaustre o parapetti prefabbricati - Determinazione della resistenza meccanica ai carichi statici concentrati sui pannelli [link](http://store.uni.com/catalogo/uni-10808-1999/)
+1. UNI 9053-1:1987		Edilizia. Elementi strutturali prefabbricati o realizzati in sito. Misure per il controllo geometrico dimensionale del singolo elemento. [link](http://store.uni.com/catalogo/uni-9053-1-1987/)
+1. UNI 9053-2:1987		Edilizia. Elementi strutturali prefabbricati o realizzati in sito. Misure per il controllo geometrico dimensionale di elementi in opera.[link](http://store.uni.com/catalogo/uni-9053-2-1987/)
+1. UNI 11417-2:2014		 Durabilità delle opere di calcestruzzo e degli elementi prefabbricati di calcestruzzo - Parte 2: Istruzioni per prevenire la reazione alcali-silice [link](http://store.uni.com/catalogo/uni-ts-11417-2-2014/)
+1. UNI 11417-1:2012		Durabilità delle opere di calcestruzzo e degli elementi prefabbricati di calcestruzzo - Parte 1: Istruzioni per ottenere la resistenza alle azioni aggressive [link](http://store.uni.com/catalogo/uni-11417-1-2012/)
+1. UNI 10961:2001		Scale prefabbricate - Controllo ed etichettatura [link](http://store.uni.com/catalogo/uni-10961-2001/)
+1. UNI 10462:1995		Elementi edilizi. Tolleranze dimensionali. Definizione e classificazione [link](http://store.uni.com/catalogo/uni-10462-1995/)
+
 
