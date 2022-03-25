@@ -44,6 +44,8 @@
 #### Sistemi radianti
 1. pav radianti (OD), materiali compatibili con i sistemi radianti
 ### Riferimenti normativi
+#### generali
+1. ISO 9239-2:2002 Prove di reazione al fuoco dei pavimenti - Parte 1: Valutazione del comportamento al fuoco utilizzando una sorgente di calore radiante
 #### Pavimentazioni in resina
 1. UNI 10966 Sistemi resinosi per superfici orizzontali, verticali e soffitti - Parte 1 : Istruzioni per la progettazione, la posa e la manutenzione
 1. UNI 8298-1 Rivestimenti resinosi per pavimentazioni - Determinazione dell'adesione del rivestimento al supporto.
@@ -55,6 +57,7 @@
 1. ISO 11638:2012 Resilient floor coverings. Heterogeneous poly(vinyl chloride) flooring on foam. Specification.
 1. ISO 10581:2011 Resilient floor coverings. Homogeneous poly(vinyl chloride) floor covering. Specification.
 1. UNI EN ISO 24343-1:2012 Rivestimenti resilienti e laminati per pavimentazioni - Determinazione della penetrazione e dell'impronta residua - Parte 1: Impronta residua
+1. ISO 3813:2004 Resilient floor coverings. Cork floor tiles
 #### Revistimenti lapidei
 1.  UNI 11714:2018, Rivestimenti lapidei di superfici orizzontali, verticali e soffitti - Parte 1: Istruzioni per la progettazione, la posa e la manutenzione
 #### Parquet e pavimentazioni in legno
@@ -64,6 +67,7 @@
 1. UNI 11622 Pavimentazioni di legno e/o a base di legno per interni - Trattamenti di protezione superficiale - Parte 1: Requisiti minimi dei cicli di verniciatura
 1. UNI 11368-2 Pavimentazioni in legno. Posa in opera – Criteri e metodi di valutazione. Parte 2: Posa flottante.
 1. BS EN ISO 6076. Adhesives. Installation of floor coverings, wood flooring, levelling compounds and tiles. Specification of trowel notch sizes
+1. ISO 21629-1:2021 Bamboo floorings. Indoor use
 #### Piastrellature ceramiche
 1. UNI 11493 Piastrellature ceramiche a pavimento e a parete. Parte 1-Istruzioni per la progettazione, l'installazione e la manutenzione.
 #### Pavimentazoni galleggianti
