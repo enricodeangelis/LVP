@@ -17,5 +17,6 @@ http://www.ordineingegnerinapoli.it/news/documenti/corsosismica2007-cmare-fabbro
 
 ## Norme ISO
 1. ISO 20987:2019 **Performance standards in building. Performance test for precast concrete floors. Behaviour under concentrated load** [link](https://bsol.bsigroup.com/Download/SubscriptionPdfDocument?materialNumber=000000000030212172&documentNumber=BS%20EN%2015037-5%3A2013)
-1. 
+1. ISO 9883:1993 **Performance standards in building. Performance test for precast concrete floors. Behaviour under concentrated load** [link] ()
+1. ISO 9882:1993 **Performance standards in building. Performance test for precast concrete floors. Behaviour under non-concentrated load** [link] ()
 
