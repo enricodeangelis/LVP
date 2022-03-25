@@ -8,7 +8,8 @@
  1. Condizioni Generali di Appalto, [link]()
  1. STC - Direzione lavori in presenza di manufatti prefabbricati, [link]()
  1. uni en
- 2. 
+ 2. iso
+ 3. 
 
 https://www.assobeton.it/ASSOBETON/gest_sito.nsf/Document_List.xsp?documentId=D44A77FFB3431928C12583F9003CA1A8
 
