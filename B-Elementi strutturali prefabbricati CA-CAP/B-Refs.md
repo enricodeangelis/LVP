@@ -9,7 +9,9 @@
  1. STC - Direzione lavori in presenza di manufatti prefabbricati, [link]()
  1. uni en
  2. iso
- 3. 
+ 3. ISO 20987:2019
+
+
 
 https://www.assobeton.it/ASSOBETON/gest_sito.nsf/Document_List.xsp?documentId=D44A77FFB3431928C12583F9003CA1A8
 
