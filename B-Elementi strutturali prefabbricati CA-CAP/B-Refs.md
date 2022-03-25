@@ -7,14 +7,15 @@
  1. Strutture prefabbricate: schedario di edifici prefabbricati in c.a., [link]()
  1. Condizioni Generali di Appalto, [link]()
  1. STC - Direzione lavori in presenza di manufatti prefabbricati, [link]()
- 1. uni en
- 2. iso
- 3. ISO 20987:2019
-
-
+ 
 
 https://www.assobeton.it/ASSOBETON/gest_sito.nsf/Document_List.xsp?documentId=D44A77FFB3431928C12583F9003CA1A8
 
 https://www.aitecweb.com/Pubblicazioni/Pubblicazioni-in-vendita
 
 http://www.ordineingegnerinapoli.it/news/documenti/corsosismica2007-cmare-fabbrocino.pdf
+
+## Norme ISO
+1. ISO 12345
+2. ISO 20987:2019 [link] 
+
