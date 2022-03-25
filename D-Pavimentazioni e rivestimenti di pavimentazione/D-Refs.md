@@ -41,7 +41,8 @@
 1. Guida all'siolamento acustico e capitolati tecnici INDEX
 1. Rapporto di prova dell'siolamento acustico via aerea ISTITUTO GIORDANO (OD)
 1. Sistema per l'isolamento acustico contro il rumore di calpestio MAPEI
-
+#### Sistemi radianti
+1. pav radianti (OD), materiali compatibili con i sistemi radianti
 ### Riferimenti normativi
 #### Pavimentazioni in resina
 1. UNI 10966 Sistemi resinosi per superfici orizzontali, verticali e soffitti - Parte 1 : Istruzioni per la progettazione, la posa e la manutenzione
