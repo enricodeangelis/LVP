@@ -49,6 +49,12 @@
 1. UNI 8298-1 Rivestimenti resinosi per pavimentazioni - Determinazione dell'adesione del rivestimento al supporto.
 #### Rivestimenti resilienti e laminati
 1. UNI 11515-1 Rivestimenti resilienti e laminati per pavimentazioni. Parte 1_Istruzioni per la progettazione, la posa e la manutenzione.
+1. UNI EN ISO 26986:2012  Rivestimenti resilienti per pavimentazioni - Rivestimenti per pavimentazioni a base di policloruro di vinile espanso - Specifica
+1. UNI EN ISO 4918:2021 Rivestimenti resilienti, tessili e laminati per pavimentazioni - Prova della sedia con ruote
+1. ISO 16905:2015 Resilient floor coverings. Specification for rubber floor covering
+1. ISO 11638:2012 Resilient floor coverings. Heterogeneous poly(vinyl chloride) flooring on foam. Specification.
+1. ISO 10581:2011 Resilient floor coverings. Homogeneous poly(vinyl chloride) floor covering. Specification.
+1. UNI EN ISO 24343-1:2012 Rivestimenti resilienti e laminati per pavimentazioni - Determinazione della penetrazione e dell'impronta residua - Parte 1: Impronta residua
 #### Revistimenti lapidei
 1.  UNI 11714:2018, Rivestimenti lapidei di superfici orizzontali, verticali e soffitti - Parte 1: Istruzioni per la progettazione, la posa e la manutenzione
 #### Parquet e pavimentazioni in legno
@@ -57,6 +63,7 @@
 1. UNI 11368-1 Pavimentazioni in legno. Posa in opera – Criteri e metodi di valutazione. Parte 1: Posa mediante incollaggio.
 1. UNI 11622 Pavimentazioni di legno e/o a base di legno per interni - Trattamenti di protezione superficiale - Parte 1: Requisiti minimi dei cicli di verniciatura
 1. UNI 11368-2 Pavimentazioni in legno. Posa in opera – Criteri e metodi di valutazione. Parte 2: Posa flottante.
+1. BS EN ISO 6076. Adhesives. Installation of floor coverings, wood flooring, levelling compounds and tiles. Specification of trowel notch sizes
 #### Piastrellature ceramiche
 1. UNI 11493 Piastrellature ceramiche a pavimento e a parete. Parte 1-Istruzioni per la progettazione, l'installazione e la manutenzione.
 #### Pavimentazoni galleggianti
@@ -88,3 +95,5 @@ installazione e controllo dei sistemi di riscaldamento e raffreddamento radianti
 1. D.P.C.M. 5 dicembre 1997 - Determinazione dei requisiti acustici passivi degli edifici Pubblicato in G.U. Serie generale n. 297 del 22 dicembre 1997 (OD di ANIT)
 1. UNI EN 12354-2:2002 Acustica in edilizia - Valutazioni delle prestazioni acustiche di edifici a partire dalle prestazioni di prodotti - Isolamento acustico al calpestio tra ambienti
 1. UNI EN ISO 717-1:2021 Acustica - Valutazione dell'isolamento acustico in edifici e di elementi di edificio - Parte 1: Isolamento acustico per via aerea
+#### Isolanti termici
+ISO 29770:2008 Thermal insulating products for building applications. Determination ofthickness for floating-floor insulating products
