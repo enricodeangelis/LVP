@@ -50,6 +50,19 @@ Per ottenere la ventilazione è necessaria la combinazione di elementi e/o prodo
   * **EN 16798-17** Prestazione energetica degli edifici - Ventilazione per gli edifici - Parte 17: Linee guida per l'ispezione degli impianti di ventilazione e condizionamento dell'aria
   * **CEN/TR 16798-18** Prestazione energetica degli edifici - Ventilazione per gli edifici - Parte 18: Interpretazione dei requisiti nella EN 16798-17
 
+## Componenti
+
+Un sistema VMC è costituito principalmente da:
++ scambiatore di calore;
++ condotte, o canali, di distribuzione;
++ filtri;
++ diffusori;
++ griglie di ripresa.
+
+### Recuperatore di calore
+
+Il recuperatore di calore non è presente in tutti gli impianti di VMC, come nel caso degli impianti a flusso singolo che di conseguenza hanno una efficienza molto ridotta rispetto agli impianti in cui è presente.
+
 ## Specifiche
 
 Tipologie di applicazione o utilizzo specifico
