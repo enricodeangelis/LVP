@@ -59,9 +59,21 @@ Un sistema VMC è costituito principalmente da:
 + diffusori;
 + griglie di ripresa.
 
-### Recuperatore di calore
+### Recuperatore di calore o scambiatore di calore
 
 Il recuperatore di calore non è presente in tutti gli impianti di VMC, come nel caso degli impianti a flusso singolo che di conseguenza hanno una efficienza molto ridotta rispetto agli impianti in cui è presente.
+
+### Canali di Distribuzione
+
+I canali di distribuzione sono necessari per la diffusione dell'aria di mandata e il recupero dell'aria esausta. Esistono una moltitudine di tipologie di condotte che variano in base alla forma, al materiale, alla presenza o meno di isolamento acustico e al tipo dei possibili raccordi.
+
+#### Canali di distribuzione flessibili
+
+Come presente nella norma EN 13180:2004
+
+#### Canali di distribuzione non metallici
+
+#### Canali di distribuzione metallici
 
 ## Specifiche
 
