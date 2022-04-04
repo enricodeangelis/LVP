@@ -56,6 +56,7 @@ https://www.leca.it/download/manuali-e-brochure/
 
 1. *EN 1996-1-1:2013*, Eurocodice 6: Progettazione delle strutture in muratura - Parte 1-1: Regole generali per strutture di muratura armata e non armata
 1. EN 1996-1-2:2005, Eurocodice 6 - Progettazione delle strutture di muratura - Parte 1-2: Regole generali - Progettazione strutturale contro l'incendio
+1. EN 1996-2:2006, Eurocodice 6 - Progettazione delle strutture di muratura - Parte 2: Considerazioni progettuali, selezione dei materiali ed esecuzione delle murature
 1. EN 1996-3:2006, Eurocodice 6 - Progettazione delle strutture di muratura - Parte 3: Metodi di calcolo semplificato per strutture di muratura non armata
 
 > Parola chiave su Norme UNI: Isolanti pareti, pannelli isolanti
