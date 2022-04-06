@@ -40,3 +40,12 @@ La norma specifica i requisiti per gli architravi prefabbricati per luci su pass
 
 ### UNI EN 845-3:2013+A1:2016_Specifica per elementi complementari per muratura - Parte 3: Armatura di acciaio per giunti orizzontali.
 La norma specifica i requisiti delle armature metalliche di giunti orizzontali di muratura per impiego strutturale e non strutturale.
+
+### UNI EN 846-2:2002_Metodi di prova per elementi complementari da muratura - Determinazione della resistenza di aderenza di armature prefabbricate per giunti di malta orizzontali.
+La presente norma è la versione ufficiale in lingua italiana della norma europea EN 846-2 (edizione febbraio 2000). La norma specifica un metodo per determinare la resistenza di aderenza di armature prefabbricate per giunti orizzontali in un provino di muratura ottenuto da elementi e malta specificati.
+
+### UNI EN 846-3:2002_Metodi di prova per elementi complementari da muratura - Determinazione della resistenza a taglio di saldature in armature prefabbricate per giunti di malta.
+La presente norma è la versione ufficiale in lingua italiana della norma europea EN 846-3 (edizione febbraio 2000). La norma specifica un metodo per determinare la resistenza a taglio di saldature in armature prefabbricate per giunti di malta.
+
+### UNI EN 846-5:2012_Metodi di prova per elementi complementari da muratura - Parte 5: Determinazione della capacità portante a trazione e compressione e della curva carico-spostamento di connettori di acciaio in murature a doppia parete (prova sulla coppia).
+La presente norma è la versione ufficiale della norma europea EN 846-5 (edizione agosto 2012). La norma specifica un metodo per determinare la capacità portante a trazione e compressione e della curva carico-spostamento di connettori di acciaio in murature a doppia parete.
