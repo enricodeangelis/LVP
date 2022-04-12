@@ -1,4 +1,4 @@
-UNI 10399
+**UNI 10399**
 
 1. Classificazione degli imapianti: 
 Gli impianti areaulici sono classificati secondo un codice alfanumerico composto da una lettera seguita da 3 cifre
@@ -9,6 +9,15 @@ Gli impianti areaulici sono classificati secondo un codice alfanumerico composto
 Inoltre poddono svolgere funzioni di: filtrazione, riscaldamento, raffrescamento, umidificazione e deumidificazione.
 
 2. Requisiti minimi:
+2.1. condizioni di qualità e movimento dell'aria (cap 9.1.1.):
+ - portate di aria estrna in edifici abitativi ad uso civile Q0p= 5,5-11*10^(-3) m^3/s;
+ - portate di aria estrna in edifici abitativi ad uso civile Q0s= 16,5*10^(-3) m^3/s;
+ - movimento dell'aria Vmax=0,3 m/s lontano dai luogni di normale presenza di persone. 
+2.2. condizioni termiche e igrometriche dell'aria specifiche delle funzioni assegnate
+- temperatura bulbo secco estrna;
+- umidità relativa esterna 60%;
+- temperatura bulbo secco interna max 20 °C;
+- umidità relativa einterna 35-45%;
 
 3. Richieste minime del committente:
 - offerta
@@ -23,3 +32,7 @@ Capitolato, specifiche tecniche e disegni esecutivi.
 - parametri termoigrometrici e velocità dell'aria nella zona occupata e corrispondenti valori esterni di progetto.
 
 5. Condizioni da rispettare:
+APPENDICE A: indici di affollamento;
+APPENDICE B: indici di accettabilità aria esterna;
+APPENDICE C: velocità dellaria nel volume convenzionalemte occupato;
+APPENDICE D: condizioni termoigrometriche esterne estive di progetto;
