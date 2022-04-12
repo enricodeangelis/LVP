@@ -1,1 +1,25 @@
 UNI 10399
+
+1. Classificazione degli imapianti: 
+Gli impianti areaulici sono classificati secondo un codice alfanumerico composto da una lettera seguita da 3 cifre
+- X=impianti di climatizzazione, Y=imp. di termoventilazione e Z=imp. per ventilazione;
+- 0=servizio permanente, 1=servizio invernale e 2=servizio estivo;
+- 0=funzionamento continuo, 1=funzionamento discontinuo periodico e 2=funzionamento discontinuo aperiodico;
+- 0=trattamento centralizzato, 1=trattamento centralizzato ad aria estrena e 2=trattamento locale;
+Inoltre poddono svolgere funzioni di: filtrazione, riscaldamento, raffrescamento, umidificazione e deumidificazione.
+
+2. Requisiti minimi:
+
+3. Richieste minime del committente:
+- offerta
+Disegni planimetrici, sezioni e prospetti corredati del necessasio pe rpoter calcolare l'impianto (orientamenti, carichi...)
+- progetto di massima 
+Quanto previsto dall'offerta più capitolato e disegni del progetto.
+- progetto esecutivo
+Capitolato, specifiche tecniche e disegni esecutivi.
+
+4. Indicazioni minime del fornitore:
+- portata d'aria esterna;
+- parametri termoigrometrici e velocità dell'aria nella zona occupata e corrispondenti valori esterni di progetto.
+
+5. Condizioni da rispettare:
