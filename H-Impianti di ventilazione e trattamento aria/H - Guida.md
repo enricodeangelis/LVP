@@ -1,4 +1,4 @@
-# OBIETTIVO: rendere sistematica la verifica del progetto e strumentarla. Rispondiamo alle domande con la normativa#
+# OBIETTIVO: rendere sistematica la verifica del progetto e strumentarla. Rispondiamo alle domande con la normativa
 
 LA TIPOLOGIA DI SISTEMA è RICONOSCIBILE?
 
