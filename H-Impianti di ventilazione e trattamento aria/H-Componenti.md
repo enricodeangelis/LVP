@@ -1,4 +1,4 @@
-## Componenti
+## **Componenti**
 
 Un sistema VMC è costituito principalmente da:
 + scambiatore di calore;
@@ -43,3 +43,22 @@ Per scegliere il filtro migliore, bisogna controllare non solo l'efficienza di f
 Un altro aspetto che bisogna controllare che sia stato preso in esame è la manutenzione di tali filtri, poichè è necessario prevedere una sostituzione almeno ogni 6 mesi o anche più spesso se in zone molto inquinate.
 
 ### Diffusori
+
+I diffusori sono fondamentali per la distribuzione dell'aria nei vari ambienti.
+Dei diffusori dimensionati nel modo sbagliato o di una tipologia sbagliata possono creare disagi.
+
+Per evitare possibili errori è necessario che il progettista prenda in esame i seguenti punti, come da norma **EN 12238**:
+
+* Tipologia del diffusore:
+ * Classe I Il flusso è essenzialmente tridimensionale (ugelli, griglie)
+ * Classe II Il getto fluisce radialmente lungo una superficie o a getto libero (diffusori a soffitto)
+ * Classe III Il flusso è essenzialmente bidimensionale (griglie lineari, diffusori lineari)
+ * Classe IV Diffusori a bassa velocità
+* Velocità dell'aria di immisione;
+* Temperatura dell'aria di immisione;
+* Pressione dell'aria di immisione;
+
+### Griglie di ripresa
+
+Queste componenti sono costituite da semplici griglie, formate da elementi a maglia o lineari ed hanno lo scopo opposto dei diffusori, cioè il recupero dell'aria esausta dal locale per indirizzarla verso il recuperatore di calore.
+Per evitare possibili problemi di sovrapressione è necessario che le griglie di ripresa abbiano una portata uguale ai diffusori e che non siano posizionate vicino ad essi.
