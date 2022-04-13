@@ -3,7 +3,7 @@
 LA TIPOLOGIA DI SISTEMA è RICONOSCIBILE?
 
 **UNI 10399**
-1. Classificazione degli imapianti:
+1. Classificazione degli impianti:
 Gli impianti areaulici sono classificati secondo un codice alfanumerico composto da una lettera seguita da 3 cifre
 - X=impianti di climatizzazione, Y=imp. di termoventilazione e Z=imp. per ventilazione;
 - 0=servizio permanente, 1=servizio invernale e 2=servizio estivo;
