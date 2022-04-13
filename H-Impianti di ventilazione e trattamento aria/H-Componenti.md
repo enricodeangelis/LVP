@@ -38,6 +38,12 @@ In generale i principali aspetti che bisogna controllare in un progetto di un im
 
 I filtri dell'aria sono una delle componenti fondamentale nei sistemi di VMC, poichè eliminano gli inquinanti presenti nell'aria, o ne riducono le concentrazioni a livelli accettabili.
 
+Per la norma **UNI-10339** l'efficienza di filtrazione viene determinata in accordo alla classificazione contenuta nella seguente immagine.
+
+![Immagine 2022-04-13 172102.png](H-Impianti di ventilazione e trattamento aria\Immagini\Immagine 2022-04-13 172102.png)
+
+Ogni filtro avente una data efficienza di filtrazione deve essere preceduto da un filtro avente efficienza compresa nella categoria precedente.
+
 Per scegliere il filtro migliore, bisogna controllare non solo l'efficienza di filtrazione, ma tenere conto anche della quantità d'aria che deve essere cambiata necessariamente ogni ora e le condizioni dell'aria esterna al locale interessato.
 
 Un altro aspetto che bisogna controllare che sia stato preso in esame è la manutenzione di tali filtri, poichè è necessario prevedere una sostituzione almeno ogni 6 mesi o anche più spesso se in zone molto inquinate.
