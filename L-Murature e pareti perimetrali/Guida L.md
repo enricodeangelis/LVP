@@ -11,6 +11,7 @@ Inizialmente vi sarà un breve excursus su cos’è una parete perimetrale e i s
 - UNI EN 771-4: Specifica per elementi per muratura – Parte 4: Elementi per muratura di calcestruzzo aerato autoclavato
 - UNI EN 771-5: Specifica per elementi per muratura – Parte 5: Elementi per muratura di pietra agglomerata
 - UNI EN 771-6: Specifica per elementi per muratura – Parte 6: Elementi per muratura di pietra naturale
+- NTC 2018
 
 ## PARETE PERIMETRALE
 La parete perimetrale costituisce l’elemento di separazione tra l’ambiente interno ed esterno; essa deve rispondere a determinati requisiti prestazionali che garantiscono il soddisfacimento di diverse esigenze quali sicurezza, benessere termo-igrometrico, purezza dell’aria, isolamento acustico, aspetto, esigenze tattili, durabilità ed attrezzabilità.
@@ -25,7 +26,7 @@ Ogni requisito è meglio descritto in diversi decreti e normative riportate in �
 ### Opere murarie
 La stratigrafia di una parete perimetrale varia a seconda delle esigenze, che dipendono principalmente dall’ambiente a cui saranno sottoposte, dal costo e da tanti altri fattori.
 
-Questo capitolo è incentrato sulla muratura, parte centrale di una parete verticale. La muratura può essere **portante** o **portata** a seconda delle funzioni a cui deve assolvere: la **muratura portante** rappresenta lo scheletro di una costruzione sostenendo il peso dei carichi sovrastanti conducendo il loro peso su una struttura di fondazione; **la muratura portata** ha la funzione di solo comfort; infatti, la resistenza meccanica deve essere garantita solo per il peso proprio e a differenza di quelle portanti possono essere rimosse o spostate durante gli interventi edilizi.
+Questo capitolo è incentrato sulla muratura, parte centrale di una parete verticale. La muratura può essere **portante** o **di tamponamento** a seconda delle funzioni a cui deve assolvere: la **muratura portante** rappresenta lo scheletro di una costruzione sostenendo il peso dei carichi sovrastanti conducendo il loro peso su una struttura di fondazione; **le muratura di tamponamento** sono realizzate a tamponamento di un'altra struttura alla quale è attribuita la funzione portante. Tale muratura ha la funzione di solo comfort: infatti, la resistenza meccanica deve essere garantita solo per il peso proprio (deve essere quindi comunque prevista l'armatura verticale e orizzontale quali pilatrini e corree) e a differenza di quelle portanti possono essere rimosse o spostate durante gli interventi edilizi.
 
 Una seconda distinzione la si può fare considerando i blocchi da qui è composta:
 
@@ -44,7 +45,7 @@ La normativa è divisa in sei parti qui di seguito elencate:
 - La **UNI EN 771-5** specifica le caratteristiche e i requisiti prestazionali degli **elementi per muratura di pietra agglomerata** le cui principali destinazioni d’uso sono le costruzioni murarie di rivestimento o esposte in applicazioni edili e di ingegneria civile strutturali e non strutturali. Tali elementi sono idonei per tutte le forme di costruzioni murarie organizzate in corsi o casuali, compresi muri a parete semplice, cavità, tramezzi, muri di sostegno e la muratura esterna dei camini. Possono fornire protezione all’incendio, isolamento termico, isolamento acustico e assorbimento acustico.
 - La **UNI EN 771-6** specifica le caratteristiche ed i requisiti prestazionali degli **elementi per muratura di pietra naturale** il cui spessore è uguale o maggiore di 80 mm, utilizzati in strutture di muratura portanti e non portanti, per applicazioni interne o esterne.
 
-#### Muratura di laterizio
+#### Blocchi di laterizio
 Il laterizio è un prodotto in materiale ceramico a pasta porosa. A seconda della loro forma e dimensione sono classificati in:
 - **Mattone pieno**, quelli con foratura minore di 15% e densità compresa tra 1300 kg/m3 e 1800 kg/m3 (per realizzazione di muri portanti);
 - **Mattone semipieno**, alleggeriti da una serie di fori di varia forma, la percentuale di fori è compresa tra il 15 e il 45%.
@@ -73,10 +74,12 @@ Il produttore, per garantire la conformità dei propri prodotti, dovrà dichiara
 - **permeabilità al vapore acqueo**
 - **forza di adesione** – l’aderenza laterizio-malta viene dichiarata sulla base di valori fissi (UNI EN 998-2:2010 – appendice C) o sulla base di prove (UNI EN 1052-3).
 
-### Muratura in calcestruzzo vibrocompresso
+#### Blocchi in calcestruzzo vibrocompresso
 Il blocco in calcestruzzo vibrocompresso è un elemento in calcestruzzo di forma parallelepipeda; si dividono in quattro differenti tipologie:
 - **Blocco da intonaco**: destinato, una volta in opera, ad essere rivestito con intonaco e pertanto dotato di superfici adeguatamente scabre.
-![Blocco da intonaco](Immagini\Blocco da intonaco.png)
+
+![Blocco da intonaco](https://www.btmnedilizia.it/foto/grandi/blocco-cemento-da-intonacare.png)
+
 - **Blocco faccia a vista per intonaco**: destinato a rimanere in vista una volta posato in opera, avrà specifiche caratteristiche estetiche, cromatiche ed un'omogeneità di tessitura superficiale.
 - **Blocco faccia a vista per esterni**: destinato ad essere utilizzato in pareti esposte agli agenti atmosferici senza intonaco, avrà specifiche caratteristiche estetiche, cromatiche ed un'omogeneità di tessitura superficiale.
 - **Blocco portante**: per le sue caratteristiche e per i controlli a cui è assoggettato è idoneo per la costruzione di murature portanti.
@@ -90,6 +93,25 @@ architravi.
 - **Blocco cassero**: predisposto per essere riempito, una volta in opera, da un getto di calcestruzzo, eventualmente armato, per realizzare setti verticali.
 - **Blocco pilastro**: predisposto per essere riempito, una volta in opera, da un getto di calcestruzzo, eventualmente armato, per realizzare pilastri all’interno della muratura.
 
+Il produttore, per garantire la conformità dei propri prodotti, dovrà dichiarare, in entrambi i casi:
+- **dimensioni** e **tolleranze**
+- **configurazione** – **forma**, volume di tutti i vuoti in funzione della destinazione, spessore setti esterni e interni e percentuale di foratura
+- **massa volumica** – sarà dichiarato il valore netto e lordo;
+- **resistenza a compressione** – qualora attinente per l’utilizzo, il produttore deve dichiarare le resistenze a compressione medie o normalizzate (se rilevanti) valutate, rispettando precise condizioni al contorno, nel senso dei fori e in senso ortogonale ai fori nel piano del muro. Inoltre, il fabbricante deve dichiarare se l’elemento per muratura di laterizio sia di Categoria I o di Categoria II. E più precisamente:
+  - *categoria I*: se gli elementi possiedono una resistenza a compressione dichiarata con probabilità di insuccesso nel raggiungerla non maggiore del 5% (valore medio fbm, o valore caratteristico fbk);
+  - *categoria II*: se gli elementi non soddisfano lo stesso livello di sicurezza della categoria I.
+- **proprietà termiche** – il produttore deve indicare il valore medio della conducibilità termica λ10,dry,unit o, in alternativa dichiarare il valore della densità “asciutta” lorda e netta. Quando rilevante può essere fornita la capacità termica.
+- **durabilità** – **resistenza al gelo/disgelo** (valutabile secondo la metodologia valida nel luogo di utilizzo, se l’elemento non è protetto dalla penetrazione dell’acqua);
+- **assorbimento d’acqua** – nessun requisito previsto;
+- **contenuto di sali solubili attivi** – la classificazione di tabella prevede, in relazione alla percentuale dei solfati, l’assegnazione di un codice alfanumerico (S0, S1 o S2);
+- **dilatazione dovuta all’umidità** – se prevista;
+- **reazione al fuoco** – valutabile in relazione alla quantità (% di massa o volume) dei materiali organici presenti nel prodotto;
+- **permeabilità al vapore acqueo**
+- **forza di adesione** – l’aderenza laterizio-malta viene dichiarata sulla base di valori fissi (UNI EN 998-2:2010 – appendice C) o sulla base di prove (UNI EN 1052-3).
+(Da rivedere)
+#### Blocchi in calcestruzzo aerato autoclavato (AAC)
+#### Blocchi in silicato di calcio
+#### Malta 
 
 NTC 2018
 Le costruzioni di muratura devono essere realizzate nel rispetto di quanto contenuto nelle presenti Norme Tecniche ai §§ 4.5 e 11.10. Il rispetto di tali requisiti consente di classificare le costruzioni in muratura come moderatamente dissipative e quindi appartenenti alla classe di duttilità CD”B”.
