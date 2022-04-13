@@ -24,7 +24,11 @@ Esistono varie tipologie di canali, le principali sono le seguenti:
 * Canali di distribuzione non metallici;
 * Canali di distribuzione metallici.
 
-Le tipologie non si limitano soltanto in base al materiale di cui sono fatte, ma anche se sono o meno flessibili. Tutte queste tipologie
+Le tipologie non si limitano soltanto in base al materiale di cui sono fatte, ma anche se sono o meno flessibili.
+
+La scelta dei canali di distribuzione viene influenzata molto dalla velocità dell'aria, che varia secondo l'appendice C della norma **UNI 10339** visibile nella seguente immagine.
+
+![Appendice_C_10339](https://github.com/LuPo98/LVP/blob/main/H-Impianti%20di%20ventilazione%20e%20trattamento%20aria/Immagini/Appendice_C_10339.png)
 
 In generale i principali aspetti che bisogna controllare in un progetto di un impianto di ventilazione e trattamento aria per quanto riguarda i canali di distribuzione sono i seguenti:
 
@@ -44,6 +48,10 @@ Per la norma **UNI-10339** l'efficienza di filtrazione viene determinata in acco
 
 Ogni filtro avente una data efficienza di filtrazione deve essere preceduto da un filtro avente efficienza compresa nella categoria precedente.
 
+La filtrazione deve essere prevista sia per l'aria esterna che sull'aria di ricircolo. Di rilevante importanza è la posizione dei filtri, che devono essere posti in modo che il tratto finale non possa compromettere la qualità dell'aria raggiunta con eventuali sorgenti di polvere a valle dei filtri.
+
+Per la scelta del filtro è necessario conoscere la qualità dell'aria esterna e ricircolata, nonchè le caratteristiche dell'unità di trattamento.
+
 Per scegliere il filtro migliore, bisogna controllare non solo l'efficienza di filtrazione, ma tenere conto anche della quantità d'aria che deve essere cambiata necessariamente ogni ora e le condizioni dell'aria esterna al locale interessato.
 
 Un altro aspetto che bisogna controllare che sia stato preso in esame è la manutenzione di tali filtri, poichè è necessario prevedere una sostituzione almeno ogni 6 mesi o anche più spesso se in zone molto inquinate.
@@ -52,6 +60,8 @@ Un altro aspetto che bisogna controllare che sia stato preso in esame è la manu
 
 I diffusori sono fondamentali per la distribuzione dell'aria nei vari ambienti.
 Dei diffusori dimensionati nel modo sbagliato o di una tipologia sbagliata possono creare disagi.
+
+Secondo la norma **UNI 10339** i diffusori possono essere installati nei locali di stazionamento, purchè la loro ubicazione sia più lontana possibile dai luoghi di normale permanenza delle persone. In questi casi la velocità massima consentita è pari a 0,30 m/s in corrispondenza della superficie luogo dei punti distanti 0,60 m dal perimetro della griglia.
 
 Per evitare possibili errori è necessario che il progettista prenda in esame i seguenti punti, come da norma **EN 12238**:
 
