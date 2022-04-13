@@ -40,7 +40,7 @@ I filtri dell'aria sono una delle componenti fondamentale nei sistemi di VMC, po
 
 Per la norma **UNI-10339** l'efficienza di filtrazione viene determinata in accordo alla classificazione contenuta nella seguente immagine.
 
-![Immagine 2022-04-13 172102](Immagini/Immagine 2022-04-13 172102.png)
+![Tabella_filtri](/H-Impianti di ventilazione e trattamento aria/Immagini/Tabella_filtri.png)
 
 Ogni filtro avente una data efficienza di filtrazione deve essere preceduto da un filtro avente efficienza compresa nella categoria precedente.
 
