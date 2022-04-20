@@ -42,6 +42,25 @@ In generale i principali aspetti che bisogna controllare in un progetto di un im
 
 I filtri dell'aria sono una delle componenti fondamentale nei sistemi di VMC, poichè eliminano gli inquinanti presenti nell'aria, o ne riducono le concentrazioni a livelli accettabili.
 
+Esistono vari tipi di filtri che si possono distinguere in base al tipo di telaio:
+
+* Cartone
+* Carta trattata con resine
+* Cartone plastificato
+* Metallo (alluminio, lamiera zincata)
+
+In base ai materiali filtranti:
+
+* Fibra di vetro trattata con residenziale
+* Fibra sintetica
+* Carta pieghettata
+
+In base alla Tipologia
+
+* Impianti
+* Ondulati
+* A tasche 
+
 Per la norma **UNI-10339** l'efficienza di filtrazione viene determinata in accordo alla classificazione contenuta nella seguente immagine.
 
 ![Tabella_filtri](https://github.com/LuPo98/LVP/blob/main/H-Impianti%20di%20ventilazione%20e%20trattamento%20aria/Immagini/Tabella_filtri.png)
