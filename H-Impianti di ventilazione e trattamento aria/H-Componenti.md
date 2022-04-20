@@ -1,4 +1,4 @@
-## **Componenti**
+## **<font color="teal">Componenti</font>**
 
 Un sistema VMC è costituito principalmente da:
 + scambiatore di calore;
@@ -59,7 +59,7 @@ In base alla Tipologia
 
 * Impianti
 * Ondulati
-* A tasche 
+* A tasche
 
 Per la norma **UNI-10339** l'efficienza di filtrazione viene determinata in accordo alla classificazione contenuta nella seguente immagine.
 
