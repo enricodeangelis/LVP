@@ -8,6 +8,7 @@ Per ottenere la ventilazione è necessaria la combinazione di elementi e/o prodo
  1. **UNI 11541:2014** Ventilazione degli edifici - Requisiti di progettazione, installazione ed esercizio degli impianti di ventilazione e climatizzazione a servizio degli ambienti in cui sia consentito fumare
  1. **UNI 11254:2007** Filtri per aria elettrostatici attivi per la ventilazione generale - Determinazione della prestazione di filtrazione
  1. **ISO 16814:2008** Building environment design. Indoor air quality. Methods of expressing the quality of indoor air for human occupancy.
+ 1. **EN ISO 16890** Filtri d'aria per ventilazione generale
  1. **EN ISO 16032:2005** Acustica - Misurazione del livello di pressione sonora di impianti tecnici in edifici - Metodo tecnico progettuale
  1. **EN 15251:2008** Criteri per la progettazione dell'ambiente interno e per la valutazione della prestazione energetica degli edifici, in relazione alla qualità dell'aria interna, all'ambiente termico, all'illuminazione e all'acustica
  1. **EN 13053:2020** Ventilazione degli edifici - Unità di trattamento dell'aria - Classificazioni e prestazioni per le unità, i componenti e le sezioni
