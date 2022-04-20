@@ -48,7 +48,7 @@ Per la norma **UNI-10339** l'efficienza di filtrazione viene determinata in acco
 
 Ogni filtro avente una data efficienza di filtrazione deve essere preceduto da un filtro avente efficienza compresa nella categoria precedente. Questa classificazione è però stata sostituita dalla classificazione contenuta nella norma **EN ISO 16890** come visibile nella tabella sottostante.
 
-![Filtri_16890]()
+![Filtri_16890](https://github.com/LuPo98/LVP/blob/main/H-Impianti%20di%20ventilazione%20e%20trattamento%20aria/Immagini/Filtri_16890.png)
 
 La filtrazione deve essere prevista sia per l'aria esterna che sull'aria di ricircolo. Di rilevante importanza è la posizione dei filtri, che devono essere posti in modo che il tratto finale non possa compromettere la qualità dell'aria raggiunta con eventuali sorgenti di polvere a valle dei filtri.
 
