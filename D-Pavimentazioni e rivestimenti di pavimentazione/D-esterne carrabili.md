@@ -16,7 +16,7 @@ Il minore costo di manutenzione deriva da un’altra proprietà della tipologia,
 Altre caratteristica da sottolineare è la capacità filtrante, che permette all’acqua piovana di passare attraverso il massello, senza dovere usare sistemi di raccolta dell’acqua superficiale. Questa proprietà è di beneficio al mantenimento della falda, preoccupazione crescente in questi anni, e alla prevenzione del ruscellamento delle acque meteoriche, soprattutto durante eventi di forte intensità, che possono creare pericoli alla circolazione e danni ai manufatti.
 ### Sezione tipo della pavimentazione in opera
 Lo schema seguente illustra una sezione tipo di una pavimentazione in masselli autobloccanti: le definizioni sono quelle riportate nelle normative nazionali:
-<![Masselli autobloccanti cls sezione tipica](D-Pavimentazioni e rivestimenti di pavimentazione\D-immagini\MasselliClsSezionetipo.png)>
+<![Masselli autobloccanti cls sezione tipica](https://github.com/RDalloca/LVP/blob/main/D-Pavimentazioni%20e%20rivestimenti%20di%20pavimentazione/D-immagini/MasselliClsSezionetipo.png)>
 1. Cordolo*: sequenza di elementi perimetrali aventi la funzione di contenere ed opporsi alla spinta esercitata dai masselli.
 2. Giunto*: interspazio esistente tra massello e gli elementi di contorno e/o inseriti nell’area pavimentata.
 3. Rivestimento (Masselli)*: strato di finitura avente la funzione di conferire alla pavimentazione determinate caratteristiche e prestazioni meccaniche, chimiche, fisiche, ergonomiche, estetiche, di durabilità, ecc.
