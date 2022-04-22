@@ -15,7 +15,7 @@ L’elevata durabilità, caratteristica dei masselli in calcestruzzo, porta ad u
 Il minore costo di manutenzione deriva da un’altra proprietà della tipologia, ovvero la facilità di rimozione e sostituzione. Negli interventi di manutenzione è infatti possibile rimuovere una parte di pavimentazione, perché ammalorata oppure per accedere alla rete sottoservizi, facilmente e senza il ricorso a macchinari rumorosi. I masselli asportati, ad eccezione delle unità eventualmente ammalorate, possono essere riutilizzati in fase di ripristino riportando la pavimentazione alle condizioni iniziali, senza lasciare, come avviene ad esempio per i manti bituminosi, tracce antiestetiche dell’intervento, che possono anche causare problemi alla viabilità stradale.
 Altre caratteristica da sottolineare è la capacità filtrante, che permette all’acqua piovana di passare attraverso il massello, senza dovere usare sistemi di raccolta dell’acqua superficiale. Questa proprietà è di beneficio al mantenimento della falda, preoccupazione crescente in questi anni, e alla prevenzione del ruscellamento delle acque meteoriche, soprattutto durante eventi di forte intensità, che possono creare pericoli alla circolazione e danni ai manufatti.
 ### Sezione tipo della pavimentazione in opera
-Lo schema seguente illustra una sezione tipo di una pavimentazione in masselli autobloccanti: le definizioni sono quelle riportate nelle normative nazionali:
+Lo schema seguente illustra una sezione tipo di una pavimentazione in masselli autobloccanti: le definizioni sono quelle riportate nelle normative nazionali (* definizione secondo la norma UNI 11241; ** definizione secondo la norma UNI 7998):
 ![Masselli autobloccanti cls sezione tipica](https://github.com/RDalloca/LVP/blob/main/D-Pavimentazioni%20e%20rivestimenti%20di%20pavimentazione/D-immagini/MasselliClsSezionetipo.png)
 1. Cordolo*: sequenza di elementi perimetrali aventi la funzione di contenere ed opporsi alla spinta esercitata dai masselli.
 2. Giunto*: interspazio esistente tra massello e gli elementi di contorno e/o inseriti nell’area pavimentata.
@@ -25,7 +25,5 @@ Lo schema seguente illustra una sezione tipo di una pavimentazione in masselli a
 vapori. Nota: lo strato drenante è generalmente realizzato dalla massicciata ove richiesto ovvero dall’allettamento di posa.
 6. Massicciata**: mono o pluristrato avente la funzione di trasmettere al suolo le sollecitazioni meccaniche impresse dai carichi alla pavimentazione.
 7. Suolo (Fondazione)**: strato del terreno avente la funzione di resistere alle sollecitazioni impresse dai carichi alla pavimentazione.
-(*) definizione secondo la norma UNI 11241
-(**) definizione secondo la norma UNI 7998
 ## RIFERIMENTI
 1. Guida pratica ASSOBETON https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:cf5e08b7-1912-3345-93c4-6c06d47c911c
