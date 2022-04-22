@@ -4,7 +4,7 @@
 ### Documenti produttori e associazioni di produttori
 1. Codice di buona pratica CONPAVIPER (OD)
 #### pavimentazioni in calcestruzzo
-1. Codice di pratica CECCOONI 2222  per la posa in opera di masselli autobloccanti in calcestruzzo  (OD)
+1. Codice di pratica CECCONI 2222  per la posa in opera di masselli autobloccanti in calcestruzzo  (OD)
 1. Codice di pratica COLOMBO 2222  per la manutenzione di masselli autobloccanti in calcestruzzo (OD)
 1. Catalogo COLOMBO 2222  per il dimensionamento di pavimentazioni in masselli autobloccanti in calcestruzzo in ambito urbano (OD)
 1. Linee Guida PILOTTI 2011  per la determinazione della capacità drenante delle pavimentazioni modulari in calcestruzzo (OD)
