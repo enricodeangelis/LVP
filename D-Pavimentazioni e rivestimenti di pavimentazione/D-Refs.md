@@ -46,6 +46,8 @@
 ### Riferimenti normativi
 #### generali
 1. ISO 9239-2:2002 Prove di reazione al fuoco dei pavimenti - Parte 1: Valutazione del comportamento al fuoco utilizzando una sorgente di calore radiante
+#### Pavimentazioni in masselli in cls
+BS EN 1338 Concrete paving blocks — Requirements and test methods
 #### Pavimentazioni in resina
 1. UNI 10966 Sistemi resinosi per superfici orizzontali, verticali e soffitti - Parte 1 : Istruzioni per la progettazione, la posa e la manutenzione
 1. UNI 8298-1 Rivestimenti resinosi per pavimentazioni - Determinazione dell'adesione del rivestimento al supporto.
