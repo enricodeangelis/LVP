@@ -90,6 +90,14 @@ piastrellature ceramiche
 1. UNI 10329 Posa dei rivestimenti di pavimentazione. Misurazione del contenuto di umidità negli strati di supporto cementizi o simili.
 1. UNI EN 196-1 Metodi di prova dei cementi - Parte 1: Determinazione delle resistenze meccaniche.
 1. Linee Guida Valutazione delle caratteristiche del CLS in opera
+#### Sottofondi con aggregati grossi e fini
+1. UNI EN 1097-2 Tests for mechanical and physical properties of aggregates
+2. BS EN 933-1 Tests for geometrical properties of aggregates. Determination of particle size distribution
+3. BS EN 933-5 Tests for geometrical properties of aggregates. Determination of percentage of crushed and broken surfaces in coarse aggregate particles
+4. UNI EN 1367-1 Tests for thermal and weathering properties of aggregates. Determination of resistance to freezing and thawing
+5. UNI EN 933-8 Tests for geometrical properties of aggregates. Assessment of fines. Sand equivalent test
+6.  CNR UNI 10014:1964 Prove sulle terre. Determinazione dei limiti di consistenza (o di Atterberg) di una terra.
+7.  NI EN 933-10:2009 Prove per determinare le caratteristiche geometriche degli aggregati - Parte 10: Valutazione dei fini - Granulometria dei filler (setacciatura a getto d'aria
 #### Sistemi impiantistici pavimento
 1. UNI EN ISO 11855-5 Progettazione dell'ambiente costruito - Progettazione, dimensionamento,
 installazione e controllo dei sistemi di riscaldamento e raffreddamento radianti integrati - Parte 5: Installazione.
