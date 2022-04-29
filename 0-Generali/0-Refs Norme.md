@@ -13,6 +13,7 @@ dovrà essere ripartita tra i gruppi tematici (12) con una prima classificazione
      * Parte 1:2021 Criteri generali di progettazione e caratterizzazione del materiale
      * Parte 2:2021 Progetto di componenti di vetro caricati ortogonalmente alla superficie
      * Parte 3:2021 Progettazione di componenti di vetro caricati nel piano medio e dei loro ritegni meccanici
+     * parte 4
  1. EN 12056, Sistemi di scarico funzionanti a gravità all'interno degli edifici.
      * Parte 2:2001, Impianti per acque reflue, progettazione e calcolo
      * Parte 3:2001, Sistemi per l'evacuazione delle acque meteoriche, progettazione e calcolo
@@ -167,6 +168,9 @@ UNI 11454:2012, Manutenzione - La manutenzione nella progettazione di un bene fi
  1. UNI 11617:2016, Pavimenti modulari sopraelevati amovibili interni - Istruzioni alla progettazione, per l'installazione e la manutenzione
  1. UNI 11673, Posa in opera di serramenti
      * Parte 1:2017 Requisiti e criteri di verifica della progettazione
+     * Parte 2:2019 Requisiti di conoscenza, abilità e competenza del posatore di serramenti
+     * Parte 3:2019, Requisiti minimi per l'erogazione di corsi di istruzione e formazione non formale per installatori/posatori di serramenti
+     * Parte 4:2021, Requisiti e criteri di verifica dell'esecuzione
  1. UNI 11675:2017, Mobili - Progettazione di arredi e i loro approcci per soddisfare le esigenze di tutte le persone - Requisiti
  1. UNI 11681:2017, Rinnovamento di tubazioni esistenti mediante inserimento e polimerizzazione di un tubo composito plastico impregnato di resina - Elementi di progettazione ed installazione
  1. UNI 11714, Rivestimenti lapidei di superfici orizzontali, verticali e soffitti

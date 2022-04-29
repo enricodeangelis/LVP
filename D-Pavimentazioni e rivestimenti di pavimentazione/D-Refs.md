@@ -23,8 +23,9 @@
 1. Linee Guida CONPAVIPER per la prescrizione, posa, controlli, verifica finale e manutenzione dei rivestimenti resinosi continui (OD)
 1. Pavimenti in resina codice di buona pratica CONPAVIPER (OD)
 1. BASF CC – Ucrete – PoliuretanoCemento (OD)
+
 #### Revistimenti lapidei
-1. Istruzioni per la progettazione la posa e la manutenzionedei rivestimenti lapidei per le pavimentazioni UNI
+1. Istruzioni per la progettazione la posa e la manutenzione dei rivestimenti lapidei per le pavimentazioni UNI
 1. La posa dei materiali lapidei MAPEI- Materiali e sistemi per la posa corretta di materiali lapidei naturali e ricomposti (OD)
 1. La posa sicura del rivestimento ceramico e lapideo TORGGLER (OD)
 #### Parquet e pavimentazioni in legno
@@ -110,4 +111,8 @@ installazione e controllo dei sistemi di riscaldamento e raffreddamento radianti
 1. UNI EN 12354-2:2002 Acustica in edilizia - Valutazioni delle prestazioni acustiche di edifici a partire dalle prestazioni di prodotti - Isolamento acustico al calpestio tra ambienti
 1. UNI EN ISO 717-1:2021 Acustica - Valutazione dell'isolamento acustico in edifici e di elementi di edificio - Parte 1: Isolamento acustico per via aerea
 #### Isolanti termici
-ISO 29770:2008 Thermal insulating products for building applications. Determination ofthickness for floating-floor insulating products
+ISO 29770:2008 Thermal insulating products for building applications. Determination of thickness for floating-floor insulating products
+
+### TODO: le seguenti linee sono risultate da un conflitto di merge, vanno rivalutate
+1. Pavimenti in resina per parcheggi MAPEI
+1. Pavimenti industriali in calcestruzzo   https://www.pavimentiindustriali.com/download
