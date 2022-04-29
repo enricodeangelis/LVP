@@ -22,15 +22,15 @@ E' UN SISTEMA ADEGUATO PER L'INTERVENTO?
 **UNI 10399**
 
 1. Requisiti minimi:
-   1.1. condizioni di qualità e movimento dell'aria (cap 9.1.1.):
-        - portate di aria esterna in edifici abitativi ad uso civile Q0p= 5,5-11*10^(-3) m^3/s;
-        - portate di aria esterna in edifici abitativi ad uso civile Q0s= 16,5*10^(-3) m^3/s;
-        - movimento dell'aria Vmax=0,3 m/s lontano dai luoghi di normale presenza di persone.
-   1.2. condizioni termiche e igrometriche dell'aria specifiche delle funzioni assegnate
-        - temperatura bulbo secco esterna;
-        - umidità relativa esterna 60%;
-        - temperatura bulbo secco interna max 20 °C;
-        - umidità relativa interna 35-45%;
+   1. condizioni di qualità e movimento dell'aria (cap 9.1.1.):
+      - portate di aria esterna in edifici abitativi ad uso civile Q0p= 5,5-11*10^(-3) m^3/s;
+      - portate di aria esterna in edifici abitativi ad uso civile Q0s= 16,5*10^(-3) m^3/s;
+      - movimento dell'aria Vmax=0,3 m/s lontano dai luoghi di normale presenza di persone.
+   1. condizioni termiche e igrometriche dell'aria specifiche delle funzioni assegnate
+      - temperatura bulbo secco esterna;
+      - umidità relativa esterna 60%;
+      - temperatura bulbo secco interna max 20 °C;
+      - umidità relativa interna 35-45%;
 2. Condizioni da rispettare:
    1. APPENDICE A: indici di affollamento;
    1. APPENDICE B: indici di accettabilità aria esterna;
