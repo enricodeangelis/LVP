@@ -41,16 +41,13 @@ I DOCUMENI FORNITI SONO SUFFICENTI PER DESCRIVERE IL SISTEMA ADEGUATAMENTE?
 
 **UNI 10399**
 
-1. Richieste minime del committente:
-- offerta
-Disegni planimetrici, sezioni e prospetti corredati del necessario pe poter calcolare l'impianto (orientamenti, carichi...)
-- progetto di massima
-Quanto previsto dall'offerta più capitolato e disegni del progetto.
-- progetto esecutivo
-Capitolato, specifiche tecniche e disegni esecutivi.
-2. Indicazioni minime del fornitore:
-- portata d'aria esterna;
-- parametri termoigrometrici e velocità dell'aria nella zona occupata e corrispondenti valori esterni di progetto.
+1. Richieste minime del committente
+   - offerta: Disegni planimetrici, sezioni e prospetti corredati del necessario pe poter calcolare l'impianto (orientamenti, carichi...)
+   - progetto di massima: Quanto previsto dall'offerta più capitolato e disegni del progetto.
+   - progetto esecutivo: Capitolato, specifiche tecniche e disegni esecutivi.
+2. Indicazioni minime del fornitore
+   - portata d'aria esterna;
+   - parametri termoigrometrici e velocità dell'aria nella zona occupata e corrispondenti valori esterni di progetto.
 
 {>> TODO:
 I PRODOTTI SONO AGEGUATAMENTE/CORRETTEMANTE DESCRITTI NEGLI ELABORATI?
