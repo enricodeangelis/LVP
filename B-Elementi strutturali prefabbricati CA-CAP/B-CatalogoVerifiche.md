@@ -29,16 +29,30 @@ Verificare la presenza della descrizione delle modalità di approvazione da part
 
 - dPR 207-2010 Art.43
 
+## [Codice] - [TODO Titolo breve]
+
+Classe: [TODO]
+
+[Descrizione]
+
+### Riferimenti
+
+- Primo riferimento
+
 
 ## TODO: Elenco delle verifiche da codificare
 
 
 Verificare che la relazione precisi le caratteristiche illustrate negli elaborati grafici e le prescrizioni del capitolato speciale d'appalto riguardanti le modalità di presentazione e approvazione dei componenti da utilizzare
+
 Verificare la presenza degli elaborati atti a definire le caratteristiche dimensionali, prestazionali e di assemblaggio dei componenti prefabbricati
+
 Verficare che siano prescritte le tolleranze dimensionali di produzione secondo quanto raccomandato al paragrafo 4.3.1.1 della EN 13369
+
 Verificare che siano prescritte le tolleranze per le caratteristiche superficiali del prodotto finito, in termini di valori dimensionali come raccomandati dall'Allegato H al punto 4 della EN 13369. Superfici appositamente trattate, ad esempio con aggregati a vista, lucidati, gettati tramite matrice, ecc. Non sono coperti da queste raccomandazioni di tolleranza
+
 Verificare che tutte le proprietà strutturali del prodotto siano verificate in termini di SLE e di SLU
-"Verificare che le proproetà meccaniche siano verificate secondo uno due seguenti modi:
+"Verificare che le proprietà meccaniche siano verificate secondo uno due seguenti modi:
 1. calcolo: seguendo EUROCODICE 2 (EN 1992-1-1) o le norme vigenti valide nel luogo di utilizzo (nel caso italia NTC 2018);
 2.calcolo con prove fisiche: nel caso diregole di progettazione alternative alle norme citate prima, o nel caso di disposizioni strutturali con modelli di progettazione insoliti;
 3. prove: su campioni presi seguendo criteri statistici adeguati"
