@@ -73,11 +73,11 @@ controlli di cui ai seguenti contenuti della verifica concorrono a determinare s
 
 I controlli di cui ai seguenti contenuti della verifica concorrono a determinare se la progettazione degli impianti e degli elementi tecnici consenta la loro ispezionabilità e/o controllabilità e la possibilità di essere riportati rapidamente in condizione operative, a fronte di guasti o di manutenzione programmata, sulla base delle procedure e risorse prescritte nel piano di manutenzione ovvero nel quadro esigenziale espresso dalla Stazione Appaltante
 
-I.1	Verifica di controllabilità e ispezionabilità degli impianti, dei subsistemi tecnologici e degli elementi tecnici
-I.2	Verifica sulla possibilità d'intervento sugli impianti e sugli elementi tecnici per la pulizia, riprazione e sostituzione degli elementi tecnici
-I.3	Verifica dell’esaustività del piano di manutenzione in ordine alle procedure d'ispezione e/o controllo e modalità di ripristino delle condizione operative, a fronte di guasti o di manutenzione programmata degli impianti e degli elementi tecnici
-I.4	Verifica di attendibilità della programmazione dei controlli e delle ispezioni
-I.5	Verifica di attendibilità della programmazione degli interventi di manutenzione programmata
+- I.1	Verifica di controllabilità e ispezionabilità degli impianti, dei subsistemi tecnologici e degli elementi tecnici
+- I.2	Verifica sulla possibilità d'intervento sugli impianti e sugli elementi tecnici per la pulizia, riprazione e sostituzione degli elementi tecnici
+- I.3	Verifica dell’esaustività del piano di manutenzione in ordine alle procedure d'ispezione e/o controllo e modalità di ripristino delle condizione operative, a fronte di guasti o di manutenzione programmata degli impianti e degli elementi tecnici
+- I.4	Verifica di attendibilità della programmazione dei controlli e delle ispezioni
+- I.5	Verifica di attendibilità della programmazione degli interventi di manutenzione programmata
 
 ### L.	UNITA’ PROGETTUALE
 
