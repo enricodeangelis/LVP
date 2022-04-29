@@ -4,6 +4,8 @@
 
 Classe: A.2
 
+Competenza: RUOLO_DA_DEFINIRE
+
 Verificare la presenza di precisazioni in merito alle caratteristiche principali, descrittive e prestazionali, dei componenti prefabbricati
 
 ### Riferimenti
