@@ -45,5 +45,5 @@ vapori. Nota: lo strato drenante è generalmente realizzato dalla massicciata ov
 
 ## RIFERIMENTI
 
-1. Guida pratica ASSOBETON https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:cf5e08b7-1912-3345-93c4-6c06d47c911c
-2. Codice di buona pratica ASSOBETON (https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:b6e3f534-7fbc-3bb0-b84d-5ad63a20d565)
+1. [Guida pratica ASSOBETON](https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:cf5e08b7-1912-3345-93c4-6c06d47c911c)
+2. [Codice di buona pratica ASSOBETON](https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:b6e3f534-7fbc-3bb0-b84d-5ad63a20d565)
