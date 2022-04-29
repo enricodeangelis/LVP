@@ -2,9 +2,7 @@
 
 ## B1 - Presenza Precisazioni
 
-Classe: A.2
-
-Competenza: RUOLO_DA_DEFINIRE
+Classe: A.2; Competenza: RUOLO_DA_DEFINIRE; Elementi coinvolti: PR*
 
 Verificare la presenza di precisazioni in merito alle caratteristiche principali, descrittive e prestazionali, dei componenti prefabbricati
 
