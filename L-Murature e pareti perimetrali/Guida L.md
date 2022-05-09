@@ -11,68 +11,72 @@ Inizialmente vi sarà un breve excursus su cos’è una parete perimetrale e i s
 - UNI EN 771-4: Specifica per elementi per muratura – Parte 4: Elementi per muratura di calcestruzzo aerato autoclavato
 - UNI EN 771-5: Specifica per elementi per muratura – Parte 5: Elementi per muratura di pietra agglomerata
 - UNI EN 771-6: Specifica per elementi per muratura – Parte 6: Elementi per muratura di pietra naturale
-- NTC 2018
+- UNI EN 998-2:2016: Specifiche per malte per opere murarie - Parte 2: Malte da muratura
+- Norme Tecniche per le costruzioni – Decreto 17 gennaio 2018
+
 
 ## PARETE PERIMETRALE
 La parete perimetrale costituisce l’elemento di separazione tra l’ambiente interno ed esterno; essa deve rispondere a determinati requisiti prestazionali che garantiscono il soddisfacimento di diverse esigenze quali sicurezza, benessere termo-igrometrico, purezza dell’aria, isolamento acustico, aspetto, esigenze tattili, durabilità ed attrezzabilità.
-
-I requisiti prestazionali sono definiti all’interno della norma UNI 7959 oppure UNI 8290(?). La normativa descrive ogni requisito indicando i criteri di valutazione della prestazione ed evidenziando le correlazioni esistenti tra il requisito e le stratificazioni funzionali del sistema di chiusura che maggiormente contribuiscono al suo soddisfacimento. Si possono dunque distinguere quattro macrocategorie di requisiti:
--	**Requisiti legati alla sicurezza**: resistenza meccanica ai carichi statici e dinamici, resistenza agli urti, resistenza al fuoco, resistenza al vento e protezione dalle intrusioni;
--	**Requisiti legati al benessere**: isolamento termico, isolamento acustico, tenuta all’acqua e all’aria, aspetto estetico, controllo del rischio di condensazione interstiziale;
--	**Requisiti legati alla conservazione**: resistenza agli agenti aggressivi, al gelo, allo shock termico, all’irraggiamento solare, stabilità chimica e morfologica;
--	**equisiti legati alla funzionalità costruttiva**: manutenibilità, riparabilità, sostituibilità, integrazione con gli impianti.
-Ogni requisito è meglio descritto in diversi decreti e normative riportate in “riferimenti normativi”. (bisogna ampliare questa parte).
+La norma UNI EN 7959 definisce i criteri di valutazione e gli elementi o strati interessati per ciascuno dei requisiti.  I requisiti sono individuati in base alle rispettive classi di esigenza elencate nella parte sottostante:
+-	**Requisiti legati alla sicurezza**: nel soddisfacimento di questa classe di esigenze rientrano i requisiti attivati da agenti che mettono in causa la stabilità della parete perimetrale o attentano in altro modo alla sicurezza degli occupanti:
+  -	resistenza meccanica ai carichi statici;
+  -	resistenza meccanica ai carichi sospesi;
+  - resistenza meccanica ai carichi dinamici;
+  -	resistenza agli urti;
+  -	comportamento in caso di incendio;
+  -	resistenza alle deformazioni.
+-	**Requisiti legati al benessere**: concorrono al soddisfacimento di questa classe di esigenze i requisiti relativi al benessere termoigrometrico, acustico e alla non emissione di sostanze nocive. In relazione alle condizioni climatiche e ambientali la parete perimetrale deve permettere lo svolgimento dell’attività interna nelle specifiche condizioni igrotermiche e di benessere acustico richieste. Sono requisiti legati alla destinazione d’uso, la determinazione dei valori delle prestazioni richieste varia in base ad essa. Per quanto riguarda gli edifici di abitazione e a quelli con caratteristiche ed esigenze più prossime (uffici, scuole etc.), i requisiti sono:
+ -	permeabilità all’aria;
+ -	tenuta all’acqua;
+ -	isolamento termico e controllo delle condensazioni superficiali;
+ -	controllo dell’inerzia termica;
+ -	isolamento acustico;
+ -	controllo delle condensazioni interstiziali;
+ -	non rumorosità;
+ -	assorbimento acustico.
+ -	non emissione di sostanze nocive;
+ -	Requisiti legati all’aspetto: strettamente legata alla concezione architettonica, alla scelta dei materiali e al tipo di finitura superficiale della parete;
+-	**Requisiti legati alla fruibilità**: rientrano in questa classe esigenziale i requisiti legati all’organizzazione degli spazi interni ed esterni dell’edificio:
+ -	attrezzabilità.
+-	**Requisiti legati alla gestione**: in questa classe sono comprese le esigenze legate al risparmio dell’energia di climatizzazione e di economia delle spese di gestione che si presentano nel corso della durata di vita e di esercizio della parete:
+ -	contenimento dei consumi energetici;
+ -	durabilità e manutenzione.
 
 ### Opere murarie
-La stratigrafia di una parete perimetrale varia a seconda delle esigenze, che dipendono principalmente dall’ambiente a cui saranno sottoposte, dal costo e da tanti altri fattori.
+Questo capitolo è incentrato sulla muratura, una tipologia di strato resistente della parete verticale. La muratura può essere di tamponamento o portante a seconda delle funzioni a cui deve assolvere: la muratura di tamponamento ha la funzione di sopportare i carichi dovuti al peso degli strati ad esso vincolati, i sovraccarichi dovuti alla pressione e depressione del vento, e di trasmettere alla struttura portante dell’edificio. Deve inoltre resistere agli urti che possono prodursi all’interno e all’esterno della parete stessa; a differenza di quelle portanti possono essere rimosse o spostate durante gli interventi edilizi. La muratura portante oltre alle funzioni descritte per la muratura portata, assolve funzioni statiche rispetto all’equilibrio complessivo dell’edificio. Deve essere calcolato per sopportare i carichi propri e di esercizio complessivi della costruzione.
 
-Questo capitolo è incentrato sulla muratura, parte centrale di una parete verticale. La muratura può essere **portante** o **di tamponamento** a seconda delle funzioni a cui deve assolvere: la **muratura portante** rappresenta lo scheletro di una costruzione sostenendo il peso dei carichi sovrastanti conducendo il loro peso su una struttura di fondazione; **le muratura di tamponamento** sono realizzate a tamponamento di un'altra struttura alla quale è attribuita la funzione portante. Tale muratura ha la funzione di solo comfort: infatti, la resistenza meccanica deve essere garantita solo per il peso proprio (deve essere quindi comunque prevista l'armatura verticale e orizzontale quali pilatrini e corree) e a differenza di quelle portanti possono essere rimosse o spostate durante gli interventi edilizi.
+Una seconda distinzione la si può fare considerando i blocchi da cui è composta:
+- Murature **semplici**: costituite da blocchi da intonaco o faccia vista idonei per realizzare pareti portanti, di tamponamento o semplici divisori.
+- Murature **doppie**: costituite da due pareti di blocchi separate da una camera d’aria.
+- Murature **armate**: costituite da blocchi con particolari armature orizzontali e verticali, risultano idonee per applicazioni in zone sismiche.
+- Murature **cassero**: costituite da blocchi cassero opportunamente riempiti di calcestruzzo ed adeguatamente armati per sostenere elevate sollecitazioni trasmesse da carichi distribuiti evitando l’utilizzo di opere di casseratura.
 
-Una seconda distinzione la si può fare considerando i blocchi da qui è composta:
+Prima di procedere alla stesura delle verifiche necessarie alla validazione di queste due tipologie di muratura vengono descritti brevemente quelli che sono i materiali, più in uso, che compongono tale strato della parete perimetrale. Un’opera muraria può essere composta da elementi in laterizio oppure da elementi in calcestruzzo, entrambi collegati tra loro da malta. Le caratteristiche e i requisiti prestazionali che gli elementi della muratura devono soddisfare sono descritti nella norma UNI EN 77-1 per quanto riguarda il laterizio, e nelle norme UNI EN 771-3 e UNI EN 771-4 per quanto riguarda il calcestruzzo. Le malte per muratura prodotte in fabbrica e le malte semifinite prodotte in fabbrica devono essere in conformità alla EN 998-2. La malta per muratura prodotta in cantiere deve essere in conformità alla EN 1996-2. La malta per muratura premiscelata a base di calce e sabbia deve essere in conformità alla EN 998-2 e deve essere utilizzata in conformità alla EN 998-2.
 
-- **Murature semplici**: costituite da blocchi da intonaco o faccia vista idonei per realizzare pareti portanti, di tamponamento o semplici divisori.
-- **Murature doppie**: costituite da due pareti di blocchi separate da una camera d’aria.
-- **Murature armate**: costituite da blocchi con particolari armature orizzontali e verticali, risultano idonee per applicazioni in zone sismiche.
-- **Murature cassero**: costituite da blocchi cassero opportunamente riempiti di calcestruzzo ed adeguatamente armati per sostenere elevate sollecitazioni trasmesse da carichi distribuiti evitando l’utilizzo di opere di casseratura.
+#### Laterizio
+Il laterizio è un prodotto in materiale ceramico a pasta porosa. A seconda della loro forma e dimensione sono classificati in mattoni e blocchi: i mattoni sono di forma generalmente parallelepipeda con volume inferiore a 5500 cm3, mentre i blocchi hanno, come i mattoni, forma parallelepipeda, ma volume maggiore o uguale a 5500cm3. Per quanto riguarda la percentuale di foratura, è espressa dalla relazione φ=100 F/A (dove F è l’area complessiva dei fori passanti e profondi non passanti e A è l’area lorda della faccia dell’elemento di muratura delimitata dal suo perimetro) e sono classificati in:
+- **Mattoni pieni**, quelli con foratura minore o uguale al 15% e densità compresa tra 1300 kg/m3 e 1800 kg/m3 (sigla MP o MPR per rivestimento);
+- **Mattoni e blocchi semipieni**, alleggeriti da una serie di fori di varia forma, la percentuale di fori è compresa tra il 15 e il 45%.
+- **Mattoni e blocchi forati**, presenza di fori longitudinali e sezione generalmente rettangolare. La frazione vuoto/pieno è molto maggiore di quella relativa ai mattoni semipieni. (percentuale di fori maggiore del 45%) Adatti per la realizzazione di divisori e tamponamenti. Presentano le facce rigate per migliorare l’aderenza alla malta dell’intonaco.
 
-La UNI EN 771 distingue sei diverse tecnologie costruttive e ne specifica le caratteristiche e i requisiti prestazionali da soddisfare a seconda della loro composizione.
+La NTC impone una distanza minima tra i fori interni di 7mm e una distanza minima dal bordo esterno al foro più vicino al netto dell’eventuale rigatura di 10mm.
 
-La normativa è divisa in sei parti qui di seguito elencate:
-- La **UNI EN 771-1** specifica le caratteristiche e i requisiti prestazionali per **elementi per muratura fabbricati con laterizio** per l'utilizzo in costruzioni di muratura. Essa definisce le prestazioni relative per esempio alle tolleranze dimensionali, alla resistenza, alla massa volumica misurate secondo i corrispondenti metodi di prova contenuti in altre norme europee.
-- La **UNI EN 771-2** specifica le caratteristiche ed i requisiti prestazionali per **elementi per muratura di silicato di calcio**, le cui principali destinazioni d'uso sono le pareti interne ed esterne, le cantine, le fondazioni e le canne fumarie, compresi quelli aventi forma parallelepipeda non rettangolare, forme speciali ed elementi complementari.
-- La **UNI EN 771-3** specifica le caratteristiche e i requisiti prestazionali degli **elementi per muratura di calcestruzzo vibrocompresso** realizzati con aggregati pesanti e leggeri oppure da una loro combinazione, per i quali i principali impieghi previsti sono murature di edifici o di opere di ingegneria civile con o senza capacità portante.
-- La **UNI EN 771-4** specifica le caratteristiche e i requisiti prestazionali degli **elementi per muratura di calcestruzzo aerato autoclavato (AAC)** le cui principali destinazioni d'uso sono differenti tipi di applicazioni strutturali e non strutturali in tutte le forme di costruzioni murarie inclusi muri a parete semplice, cavità, tramezzi, muri di sostegno, basamenti e impieghi sotterranei, compresi muri che possono fornire protezione all'incendio, isolamento termico, isolamento acustico e muratura esterna dei camini (esclusi i condotti dei camini). Include inoltre i requisiti di marcatura.
-- La **UNI EN 771-5** specifica le caratteristiche e i requisiti prestazionali degli **elementi per muratura di pietra agglomerata** le cui principali destinazioni d’uso sono le costruzioni murarie di rivestimento o esposte in applicazioni edili e di ingegneria civile strutturali e non strutturali. Tali elementi sono idonei per tutte le forme di costruzioni murarie organizzate in corsi o casuali, compresi muri a parete semplice, cavità, tramezzi, muri di sostegno e la muratura esterna dei camini. Possono fornire protezione all’incendio, isolamento termico, isolamento acustico e assorbimento acustico.
-- La **UNI EN 771-6** specifica le caratteristiche ed i requisiti prestazionali degli **elementi per muratura di pietra naturale** il cui spessore è uguale o maggiore di 80 mm, utilizzati in strutture di muratura portanti e non portanti, per applicazioni interne o esterne.
+A seconda della posizione di giacitura in opera gli elementi in laterizio si classificano in:
+- Mattoni e blocchi a **fori verticali**: prodotti destinati ad essere posati con la foratura ortogonale al piano orizzontale di posa;
+- Mattoni e blocchi a **fori orizzontali**: prodotti destinati ad essere posati con la foratura parallela al piano orizzontale di posa;
 
-#### Blocchi di laterizio
-Il laterizio è un prodotto in materiale ceramico a pasta porosa. A seconda della loro forma e dimensione sono classificati in:
-- **Mattone pieno**, quelli con foratura minore di 15% e densità compresa tra 1300 kg/m3 e 1800 kg/m3 (per realizzazione di muri portanti);
-- **Mattone semipieno**, alleggeriti da una serie di fori di varia forma, la percentuale di fori è compresa tra il 15 e il 45%.
-- **Mattoni da facciata** hanno le stesse dimensioni di quelli semipieni, ma sono realizzati con materiali scelti, spigoli perfetti e dimensioni uniformi;
-- **Mattone semipieno doppio**
-- **Mattoni forati**, presenza di fori longitudinali e sezione generalmente rettangolare.La frazione vuoto/pieno è molto maggiore di quella relativa ai mattoni semipieni. (percentuale di fori maggiore del 45%). Adatti per la realizzazione di divisori e tamponamenti. Presentano le facce rigate per migliorare l’aderenza alla malta dell’intonaco.
-- **Blocchi forati** per murature, di diverse forme e dimensioni a seconda dell’uso, si differenziano dai mattoni perché hanno un volume maggiore di 5500cm3. Anche loro possono essere utilizzati come elementi resistenti per la realizzazione di murature portanti purché la frazione vuoto/pieno non superi il 55%.
+A seconda dell’orientamento con cui il mattone o il blocco viene posizionato, si ottengono giaciture e spessori diversi:
+- **in foglio** o **di costa** quando si vogliono ottenere contenuti spessori di parete;
+- **a una testa** o **in spessore** quando si vuole contenere lo spessore della muratura ma allo stesso tempo ottenere una maggiore stabilità;
+- **a due teste** quando si vogliono ottenere murature di un consistente spessore;
+- **a tre o più teste** quando lo spessore deve essere di notevoli dimensioni.
 
-Nella norma UNI 771-1, invece, sono classificati in relazione alla loro massa ed esposizione:
-- *elementi LD (low density)* – elementi da impiegare in murature protette dalla penetrazione dell’acqua, con massa volumica a secco lorda ≤ 1000 kg/m3;
-- *elementi HD (high density)* – elementi da impiegare in murature non protette dalla penetrazione dell’acqua nonché in murature protette esterne (con idoneo rinzaffo o mediante rivestimento) od interne con elevata massa volumica a secco lorda > 1000 kg/m3
+Le opere murarie in laterizio possono essere suddivise in:
+- **Muratura monostrato**: struttura realizzata o con mattoni tradizionali, in opera a una o più teste, o con blocchi a tutto spessore di muro. Per questa tipologia, gli elementi in laterizio assumono generalmente e contemporaneamente funzioni statiche, termoisolanti e di protezione acustica, con diversi livelli di prestazione in funzione dello spessore, della tecnologia costruttiva adottata e dei requisiti prestazionali richiesti.
+- **Muratura a doppio strato**: struttura realizzata da doppio strato di mattoni o blocchi. I due strati possono essere divisi da una intercapedine contenente o meno un isolamento termico specifico.
+- **Murature armate**: vengono utilizzati elementi in laterizio appositamente disegnati per gli alloggiamenti delle armature e il getto di conglomerato. I diversi sistemi disponibili (ad armatura diffusa o concentrata, con blocchi a fori verticali o orizzontali, ecc.), regolamentati dalla normativa nazionale ed europea, sono in grado di assicurare prestazioni di duttilità superiori alla muratura ordinaria. Di fatto, seguendo i criteri di progetto, i requisiti e i metodi di analisi, fissati dalle suddette norme, sono realizzabili in zona sismica edifici in muratura armata senza vincolo sul numero di piani, a patto che siano soddisfatte tutte le verifiche di sicurezza. Per gli edifici “semplici” in muratura portante (ossia per costruzioni che presentino precise condizioni di regolarità geometrica e particolari limitazioni dimensionali), invece, sono ammesse verifiche in via semplificata (fig. 7) e la possibilità di costruire fino a quattro piani nel caso della muratura armata (fino a tre piani per edifici in muratura ordinaria).
 
-Il produttore, per garantire la conformità dei propri prodotti, dovrà dichiarare, in entrambi i casi:
-- **dimensioni** e **tolleranze**
-- **configurazione** – **forma**, volume di tutti i vuoti in funzione della destinazione, spessore setti esterni e interni e percentuale di foratura
-- **massa volumica** – sarà dichiarato il valore netto e lordo;
-- **resistenza a compressione** – qualora attinente per l’utilizzo, il produttore deve dichiarare le resistenze a compressione medie o normalizzate (se rilevanti) valutate, rispettando precise condizioni al contorno, nel senso dei fori e in senso ortogonale ai fori nel piano del muro. Inoltre, il fabbricante deve dichiarare se l’elemento per muratura di laterizio sia di Categoria I o di Categoria II. E più precisamente:
-  - *categoria I*: se gli elementi possiedono una resistenza a compressione dichiarata con probabilità di insuccesso nel raggiungerla non maggiore del 5% (valore medio fbm, o valore caratteristico fbk);
-  - *categoria II*: se gli elementi non soddisfano lo stesso livello di sicurezza della categoria I.
-- **proprietà termiche** – il produttore deve indicare il valore medio della conducibilità termica λ10,dry,unit o, in alternativa dichiarare il valore della densità “asciutta” lorda e netta. Quando rilevante può essere fornita la capacità termica.
-- **durabilità** – **resistenza al gelo/disgelo** (valutabile secondo la metodologia valida nel luogo di utilizzo, se l’elemento non è protetto dalla penetrazione dell’acqua);
-- **assorbimento d’acqua** – nessun requisito previsto;
-- **contenuto di sali solubili attivi** – la classificazione di tabella prevede, in relazione alla percentuale dei solfati, l’assegnazione di un codice alfanumerico (S0, S1 o S2);
-- **dilatazione dovuta all’umidità** – se prevista;
-- **reazione al fuoco** – valutabile in relazione alla quantità (% di massa o volume) dei materiali organici presenti nel prodotto;
-- **permeabilità al vapore acqueo**
-- **forza di adesione** – l’aderenza laterizio-malta viene dichiarata sulla base di valori fissi (UNI EN 998-2:2010 – appendice C) o sulla base di prove (UNI EN 1052-3).
+Un ulteriore classificazione la si può fare a seconda delle caratteristiche estetiche; i mattoni e blocchi da paramento sono realizzate in modo da essere posti in opera faccia a vista senza intonaco, hanno quindi caratteristiche particolari rispetto ai mattoni e blocchi comuni denominati “comuni”.
 
 #### Blocchi in calcestruzzo vibrocompresso
 Il blocco in calcestruzzo vibrocompresso è un elemento in calcestruzzo di forma parallelepipeda; si dividono in quattro differenti tipologie:
@@ -111,7 +115,7 @@ Il produttore, per garantire la conformità dei propri prodotti, dovrà dichiara
 (Da rivedere)
 #### Blocchi in calcestruzzo aerato autoclavato (AAC)
 #### Blocchi in silicato di calcio
-#### Malta 
+#### Malta
 
 NTC 2018
 Le costruzioni di muratura devono essere realizzate nel rispetto di quanto contenuto nelle presenti Norme Tecniche ai §§ 4.5 e 11.10. Il rispetto di tali requisiti consente di classificare le costruzioni in muratura come moderatamente dissipative e quindi appartenenti alla classe di duttilità CD”B”.
