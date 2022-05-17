@@ -7,6 +7,7 @@ Classe: A.2; Competenza: RUOLO_DA_DEFINIRE; Elementi coinvolti: PR*
 Verificare la presenza di precisazioni in merito alle caratteristiche principali, descrittive e prestazionali, dei componenti prefabbricati
 
 ### Riferimenti
+
 - dPR 207-2010 Art.43
 
 ## B2 - Omologazione
