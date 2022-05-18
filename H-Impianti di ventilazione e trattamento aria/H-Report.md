@@ -14,6 +14,7 @@
 ### AP_AER_1.2
 >
 >Individuazione delle attività svolte negli ambienti.
+>
 >#### DOCUMENTAZIONE ESAMINATA
 >
 >#### ESITO VERIFICA
@@ -49,7 +50,7 @@
 
 ### AC_AER_1.1
 
->Presenza di una indicazione riguardante il valore di rumore accettabile prodotto dall'impianto nel capitolato speciale o nella relazione impiantistica.
+>Presenza di una indicazione riguardante il valore di dB accettabile prodotto dall'impianto come da EN 13141-7 e EN 13141-11 e EN 13142.
 >
 >#### DOCUMENTAZIONE ESAMINATA
 >
@@ -59,7 +60,7 @@
 
 ### AC_AER_1.2
 
->Presenza di supporti antivibrazione per il recuperatore di calore.
+>Presenza di supporti antivibrazione per il recuperatore di calore conformi alla norma UNI EN-ISO 9001.
 >
 >#### DOCUMENTAZIONE ESAMINATA
 >
@@ -89,7 +90,7 @@
 
 ### AC_AER_1.5
 
->Presenza di silenziatori all'interno dei canali di distribuzione.
+>Presenza di silenziatori all'interno dei canali di distribuzione secondo la norma EN 14163.
 >
 >#### DOCUMENTAZIONE ESAMINATA
 >
@@ -99,7 +100,7 @@
 
 ### AC_AER_1.6
 >
->Utilizzo di condotte fonoassorbenti.
+>Utilizzo di condotti fonoassorbenti secondo la classificazione EN 15727.
 >
 >#### DOCUMENTAZIONE ESAMINATA
 >
@@ -109,7 +110,7 @@
 
 ### AC_AER_1.7
 
->Assenza di curve strette o strozzature.
+>Assenza di curve strette o riduzione della sezione maggiore del 20%.
 >
 >#### DOCUMENTAZIONE ESAMINATA
 >
@@ -119,7 +120,7 @@
 
 ### AC_AER_1.8
 
->Presenza di guarnizioni nei raccordi tra canali di distribuzione.
+>Presenza di guarnizioni nei raccordi tra canali di distribuzione secondo la norma EN 12237.
 >
 >#### DOCUMENTAZIONE ESAMINATA
 >
@@ -129,7 +130,7 @@
 
 ### AC_AER_1.9
 
->Indicazione nel capitolato o nella relazione impiantistica del tipo di diffusore.
+>Indicazione nel capitolato o nella relazione impiantistica del tipo di diffusore secondo la norma EN 12238.
 >
 >#### DOCUMENTAZIONE ESAMINATA
 >
@@ -161,7 +162,7 @@
 
 ### EN_AER_1.1
 
->Indicazione nella relazione impiantistica o nel capitolato speciale della tipologia di recuperatore di calore.
+>Indicazione nella relazione impiantistica o nel capitolato speciale della tipologia di recuperatore di calore secondo la norma UNI 10339
 >
 >#### DOCUMENTAZIONE ESAMINATA
 >
@@ -181,7 +182,7 @@
 
 ### EN_AER_1.3
 
->Indicazione nella relazione impiantistica o nel capitolato della forma, tipologia e isolamento delle condotte.
+>Indicazione nella relazione impiantistica o nel capitolato della forma, tipologia e isolamento delle condotte secondo la classificazione contenuta nella norma EN 15727.
 >
 >#### DOCUMENTAZIONE ESAMINATA
 >
@@ -191,7 +192,7 @@
 
 ### EN_AER_1.4
 
->Indicazione nella relazione impiantistica o nel capitolato della tipologia di filtri per le possibili perdite di carico.
+>Indicazione nella relazione impiantistica o nel capitolato della tipologia di filtri per le possibili perdite di carico secondo la norma EN ISO 16890 1-4.
 >
 >#### DOCUMENTAZIONE ESAMINATA
 >
@@ -213,7 +214,7 @@
 
 ### ANT_AER_1.1
 
->Indicazione nella relazione impiantistica o nel capitolato dei materiali delle componenti.
+>Indicazione nella relazione impiantistica o nel capitolato dei materiali delle componenti secondo la norma EN 15423.
 >
 >#### DOCUMENTAZIONE ESAMINATA
 >
@@ -233,7 +234,7 @@
 
 ### ANT_AER_1.3
 
->Indicazione nella relazione impiantistica o nel capitolato dei metodi di alimentazione.
+>Indicazione nella relazione impiantistica o nel capitolato dei metodi di alimentazione dell'impianto.
 >
 >#### DOCUMENTAZIONE ESAMINATA
 >
@@ -245,7 +246,7 @@
 
 ### QA_AER_1.1
 
->Indicazione nella relazione impiantistica dei possibili inquinanti presenti nell'aria.
+>Indicazione nella relazione impiantistica dei possibili inquinanti presenti nell'aria secondo la norma ISO 16814.
 >
 >#### DOCUMENTAZIONE ESAMINATA
 >
@@ -264,7 +265,7 @@
 
 ### QA_AER_1.3
 
->Indicazione nella relazione impiantistica dei filtri previsti in relazione alla posizione dell'edificio e alle attività svolte all'interno.
+>Indicazione nella relazione impiantistica dei filtri previsti in relazione alla posizione dell'edificio e alle attività svolte all'interno secondo la norma EN ISO 16890.
 >
 >#### DOCUMENTAZIONE ESAMINATA
 >
@@ -322,7 +323,7 @@
 >
 >#### NOTE
 
-## INTEGRAZIONE IMPIANTISTICA
+## INTEGRABILITÀ IMPIANTISTICA
 
 ### II_AER_1.1
 
@@ -356,7 +357,7 @@
 
 ### II_AER_1.4
 
->Indicazione nella relazione impiantistica su qualità e quantità delle staffature.
+>Indicazione nella relazione impiantistica su qualità e quantità delle staffature come da norma EN 12236.
 >
 >#### DOCUMENTAZIONE ESAMINATA
 >
