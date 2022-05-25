@@ -62,6 +62,8 @@ Una seconda distinzione la si può fare considerando l’apparecchiatura muraria
 -	Murature **a doppia parete**: con ciò s'intendono murature realizzate in due strati distanziati. Generalmente si tratta di uno strato con funzioni portanti ed un altro con funzioni isolanti oppure di fodera. Il vantaggio di questa tipologia è proprio quello di riuscire a garantire un buon isolamento termico tramite un’intercapedine d’aria (che già di per sé apporta dei miglioramenti sotto questo punto di vista) riempita con materiali isolanti in grani o in pannelli.
 -	Murature **armate**: vengono utilizzati blocchi appositamente disegnati per gli alloggiamenti di armature, orizzontali e verticali, ed il getto di conglomerato. I diversi sistemi disponibili (ad armatura diffusa o concentrata, con blocchi a fori verticali o orizzontali, ecc.), regolamentati dalla normativa nazionale ed europea, sono in grado di assicurare prestazioni di duttilità superiori alla muratura ordinaria. Di fatto, seguendo i criteri di progetto, i requisiti e i metodi di analisi, fissati dalle suddette norme, sono realizzabili in zona sismica edifici in muratura armata senza vincolo sul numero di piani, a patto che siano soddisfatte tutte le verifiche di sicurezza. Per gli edifici “semplici” in muratura portante (ossia per costruzioni che presentino precise condizioni di regolarità geometrica e particolari limitazioni dimensionali), invece, sono ammesse verifiche in via semplificata (fig. 7) e la possibilità di costruire fino a quattro piani nel caso della muratura armata (fino a tre piani per edifici in muratura ordinaria).
 
+**N.B.** La guida L non fa riferimento alla distinzione indicata nel paragrafo precedente in quanto le verifiche elementari dovranno essere applicate a tutte queste apparecchiature murarie.
+
 Le verifiche elementari sono state redatte solamente per i materiali più in uso, di seguito descritti, e per la muratura in sé.
 
 Un’opera muraria può essere composta da elementi resistenti in laterizio o in calcestruzzo, entrambi collegati tra loro da malta. Le caratteristiche e i requisiti prestazionali che gli elementi della muratura devono soddisfare sono descritti nella norma UNI EN 77-1 per quanto riguarda il laterizio, e nelle norme UNI EN 771-3 e UNI EN 771-4 per quanto riguarda il calcestruzzo. Le malte per muratura e semifinite, prodotte in fabbrica, devono essere in conformità alla EN 998-2. La malta per muratura prodotta in cantiere deve essere in conformità alla EN 1996-2.
@@ -90,6 +92,23 @@ Un ulteriore classificazione la si può fare a seconda delle caratteristiche est
 [Torna al sommario](#0)
 
 > ### Calcestruzzo <a id='3.2'></a>
+
+Conglomerato costituito da una miscela di legante, acqua e aggregati, il calcestruzzo può essere utilizzato anche per la realizzazione di opere murarie. Esistono due tipi di blocchi:
+-	**Blocchi in calcestruzzo vibrocompresso**
+-	**Blocchi in calcestruzzo aerato autoclavato.**
+Il blocco in calcestruzzo vibrocompresso è un elemento in calcestruzzo di forma parallelepipeda; si dividono in quattro differenti tipologie:
+
+-	Blocco **da intonaco**: destinato, una volta in opera, ad essere rivestito con intonaco e pertanto dotato di superfici adeguatamente scabre.
+-	Blocco **faccia a vista** per interni: destinato a rimanere in vista una volta posato in opera, avrà specifiche caratteristiche estetiche, cromatiche ed un'omogeneità di tessitura superficiale.
+-	Blocco **faccia a vista per esterni**: destinato ad essere utilizzato in pareti esposte agli agenti atmosferici senza intonaco, avrà specifiche caratteristiche estetiche, cromatiche ed un'omogeneità di tessitura superficiale.
+-	Blocco **portante**: per le sue caratteristiche e per i controlli a cui è assoggettato è idoneo per la costruzione di murature portanti.
+
+I blocchi in calcestruzzo aerato autoclavato (AAC) sono costituiti da materiali naturali – sabbia, calce, cemento, acqua – miscelati e lasciati maturare. La reazione che ha luogo in fase di maturazione produce delle microbolle d’aria che restano imprigionate nella materia. Ed è per questo motivo che è un materiale altamente prestazionale: leggero, facile da lavorare, resistente, isolante. blocchi AAC sono idonei ad essere impiegati nella costruzione di:
+-	Edifici completi in muratura portante, anche in zona sismica
+-	Tamponamenti e divisori interni in edifici con struttura portante a telaio in c.a. o acciaio.
+
+Tutti i prodotti hanno un peso relativamente basso e sono facili da posare e lavorare. Tutti i blocchi con spessore maggiore di 20 cm sono dotati di maniglie di sollevamento e possono avere doppio profilo a incastro. Questi semplici dettagli rendono molto più facile la loro movimentazione, più precisa la posa in opera, ed inoltre grazie agli incastri verticali si risparmia malta collante e tempo di posa. I blocchi sottili e le tavelle AAC permettono di realizzare rapidamente tramezzature interne e divisori, sia in edifici esistenti che nuovi. Il sistema AAC è fino a quattro volte più rapido rispetto ai materiali da costruzione tradizionali. Con AAC le assistenze murarie per i lavori impiantistici risultano facili e rapide.
+
 [Torna al sommario](#0)
 
 >### Malta <a id='3.3'></a>
@@ -161,6 +180,18 @@ Di seguito si riportano le intestazioni delle colonne in questione:
 [Torna al sommario](#0)
 
 > ### Piano di controllo <a id='4.2'></a>
+
+### *LATERIZIO*
+#### **Informazioni generali**
+#### *M_A.1.1*
+Prescrizione marcatura CE
+#### *M_A.1.2*
+Specificazione tipologia di malta (a prestazione garantita o a composizione prescritta)
+#### *M_A.1.3*
+Specificazione spessore malta
+#### *M_A.3.1*
+Per murature comuni lo spessore deve essere compreso tra 5mm e 15mm
+
 [Torna al sommario](#0)
 
 > ### Guida al report <a id='4.3'></a>
@@ -188,11 +219,8 @@ Alla guida, viene allegato un file in formato “xlsx” contenente la tabella c
 > ### Normativa di riferimento <a id='6.1'></a>
 
 -	UNI EN 771-1: Specifica per elementi per muratura – Parte 1: Elementi di laterizio per muratura
--	UNI EN 771-2: Specifica per elementi per muratura – Parte 2: Elementi per muratura di silicato di calcio
 -	UNI EN 771-3: Specifica per elementi per muratura – Parte 3: Elementi per muratura di calcestruzzo vibrocompresso
 -	UNI EN 771-4: Specifica per elementi per muratura – Parte 4: Elementi per muratura di calcestruzzo aerato autoclavato
--	UNI EN 771-5: Specifica per elementi per muratura – Parte 5: Elementi per muratura di pietra agglomerata
--	UNI EN 771-6: Specifica per elementi per muratura – Parte 6: Elementi per muratura di pietra naturale
 -	UNI EN 998-2:2016: Specifiche per malte per opere murarie - Parte 2: Malte da muratura
 -	Norme Tecniche per le costruzioni – Decreto 17 gennaio 2018
 
