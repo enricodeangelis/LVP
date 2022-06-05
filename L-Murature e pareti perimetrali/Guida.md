@@ -8,7 +8,7 @@
   - [3.3. Malta](#3.3)
 - [4. CAPITOLO METODOLOGICO E DI DETTAGLIO](#4)
   - [4.1. Guida alla verifica](#4.1)
-  - [4.2. Guida al rapporto](#4.2)
+  - [4.2. Guida al rapporto finale](#4.2)
 - [5. PIANO DEI CONTROLLI](#5)
   - [5.1. Laterizio](#5.1)
   - [5.2. Calcesttruzzo](#5.2)
@@ -195,19 +195,19 @@ Di seguito si riportano le intestazioni delle colonne in questione:
 
 [Torna al sommario](#0)
 
-> ### 4.2. Guida al report <a id='4.2'></a>
+> ### 4.2. Guida al rapporto finale <a id='4.2'></a>
 
 La guida è stata redatta in forma tabellare in modo da poter usare la check-list direttamente per la validazione del progetto.
 Il report conclusivo del Verificatore riporta l’esito dell’attività di verifica svolta, che potrà essere conforme o non conforme.
 Ad ogni elemento/requisito oggetto di verifica è stato associato sia un commento illustrativo del merito del rilievo sia una classificazione rappresentata tramite un’icona che può assumere le seguenti posizioni:
 1.	Conformità (<font color="green"> C </font>)
 2.	Non Conformità (<font color="red"> NC </font>)
-3.	Osservazione (<font color="yellow"> O </font>)
+3.	Osservazione (<font color="gold"> O </font>)
 
 Dove si intende per:
 1. <font color="green"> Conformità </font>: il soddisfacimento del requisito specificato;
 2.	<font color="red"> Non conformità </font>: elemento del progetto che contrasta con Leggi cogenti, norme di riferimento, con le richieste prestazionali espresse dal Quadro esigenziale o può essere tale da poter rappresentare oggetto di potenziale contenzioso (economico, tecnico, etc.) tra i soggetti coinvolti nella realizzazione dell’opera.
-3.	<font color="yellow"> Osservazione </font>: aspetto progettuale non sufficientemente approfondito, senza che questo si configuri come “non conformità” o indicazioni di tipo non prescrittivo. Le osservazioni non devono essere riferibili a un potenziale errore progettuale e cioè non devono pregiudicare l’opera, il suo utilizzo, e la gestione dell’Appalto
+3.	<font color="gold"> Osservazione </font>: aspetto progettuale non sufficientemente approfondito, senza che questo si configuri come “non conformità” o indicazioni di tipo non prescrittivo. Le osservazioni non devono essere riferibili a un potenziale errore progettuale e cioè non devono pregiudicare l’opera, il suo utilizzo, e la gestione dell’Appalto
 
 [Torna al sommario](#0)
 
@@ -393,17 +393,129 @@ Dove si intende per:
 
 [Torna al sommario](#0)
 
->### **<font color="lime"> 5.3. M_MALTA </font>** <a id='5.3'></a>
+>### **<font color="military green"> 5.3. M_MALTA </font>** <a id='5.3'></a>
 >>### *A_Informazioni generali*
 >>#### <font color="orange"> *1_Chiarezza e completezza* </font>
->> **M_A.1.1:**
+>> **M_A.1.1:** Prescrizione marcatura CE
+>>
+>>**Esito:**
+>>
+>>**Note:**
+>>
+>> **M_A.1.2:** Specificazione tipologia di malta (a prestazione garantita o a composizione prescritta)
+>>
+>>**Esito:**
+>>
+>>**Note:**
+>>
+>> **M_A.1.3:** Specificazione spessore malta
+>>
+>>**Esito:**
+>>
+>>**Note:**
+>>
+>> **M_A.1.4:** Se muratura con blocchi rettificati, ove lo spessore della malta è inferiore a 5mm, la resistenza della muratura deve essere calcolata sperimentalmente
+>>
+>>**Esito:**
+>>
+>>**Note:**
+>>
+>> **M_A.1.5:** Se muratura con spessore della malta superiore a 15mm, la resistenza della muratura deve essere calcolata sperimentalmente
+>>
+>>**Esito:**
+>>
+>>**Note:**
+>>
+>> **M_A.1.6:** Specificazione caratteristiche giunto orizzontale e verticali
+>>
+>>**Esito:**
+>>
+>>**Note:**
+>>
+>>#### <font color="violet"> *2_Adeguatezza* </font>
+>>**M_A.2.1:** Per murature comuni lo spessore deve essere compreso tra 5mm e 15mm
 >>
 >>**Esito:**
 >>
 >>**Note:**
 >
+>>### *B_Normativa di riferimento*
 >>#### <font color="violet"> *2_Adeguatezza* </font>
->>**M_A.2.1:**
+>>**M_B.2.1:** Rispondenza alla norma europea UNI EN 998-2:2016
+>>
+>>**Esito:**
+>>
+>>**Note:**
+>>
+>>**M_B.2.2:** Rispondenza alle Norme Tecniche per le Costruzioni
+>>
+>>**Esito:**
+>>
+>>**Note:**
+>
+>>### *C_Specifiche tecniche*
+>>#### <font color="orange"> *1_Chiarezza e completezza* </font>
+>>**M_C.1.1:** Specificazione del valore di resistenza a media a compressione espresso in N/mm²
+>>
+>>**Esito:**
+>>
+>>**Note:**
+>>
+>>**M_C.1.2:** Specificazione classe di resistenza a compressione tramite classificazione riportata nella Tab.11.10.II delle NTC 2018 (pg. 366)
+>>
+>>**Esito:**
+>>
+>>**Note:**
+>>
+>>**M_C.1.3:** Specificazione classe di resistenza a compressione e proporzioni di composizione in volume o massa di tutti i costituenti tramite classificazione riportata nella Tab.11.10.V delle NTC 2018 (pg. 366)
+>>
+>>**Esito:**
+>>
+>>**Note:**
+>>
+>>**M_C.1.4:** Specificazione del valore del coefficiente di assorbimento d'acqua espresso in g/m2s
+>>
+>>**Esito:**
+>>
+>>**Note:**
+>>
+>>**M_C.1.5:** Specificazione del valore medio della conducibilità termica espresso in W/(mK)
+>>
+>>**Esito:**
+>>
+>>**Note:**
+>>
+>>**M_C.1.6:** Vita utile della malta
+>>**Esito:**
+>>
+>>**Note:**
+>>
+>>**M_C.1.7:** Classificazione di reazione al fuoco
+>>
+>>**Esito:**
+>>
+>>**Note:**
+>>
+>>**M_C.1.8:** Verificare che siano indicate le prove di accettazione che il DL è tenuto ad eseguire sugli elementi in laterizio pervenuti in centiere
+>>
+>>**Esito:**
+>>
+>>**Note:**
+>>
+>>#### <font color="violet"> *2_Adeguatezza* </font>
+>>**L_M.2.1:** Verificare che la resistenza media a compressione non sia inferiore a 5 Mpa
+>>
+>>**Esito:**
+>>
+>>**Note:**
+>>
+>>**L_M.2.2:** Specificazione del contenuto di cloruri, della malta secca,  inferiore allo 0,1%.
+>>
+>>**Esito:**
+>>
+>>**Note:**
+>>
+>>**L_M.2.3:** Verificare che la descrizione delle prove di accettazione sia conforme rispetto a quanto riportato nel paragrafo 11.10.2.4 delle NTC 2018 (pg. 367)
 >>
 >>**Esito:**
 >>
