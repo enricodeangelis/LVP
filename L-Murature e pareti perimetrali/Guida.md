@@ -181,6 +181,8 @@ Ognuna di queste categorie può avere due tipologie di azioni di controllo rigua
 
 Si riporta in seguito la classificazione schematica delle verifiche elementari, con i relativi caratteri alfanumerici utilizzati per la codifica, in modo da consentirne una chiara e semplice reperibilità.
 
+![image](https://user-images.githubusercontent.com/100944734/172070378-8b23a46d-5650-4c08-a3fc-c207fee36c67.png)
+
 [Torna al sommario](#0)
 
 > ### 4.1. Guida alla verifica <a id='4.1'></a>
@@ -192,6 +194,14 @@ Ai fini della validazione di un progetto, è quindi necessario individuare la va
 L’applicabilità della guida è stata resa sistematica grazie alla possibilità di filtrare, per colonne, quali controlli effettuare, in base alla classificazione della muratura ed ai documenti di progetto. Infatti, si è indicato, tramite un segno x, in quali campi (uno per colonna) si deve applicare una certa verifica elementare.
 
 Di seguito si riportano le intestazioni delle colonne in questione:
+
+![image](https://user-images.githubusercontent.com/100944734/172070590-b8fded23-34fb-4272-b119-af1890ffae55.png)
+
+![image](https://user-images.githubusercontent.com/100944734/172070953-d51a4d81-f659-4736-99d4-6fbbc223b958.png)
+
+![image](https://user-images.githubusercontent.com/100944734/172070867-a183adb0-554b-4d12-b3af-711b650398ba.png)
+
+![image](https://user-images.githubusercontent.com/100944734/172070917-0fa30496-4e5a-43be-9226-dd2fbd9cfbdf.png)
 
 [Torna al sommario](#0)
 
