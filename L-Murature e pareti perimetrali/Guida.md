@@ -217,13 +217,165 @@ Dove si intende per:
 >>**Esito:** <font color="green"> *CONFORME* </font>
 >>
 >>**Note:**
->
->>#### <font color="violet"> *2_Adeguatezza* </font>
->>**L_A.2.1:**
+>>
+>>**L_A.1.2:** Specificazione elemento di laterizio (pieno, semipieno o forato)
 >>
 >>**Esito:**
 >>
 >>**Note:**
+>>
+>>**L_A.1.3:** Verificare che, in caso di muratura portante, la percentuale di foratura sia minore del 55%
+>>
+>>**Esito:**
+>>
+>>**Note:**
+>>
+>>**L_A.1.4:** Prescrizione marcatura CE
+>>
+>>**Esito:**
+>>
+>>**Note:**
+>>
+>>#### <font color="violet"> *2_Adeguatezza* </font>
+>>**L_A.2.1:** Verificare che la percentuale di foratura sia calcolata in conformità con quanto riportato nel paragrado 4.5.2.2.1 della NTC (pg 145)
+>>
+>>**Esito:**
+>>
+>>**Note:**
+>
+>>### *B_Normativa di riferimento*
+>>#### <font color="violet"> *2_Adeguatezza* </font>
+>>**L_B.2.1:** Rispondenza alla norma europea UNI EN 771-1, Specifica per elementi per muratura – Parte 1: Elementi per muratura di laterizio
+>>
+>>**Esito:**
+>>
+>>**Note:**
+>>
+>>**L_B.2.2:** Rispondenza alle Norme Tecniche per le Costruzioni
+>>
+>>**Esito:**
+>>
+>>**Note:**
+>>
+>>**L_B.2.3:** Verifica che, in caso impieghi particolari, siano stati effettuati gli opportuni metodi di prova descritti nelle diverse parti della norma UNI EN 772
+>>
+>>**Esito:**
+>>
+>>**Note:**
+>
+>>### *C_Specifiche tecniche*
+>>#### <font color="orange"> *1_Chiarezza e completezza* </font>
+>>**L_C.1.1:** Specificazione delle dimensioni dell'elemento in laterizio per lunghezza, larghezza e altezza
+>>
+>>**Esito:**
+>>
+>>**Note:**
+>>
+>>**L_C.1.2:** Specificazione della categoria di tolleranza dimensionale espressa in mm
+>>
+>>**Esito:**
+>>
+>>**Note:**
+>>
+>>**L_C.1.3:** Specificazione della densità (valore netto e lordo) espressa in kg/m3
+>>
+>>**Esito:**
+>>
+>>**Note:**
+>>
+>>**L_C.1.4:** Specificazione del valore medio della conducibilità termica espresso in W/(mK)
+>>
+>>**Esito:**
+>>
+>>**Note:**
+>>
+>>**L_C.1.5:** Specificazione della categoria di resistenza al gelo/disgelo
+>>
+>>**Esito:**
+>>
+>>**Note:**
+>>
+>>**L_C.1.6:** Specificazione del valore di resistenza caratteristica a compressione e categoria (I o II) espresso in N/mm2
+>>
+>>**Esito:**
+>>
+>>**Note:**
+>>
+>>**L_C.1.7:** Specificazione del valore di resistenza a compressione normalizzata espresso in N/mm2
+>>
+>>**Esito:**
+>>
+>>**Note:**
+>>
+>>**L_C.1.8:** Classificazione di reazione al fuoco dell'unità
+>>
+>>**Esito:**
+>>
+>>**Note:**
+>>
+>>**L_C.1.9:** Specificazione del valore della permeabilità al vapore espresso come coefficiente di diffusione del vapore μ
+>>
+>>**Esito:**
+>>
+>>**Note:**
+>>
+>>**L_C.1.10:** Specificazione del valore del coefficiente di assorbimento d'acqua espresso in g/m2s
+>>
+>>**Esito:**
+>>
+>>**Note:**
+>>
+>>**L_C.1.11:** Specificazione della categoria del contenuto di sali solubili attivi
+>>
+>>**Esito:**
+>>
+>>**Note:**
+>>
+>>**L_C.1.12:** Uso di elementi in laterizio pieni e semipieni per progettazione sismica
+>>
+>>**Esito:**
+>>
+>>**Note:**
+>>
+>>**L_C.1.13:** Verificare che siano indicate le prove di accettazione che il DL è tenuto ad eseguire sugli elementi in laterizio pervenuti in centiere
+>>
+>>**Esito:**
+>>
+>>**Note:**
+>>
+>>
+>>#### <font color="violet"> *2_Adeguatezza* </font>
+>>**L_C.2.1:** Verificare che per elementi LD (low density) la massa volumica a secco lorda sia minore o uguale a 1000 kg/m3
+>>
+>>**Esito:**
+>>
+>>**Note:**
+>>
+>>**L_C.2.2:** Verificare che per elementi HD (high density) la massa volumica a secco lorda sia maggiore o uguale a 1000 kg/m3
+>>
+>>**Esito:**
+>>
+>>**Note:**
+>>
+>>**L_C.2.3:** Verificare che il materiale sia conforme al paragrafo 7.8.1.2 (pg. 261) per progettazione sismica
+>>
+>>**Esito:**
+>>
+>>**Note:**
+>>
+>>**L_C.2.4:** Verificare che la descrizione delle prove di accettazione sia conforme rispetto a quanto riportato nel paragrafo 11.10.1.1.1 della NTC (pg. 365)
+>>
+>>**Esito:**
+>>
+>>**Note:**
+>>
+
+
+
+
+
+
+
 
 >### **<font color="blue"> C_CALCESTRUZZO </font>**
 >>### *A_Informazioni generali*
