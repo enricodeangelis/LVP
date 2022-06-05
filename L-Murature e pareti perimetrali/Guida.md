@@ -1,33 +1,33 @@
 # **Guida L - Murature e pareti perimetrali**
 ## SOMMARIO  <a id='0'></a>
-- [PREMESSA](#1)
-- [PARETE PERIMETRALE](#2)
-- [OPERE MURARIE](#3)
-  - [Laterizio](#3.1)
-  - [Calcestruzzo](#3.2)
-  - [Malta](#3.3)
-- [CAPITOLO METODOLOGICO E DI DETTAGLIO](#4)
-  - [Guida alla verifica](#4.1)
-  - [Guida al rapporto](#4.2)
-- [PIANO DEI CONTROLLI](#5)
-  - [Laterizio](#5.1)
-  - [Calcesttruzzo](#5.2)
-  - [Malta](#5.3)
-  - [Opere murarie](#5.4)
-- [ALLEGATI](#6)
-- [RIFERIMENTI](#7)
-  - [Normativa di riferimento](#7.1)
-  - [Riferimenti bibliografici](#7.2)
-  - [Sitografia](#7.3)
+- [1. PREMESSA](#1)
+- [2. PARETE PERIMETRALE](#2)
+- [3. OPERE MURARIE](#3)
+  - [3.1. Laterizio](#3.1)
+  - [3.2. Calcestruzzo](#3.2)
+  - [3.3. Malta](#3.3)
+- [4. CAPITOLO METODOLOGICO E DI DETTAGLIO](#4)
+  - [4.1. Guida alla verifica](#4.1)
+  - [4.2. Guida al rapporto](#4.2)
+- [5. PIANO DEI CONTROLLI](#5)
+  - [5.1. Laterizio](#5.1)
+  - [5.2. Calcesttruzzo](#5.2)
+  - [5.3. Malta](#5.3)
+  - [5.4. Opere murarie](#5.4)
+- [6. ALLEGATI](#6)
+- [7. RIFERIMENTI](#7)
+  - [7.1. Normativa di riferimento](#7.1)
+  - [7.2. Riferimenti bibliografici](#7.2)
+  - [7.3. Sitografia](#7.3)
 
-## PREMESSA <a id='1'></a>
+## 1. PREMESSA <a id='1'></a>
 Il seguente documento ha come fine ultimo la stesura di verifiche elementari utili al validatore per il controllo di documenti quali capitolati, relazioni specialistiche e dettagli costruttivi, inerenti alla progettazione di opere murarie.
 
 Si procederà con una descrizione generale sulle pareti perimetrali e i requisiti prestazionali che deve soddisfare, per poi passare ad una trattazione più ampia riguardante le opere murarie e i suoi componenti. Lo scopo della guida è, come accennato in precedenza, quello di agevolare il processo di validazione, essendo uno strumento replicabile e capace di adattarsi a differenti contesti.
 
 [Torna al sommario](#0)
 
-## PARETE PERIMETRALE <a id='2'></a>
+## 2. PARETE PERIMETRALE <a id='2'></a>
 La parete perimetrale costituisce l’elemento di separazione tra l’ambiente interno ed esterno; essa deve rispondere a determinati requisiti prestazionali che garantiscono il soddisfacimento di diverse esigenze quali sicurezza, benessere termo-igrometrico, purezza dell’aria, isolamento acustico, aspetto, esigenze tattili, durabilità ed attrezzabilità.
 La norma UNI EN 7959 definisce i criteri di valutazione e gli elementi o strati interessati per ciascuno dei requisiti.  I requisiti sono individuati in base alle rispettive classi di esigenza elencate nella parte sottostante:
 -	**Requisiti legati alla sicurezza**: nel soddisfacimento di questa classe di esigenze rientrano i requisiti attivati da agenti che mettono in causa la stabilità della parete perimetrale o attentano in altro modo alla sicurezza degli occupanti:
@@ -58,7 +58,7 @@ Nella guida stilata vengono analizzati principalmente i requisiti le cui verific
 
 [Torna al sommario](#0)
 
-## OPERE MURARIE <a id='3'></a>
+## 3. OPERE MURARIE <a id='3'></a>
 Questo capitolo è incentrato sulla muratura, una tipologia di strato resistente della parete perimetrale. La muratura può essere **di tamponamento** o **portante** a seconda delle funzioni a cui deve assolvere: la muratura di tamponamento ha la funzione di sopportare i carichi dovuti al peso degli strati ad esso vincolati, i sovraccarichi dovuti alla pressione e depressione del vento, e di trasmettere alla struttura portante dell’edificio. Deve inoltre resistere agli urti che possono prodursi all’interno e all’esterno della parete stessa; a differenza di quelle portanti possono essere rimosse o spostate durante gli interventi edilizi. La muratura portante oltre alle funzioni descritte per la muratura portata, assolve funzioni statiche rispetto all’equilibrio complessivo dell’edificio. Deve essere calcolato per sopportare i carichi propri e di esercizio complessivi della costruzione.
 
 Una seconda distinzione la si può fare considerando l’apparecchiatura muraria in sè:
@@ -74,7 +74,7 @@ Un’opera muraria può essere composta da elementi resistenti in laterizio o in
 
 [Torna al sommario](#0)
 
-> ### Laterizio <a id='3.1'></a>
+> ### 3.1. Laterizio <a id='3.1'></a>
 
 Il laterizio è un prodotto in materiale ceramico a pasta porosa. A seconda della loro forma e dimensione sono classificati in mattoni e blocchi: i mattoni sono di forma generalmente parallelepipeda con volume inferiore a 5500 cm3, mentre i blocchi hanno, come i mattoni, forma parallelepipeda, ma volume maggiore o uguale a 5500cm3. Per quanto riguarda la percentuale di foratura, è espressa dalla relazione φ=100 F/A (dove F è l’area complessiva dei fori passanti e profondi non passanti e A è l’area lorda della faccia dell’elemento di muratura delimitata dal suo perimetro) e sono classificati in:
 -	**Mattoni pieni**, quelli con foratura minore o uguale al 15% e densità compresa tra 1300 kg/m3 e 1800 kg/m3 (sigla MP o MPR per rivestimento);
@@ -95,7 +95,7 @@ Un ulteriore classificazione la si può fare a seconda delle caratteristiche est
 
 [Torna al sommario](#0)
 
-> ### Calcestruzzo <a id='3.2'></a>
+> ### 3.2. Calcestruzzo <a id='3.2'></a>
 
 Conglomerato costituito da una miscela di legante, acqua e aggregati, il calcestruzzo può essere utilizzato anche per la realizzazione di opere murarie. Esistono due tipi di blocchi:
 -	**Blocchi in calcestruzzo vibrocompresso**
@@ -116,7 +116,7 @@ Tutti i prodotti hanno un peso relativamente basso e sono facili da posare e lav
 
 [Torna al sommario](#0)
 
->### Malta <a id='3.3'></a>
+>### 3.3. Malta <a id='3.3'></a>
 
 La malta è un impasto, in proporzioni opportune, di un **inerte**, di un agglomerato (o **legante**) ed **acqua**. Si ottiene un impasto fresco, di consistenza adatta all’uso, che ha la capacità di indurire in tempi più o meno lunghi a seconda della sostanza agglomerata usata nella sua preparazione.
 
@@ -160,7 +160,7 @@ Nel secondo caso deve essere dichiarata dal fabbricante le proporzioni in volume
 
 [Torna al sommario](#0)
 
-## CAPITOLO METODOLOGICO E DI DETTAGLIO <a id='4'></a>
+## 4. CAPITOLO METODOLOGICO E DI DETTAGLIO <a id='4'></a>
 
 Le verifiche inerenti alle opere murarie prevedono l’analisi nel dettaglio dei seguenti documenti:
 - Relazione tecnica/di calcolo;
@@ -183,7 +183,7 @@ Si riporta in seguito la classificazione schematica delle verifiche elementari, 
 
 [Torna al sommario](#0)
 
-> ### Guida alla verifica <a id='4.1'></a>
+> ### 4.1. Guida alla verifica <a id='4.1'></a>
 
 La prima sezione di verifiche si applica ai **materiali** che compongono la muratura quali blocchi in laterizio, blocchi in calcestruzzo e malta, considerandone gli aspetti sia generali che tecnici; la seconda parte presenta verifiche riferite all’intera **opera muraria** in cui si controllano gli aspetti di interazione tra gli elementi costruttivi utilizzati, introducendo particolari verifiche sulla modalità di posa.
 
@@ -195,7 +195,7 @@ Di seguito si riportano le intestazioni delle colonne in questione:
 
 [Torna al sommario](#0)
 
-> ### Guida al report <a id='4.2'></a>
+> ### 4.2. Guida al report <a id='4.2'></a>
 
 La guida è stata redatta in forma tabellare in modo da poter usare la check-list direttamente per la validazione del progetto.
 Il report conclusivo del Verificatore riporta l’esito dell’attività di verifica svolta, che potrà essere conforme o non conforme.
@@ -211,9 +211,9 @@ Dove si intende per:
 
 [Torna al sommario](#0)
 
-## PIANO DEI CONTROLLI <a id='5'></a>
+## 5. PIANO DEI CONTROLLI <a id='5'></a>
 
->### **<font color="maroon"> L_LATERIZIO </font>** <a id='5.1'></a>
+>### **<font color="maroon"> 5.1. L_LATERIZIO </font>** <a id='5.1'></a>
 >>### *A_Informazioni generali*
 >>#### <font color="orange"> *1_Chiarezza e completezza* </font>
 >>**L_A.1.1:** Specificazione elemento di laterizio (blocco o mattone)
@@ -375,7 +375,7 @@ Dove si intende per:
 
 [Torna al sommario](#0)
 
->### **<font color="blue"> C_CALCESTRUZZO </font>** <a id='5.2'></a>
+>### **<font color="blue"> 5.2. C_CALCESTRUZZO </font>** <a id='5.2'></a>
 >>### *A_Informazioni generali*
 >>#### <font color="orange"> *1_Chiarezza e completezza* </font>
 >> **C_A.1.1:**
@@ -393,7 +393,7 @@ Dove si intende per:
 
 [Torna al sommario](#0)
 
->### **<font color="lime"> M_MALTA </font>** <a id='5.3'></a>
+>### **<font color="lime"> 5.3. M_MALTA </font>** <a id='5.3'></a>
 >>### *A_Informazioni generali*
 >>#### <font color="orange"> *1_Chiarezza e completezza* </font>
 >> **M_A.1.1:**
@@ -411,7 +411,7 @@ Dove si intende per:
 
 [Torna al sommario](#0)
 
->### **<font color="grey"> OM_OPERE MURARIE </font>** <a id='5.4'></a>
+>### **<font color="grey"> 5.4. OM_OPERE MURARIE </font>** <a id='5.4'></a>
 >>### *A_Informazioni generali*
 >>#### <font color="orange"> *1_Chiarezza e completezza* </font>
 >> **M_A.1.1:**
@@ -429,13 +429,13 @@ Dove si intende per:
 
 [Torna al sommario](#0)
 
-## ALLEGATI <a id='6'></a>
+## 6. ALLEGATI <a id='6'></a>
 Alla guida, viene allegato un file in formato “xlsx” contenente la tabella che servirà da checklist per il processo di validazione, dell’opera muraria, dei progetti successivi.
 
 [Torna al sommario](#0)
 
-## RIFERIMENTI <a id='7'></a>
-### Normative di riferimento <a id='7.1'></a>
+## 7. RIFERIMENTI <a id='7'></a>
+### 7.1. Normative di riferimento <a id='7.1'></a>
 
 -	UNI EN 771-1: Specifica per elementi per muratura – Parte 1: Elementi di laterizio per muratura
 -	UNI EN 771-3: Specifica per elementi per muratura – Parte 3: Elementi per muratura di calcestruzzo vibrocompresso
@@ -445,14 +445,14 @@ Alla guida, viene allegato un file in formato “xlsx” contenente la tabella c
 
 [Torna al sommario](#0)
 
-### Riferimenti bibliografici <a id='7.2'></a>
+### 7.2. Riferimenti bibliografici <a id='7.2'></a>
 
 -	Quaderno del manuale di progettazione edilizia “le chiusure verticali”, Hoepli
 -	Tubi, La realizzazione di murature in laterizio, Roma, Laterservice, 2004, Quinta edizione
 
 [Torna al sommario](#0)
 
-### Sitografia <a id='7.3'></a>
+### 7.3. Sitografia <a id='7.3'></a>
 
 -	http://store.uni.com/catalogo/index.php/?josso_back_to=http://store.uni.com/josso-security-check.php&josso_cmd=login_optional&josso_partnerapp_host=store.uni.com
 -	https://bsol.bsigroup.com/
