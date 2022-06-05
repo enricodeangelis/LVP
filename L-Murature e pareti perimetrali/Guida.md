@@ -1,5 +1,5 @@
 # **Guida L - Murature e pareti perimetrali**
-### SOMMARIO  <a id='0'></a>
+## SOMMARIO  <a id='0'></a>
 - [PREMESSA](#1)
 - [PARETE PERIMETRALE](#2)
 - [OPERE MURARIE](#3)
@@ -8,13 +8,13 @@
   - [Malta](#3.3)
 - [CAPITOLO METODOLOGICO E DI DETTAGLIO](#4)
   - [Guida alla verifica](#4.1)
-  - [Piano di controllo](#4.2)
-  - [Guida al rapporto](#4.3)
-- [ALLEGATI](#5)
-- [RIFERIMENTI](#6)
-  - [Normativa di riferimento](#6.1)
-  - [Riferimenti bibliografici](#6.2)
-  - [Sitografia](#6.3)
+  - [Guida al rapporto](#4.2)
+- [PIANO DEI CONTROLLI](#5)
+- [ALLEGATI](#6)
+- [RIFERIMENTI](#7)
+  - [Normativa di riferimento](#7.1)
+  - [Riferimenti bibliografici](#7.2)
+  - [Sitografia](#7.3)
 
 ## PREMESSA <a id='1'></a>
 Il seguente documento ha come fine ultimo la stesura di verifiche elementari utili al validatore per il controllo di documenti quali capitolati, relazioni specialistiche e dettagli costruttivi, inerenti alla progettazione di opere murarie.
@@ -135,7 +135,7 @@ I leganti, invece, sono quei materiali che per trasformazione fisica o per reazi
 
 La **malta di calce idrata (aerea)** ha una buona lavorabilità e plasticità, e anch’essa porosa, ha una resistenza meccanica medio-bassa e non resiste alle intemperie e all’azione del gelo. Pertanto, è usata per la realizzazione di intonaci interni civili e come legante per mattoni negli interni, è sconsigliato il suo uso per gli intonaci esterni. La plasticità facilita notevolmente l’applicazione e anche l’aderenza per i rivestimenti. La malta di calce idrata va bene per tutti gli ambienti della casa esclusi quelli con umidità per via della sua porosità.
 
-La **malta di calce idraulic** ha una resistenza meccanica nettamente superiore di quella aerea ma molto al di sotto della cementizia. è pastosa e pertanto risulta di facile lavorazione, è plastica ed elastica e questo le conferisce una minima capacità isolante, è anch’essa porosa. La malta di calce idraulica è impiegata per la realizzazione di intonaci (rustici e civili) e come legante per mattoni (anche in esterni). La porosità ha un effetto negativo per quanto riguarda l’impermeabilità e la resistenza al gelo.
+La **malta di calce idraulica** ha una resistenza meccanica nettamente superiore di quella aerea ma molto al di sotto della cementizia. è pastosa e pertanto risulta di facile lavorazione, è plastica ed elastica e questo le conferisce una minima capacità isolante, è anch’essa porosa. La malta di calce idraulica è impiegata per la realizzazione di intonaci (rustici e civili) e come legante per mattoni (anche in esterni). La porosità ha un effetto negativo per quanto riguarda l’impermeabilità e la resistenza al gelo.
 
 La **malta di gesso** è molto lavorabile, modellabile e lisciabile, ma è anche molto porosa. In virtù della prima caratteristica è molto usata per ottenere la cosiddetta "rasatura" o la "lisciatura", cioè uno strato sottilissimo di rifinitura dell'intonaco. In generale è utilizzata per tutte le opere di rifinitura, relative agli intonaci interni o altri lavori come la posa in opera di accessori per gli impianti elettrici (scatolette destinate ad alloggiare le prese di corrente). A motivo della sua igroscopicità non si deve utilizzare in ambienti soggetti a produzione di vapore (bagni e cucine).
 
@@ -179,22 +179,7 @@ Di seguito si riportano le intestazioni delle colonne in questione:
 
 [Torna al sommario](#0)
 
-> ### Piano di controllo <a id='4.2'></a>
-
-### *LATERIZIO*
-#### **Informazioni generali**
-#### *M_A.1.1*
-Prescrizione marcatura CE
-#### *M_A.1.2*
-Specificazione tipologia di malta (a prestazione garantita o a composizione prescritta)
-#### *M_A.1.3*
-Specificazione spessore malta
-#### *M_A.3.1*
-Per murature comuni lo spessore deve essere compreso tra 5mm e 15mm
-
-[Torna al sommario](#0)
-
-> ### Guida al report <a id='4.3'></a>
+> ### Guida al report <a id='4.2'></a>
 
 La guida è stata redatta in forma tabellare in modo da poter usare la check-list direttamente per la validazione del progetto.
 Il report conclusivo del Verificatore riporta l’esito dell’attività di verifica svolta, che potrà essere conforme o non conforme.
@@ -210,13 +195,81 @@ Dove si intende per:
 
 [Torna al sommario](#0)
 
-## ALLEGATI <a id='5'></a>
+## PIANO DEI CONTROLLI <a id='5'></a>
+
+>### **<font color="maroon"> L_LATERIZIO </font>**
+>>### *A_Informazioni generali*
+>>#### <font color="orange"> *1_Chiarezza e completezza* </font>
+>>**L_A.1.1:** Specificazione elemento di laterizio (blocco o mattone)
+>>
+>>**Esito:** <font color="green"> *CONFORME* </font>
+>>
+>>**Note:**
+>
+>>#### <font color="violet"> *2_Adeguatezza* </font>
+>>**L_A.2.1:**
+>>
+>>**Esito:**
+>>
+>>**Note:**
+
+>### **<font color="blue"> C_CALCESTRUZZO </font>**
+>>### *A_Informazioni generali*
+>>#### <font color="orange"> *1_Chiarezza e completezza* </font>
+>> **C_A.1.1:**
+>>
+>>**Esito:**
+>>
+>>**Note:**
+>
+>>#### <font color="violet"> *2_Adeguatezza* </font>
+>>**C_A.2.1:**
+>>
+>>**Esito:**
+>>
+>>**Note:**
+
+>### **<font color="lime"> M_MALTA </font>**
+>>### *A_Informazioni generali*
+>>#### <font color="orange"> *1_Chiarezza e completezza* </font>
+>> **M_A.1.1:**
+>>
+>>**Esito:**
+>>
+>>**Note:**
+>
+>>#### <font color="violet"> *2_Adeguatezza* </font>
+>>**M_A.2.1:**
+>>
+>>**Esito:**
+>>
+>>**Note:**
+
+>### **<font color="grey"> OM_OPERE MURARIE </font>**
+>>### *A_Informazioni generali*
+>>#### <font color="orange"> *1_Chiarezza e completezza* </font>
+>> **M_A.1.1:**
+>>
+>>**Esito:**
+>>
+>>**Note:**
+>
+>>#### <font color="violet"> *2_Adeguatezza* </font>
+>>**M_A.2.1:**
+>>
+>>**Esito:**
+>>
+>>**Note:**
+
+
+
+## ALLEGATI <a id='6'></a>
 Alla guida, viene allegato un file in formato “xlsx” contenente la tabella che servirà da checklist per il processo di validazione, dell’opera muraria, dei progetti successivi.
 
 [Torna al sommario](#0)
 
-## RIFERIMENTI <a id='6'></a>
-> ### Normativa di riferimento <a id='6.1'></a>
+## RIFERIMENTI <a id='7'></a>
+> ### Normativa di riferimento <a id='7.1'></a>
 
 -	UNI EN 771-1: Specifica per elementi per muratura – Parte 1: Elementi di laterizio per muratura
 -	UNI EN 771-3: Specifica per elementi per muratura – Parte 3: Elementi per muratura di calcestruzzo vibrocompresso
@@ -226,14 +279,14 @@ Alla guida, viene allegato un file in formato “xlsx” contenente la tabella c
 
 [Torna al sommario](#0)
 
-> ### Riferimenti bibliograficio <a id='6.2'></a>
+> ### Riferimenti bibliograficio <a id='7.2'></a>
 
 -	Quaderno del manuale di progettazione edilizia “le chiusure verticali”, Hoepli
 -	Tubi, La realizzazione di murature in laterizio, Roma, Laterservice, 2004, Quinta edizione
 
 [Torna al sommario](#0)
 
-> ### Sitografia <a id='6.3'></a>
+> ### Sitografia <a id='7.3'></a>
 
 -	http://store.uni.com/catalogo/index.php/?josso_back_to=http://store.uni.com/josso-security-check.php&josso_cmd=login_optional&josso_partnerapp_host=store.uni.com
 -	https://bsol.bsigroup.com/
