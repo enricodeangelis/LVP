@@ -62,7 +62,7 @@ Una seconda distinzione la si può fare considerando l’apparecchiatura muraria
 -	Murature **a doppia parete**: con ciò s'intendono murature realizzate in due strati distanziati. Generalmente si tratta di uno strato con funzioni portanti ed un altro con funzioni isolanti oppure di fodera. Il vantaggio di questa tipologia è proprio quello di riuscire a garantire un buon isolamento termico tramite un’intercapedine d’aria (che già di per sé apporta dei miglioramenti sotto questo punto di vista) riempita con materiali isolanti in grani o in pannelli.
 -	Murature **armate**: vengono utilizzati blocchi appositamente disegnati per gli alloggiamenti di armature, orizzontali e verticali, ed il getto di conglomerato. I diversi sistemi disponibili (ad armatura diffusa o concentrata, con blocchi a fori verticali o orizzontali, ecc.), regolamentati dalla normativa nazionale ed europea, sono in grado di assicurare prestazioni di duttilità superiori alla muratura ordinaria. Di fatto, seguendo i criteri di progetto, i requisiti e i metodi di analisi, fissati dalle suddette norme, sono realizzabili in zona sismica edifici in muratura armata senza vincolo sul numero di piani, a patto che siano soddisfatte tutte le verifiche di sicurezza. Per gli edifici “semplici” in muratura portante (ossia per costruzioni che presentino precise condizioni di regolarità geometrica e particolari limitazioni dimensionali), invece, sono ammesse verifiche in via semplificata (fig. 7) e la possibilità di costruire fino a quattro piani nel caso della muratura armata (fino a tre piani per edifici in muratura ordinaria).
 
-**N.B.** La guida L non fa riferimento alla distinzione indicata nel paragrafo precedente in quanto le verifiche elementari dovranno essere applicate a tutte queste apparecchiature murarie.
+>**N.B.** La guida L non fa riferimento alla distinzione indicata nel paragrafo precedente in quanto le verifiche elementari dovranno essere applicate a tutte queste apparecchiature murarie.
 
 Le verifiche elementari sono state redatte solamente per i materiali più in uso, di seguito descritti, e per la muratura in sé.
 
@@ -96,12 +96,13 @@ Un ulteriore classificazione la si può fare a seconda delle caratteristiche est
 Conglomerato costituito da una miscela di legante, acqua e aggregati, il calcestruzzo può essere utilizzato anche per la realizzazione di opere murarie. Esistono due tipi di blocchi:
 -	**Blocchi in calcestruzzo vibrocompresso**
 -	**Blocchi in calcestruzzo aerato autoclavato.**
-Il blocco in calcestruzzo vibrocompresso è un elemento in calcestruzzo di forma parallelepipeda; si dividono in quattro differenti tipologie:
 
--	Blocco **da intonaco**: destinato, una volta in opera, ad essere rivestito con intonaco e pertanto dotato di superfici adeguatamente scabre.
--	Blocco **faccia a vista** per interni: destinato a rimanere in vista una volta posato in opera, avrà specifiche caratteristiche estetiche, cromatiche ed un'omogeneità di tessitura superficiale.
--	Blocco **faccia a vista per esterni**: destinato ad essere utilizzato in pareti esposte agli agenti atmosferici senza intonaco, avrà specifiche caratteristiche estetiche, cromatiche ed un'omogeneità di tessitura superficiale.
--	Blocco **portante**: per le sue caratteristiche e per i controlli a cui è assoggettato è idoneo per la costruzione di murature portanti.
+Il blocco in calcestruzzo **vibrocompresso** è un elemento in calcestruzzo di forma parallelepipeda; si dividono in quattro differenti tipologie:
+
+-	Blocco ***da intonaco*** : destinato, una volta in opera, ad essere rivestito con intonaco e pertanto dotato di superfici adeguatamente scabre.
+-	Blocco ***faccia a vista*** per interni: destinato a rimanere in vista una volta posato in opera, avrà specifiche caratteristiche estetiche, cromatiche ed un'omogeneità di tessitura superficiale.
+-	Blocco ***faccia a vista per esterni***: destinato ad essere utilizzato in pareti esposte agli agenti atmosferici senza intonaco, avrà specifiche caratteristiche estetiche, cromatiche ed un'omogeneità di tessitura superficiale.
+-	Blocco ***portante***: per le sue caratteristiche e per i controlli a cui è assoggettato è idoneo per la costruzione di murature portanti.
 
 I blocchi in calcestruzzo aerato autoclavato (AAC) sono costituiti da materiali naturali – sabbia, calce, cemento, acqua – miscelati e lasciati maturare. La reazione che ha luogo in fase di maturazione produce delle microbolle d’aria che restano imprigionate nella materia. Ed è per questo motivo che è un materiale altamente prestazionale: leggero, facile da lavorare, resistente, isolante. blocchi AAC sono idonei ad essere impiegati nella costruzione di:
 -	Edifici completi in muratura portante, anche in zona sismica
@@ -145,23 +146,34 @@ La **malta idraulica plastica** è confezionata usando un legante idraulico plas
 
 Le malte per muratura sono definite come malta **ordinaria**, malta per **strati sottili** o malta **alleggerita** secondo i loro costituenti.
 
+>**N.B.** La guida L non fa riferimento alla distinzione indicata nei paragrafi precedenti, (sulla base della tipologia di legante), in quanto le verifiche elementari dovranno essere applicate a tutte queste tipologie di malta.
+
 Le malte per muratura sono considerate come **malte a prestazione garantita** o **malte a composizione prescritta** secondo il metodo utilizzato per definire la loro composizione.
 
 Nel primo caso deve essere specificata per mezzo della classe di resistenza a compressione con riferimento alla classificazione riportata nel paragrafo 11.10.2.1 della NTC.
 
-Nel secondo caso deve essere dichiarata dal fabbricante le proporzioni in volumee o in massa di tutti i costituenti. Per le composizioni in volume descritte nel paragrafo 11.10.2.2 della NTC è possibile associare la classe di resistenza specificata.    
+Nel secondo caso deve essere dichiarata dal fabbricante le proporzioni in volume o in massa di tutti i costituenti. Per le composizioni in volume descritte nel paragrafo 11.10.2.2 della NTC è possibile associare la classe di resistenza specificata.    
 
 [Torna al sommario](#0)
 
 ## CAPITOLO METODOLOGICO E DI DETTAGLIO <a id='4'></a>
 
 Le verifiche inerenti alle opere murarie prevedono l’analisi nel dettaglio dei seguenti documenti:
-– Relazione tecnica/di calcolo
-– Dettagli tecnici
-– Capitolato
+- Relazione tecnica/di calcolo;
+- Dettagli tecnici;
+- Capitolato.
+
 Le verifiche presenti in questa guida sono state desunte tramite la consultazione delle normative e dei manuali indicate nel capitolo “Riferimenti” del presente documento. Si sono prese in considerazione le normative (trovate grazie anche al mezzo di ricerca sul catalogo online delle normative UNI), ed alcuni manuali, riguardanti le opere murarie ed i relativi componenti. La consultazione di questi documenti ha garantito l’individuazione delle verifiche elementari da applicare agli elaborati progettuali indicati sopra.
 
-La lista di verifiche presenta differenti azioni di controllo, riferite a “Informazioni generali” in cui si indicano i controlli relativi agli aspetti che riguardano la tipologia di opera, “Specifiche tecniche” che prevedono la verifica dei parametri per il rispetto dei requisiti principali (degli elementi o della muratura), ed infine “Normativa di riferimento” in cui si verifica la rispondenza alle varie norme indicate. Ognuna di queste categorie può avere tre tipologie di azioni di controllo riguardanti il tipo di informazione che deve essere presente nei documenti da analizzare.
+La lista di verifiche presenta differenti azioni di controllo, riferite a:
+- “Informazioni generali”, in cui si indicano i controlli relativi agli aspetti generici che riguardano la tipologia di opera;
+- “Specifiche tecniche”, che prevedono la verifica dei parametri per il rispetto dei requisiti principali (degli elementi o della muratura);
+- “Normativa di riferimento”, in cui si controlla la rispondenza alle varie norme indicate;
+- "Modalità di posa", le cui verifiche riguardano in particolare le prescrizioni indicate nei capitolati ai fini della fase di esecuzione del progetto.
+
+Ognuna di queste categorie può avere due tipologie di azioni di controllo riguardanti il tipo di informazione che deve essere presente nei documenti da analizzare:
+- Chiarezza e completezza;
+- Adeguatezza.
 
 Si riporta in seguito la classificazione schematica delle verifiche elementari, con i relativi caratteri alfanumerici utilizzati per la codifica, in modo da consentirne una chiara e semplice reperibilità.
 
@@ -169,9 +181,9 @@ Si riporta in seguito la classificazione schematica delle verifiche elementari, 
 
 > ### Guida alla verifica <a id='4.1'></a>
 
-La prima sezione di verifiche si applica ai **materiali** che compongono la muratura quali blocchi in laterizio, blocchi in calcestruzzo e malta, considerandone gli aspetti sia generali che tecnici; la seconda parte presenta verifiche riferite ad aspetti di tipo **generale** del progetto, ed infine ci si riferisce all’intera **opera muraria** in cui si controllano gli aspetti di interazione tra gli elementi costruttivi utilizzati.
+La prima sezione di verifiche si applica ai **materiali** che compongono la muratura quali blocchi in laterizio, blocchi in calcestruzzo e malta, considerandone gli aspetti sia generali che tecnici; la seconda parte presenta verifiche riferite all’intera **opera muraria** in cui si controllano gli aspetti di interazione tra gli elementi costruttivi utilizzati, introducendo particolari verifiche sulla modalità di posa.
 
-Ai fini della validazione di un progetto, è quindi necessario individuare la varietà di opere murarie previste, in modo da intraprendere le verifiche relative alla tipologia del blocco da costruzione corrispondente. Nei fogli “Materiali_Laterizio”, “Materiali_Cls” e “Materiali_Malta” si fa quindi riferimento alla scheda di verifiche dei singoli materiali, mentre,  nei fogli “Generale” e “Opere murarie” si fa riferimento, nel primo caso, alle verifiche generali che non interessano, quindi, l’apparecchiatura muraria e nel secondo caso si analizzerà più nel dettaglio l’opera muraria in sé.
+Ai fini della validazione di un progetto, è quindi necessario individuare la varietà di opere murarie previste, in modo da intraprendere le verifiche relative alla tipologia del blocco da costruzione corrispondente. Nei fogli “Materiali_Laterizio”, “Materiali_Cls” e “Materiali_Malta” si fa quindi riferimento alla scheda di verifiche dei singoli materiali, mentre,  nel foglio “Opere murarie” si fa riferimento all’apparecchiatura muraria.
 
 L’applicabilità della guida è stata resa sistematica grazie alla possibilità di filtrare, per colonne, quali controlli effettuare, in base alla classificazione della muratura ed ai documenti di progetto. Infatti, si è indicato, tramite un segno x, in quali campi (uno per colonna) si deve applicare una certa verifica elementare.
 
@@ -269,7 +281,7 @@ Alla guida, viene allegato un file in formato “xlsx” contenente la tabella c
 [Torna al sommario](#0)
 
 ## RIFERIMENTI <a id='7'></a>
-> ### Normativa di riferimento <a id='7.1'></a>
+### Normative di riferimento <a id='7.1'></a>
 
 -	UNI EN 771-1: Specifica per elementi per muratura – Parte 1: Elementi di laterizio per muratura
 -	UNI EN 771-3: Specifica per elementi per muratura – Parte 3: Elementi per muratura di calcestruzzo vibrocompresso
@@ -279,14 +291,14 @@ Alla guida, viene allegato un file in formato “xlsx” contenente la tabella c
 
 [Torna al sommario](#0)
 
-> ### Riferimenti bibliograficio <a id='7.2'></a>
+### Riferimenti bibliografici <a id='7.2'></a>
 
 -	Quaderno del manuale di progettazione edilizia “le chiusure verticali”, Hoepli
 -	Tubi, La realizzazione di murature in laterizio, Roma, Laterservice, 2004, Quinta edizione
 
 [Torna al sommario](#0)
 
-> ### Sitografia <a id='7.3'></a>
+### Sitografia <a id='7.3'></a>
 
 -	http://store.uni.com/catalogo/index.php/?josso_back_to=http://store.uni.com/josso-security-check.php&josso_cmd=login_optional&josso_partnerapp_host=store.uni.com
 -	https://bsol.bsigroup.com/
