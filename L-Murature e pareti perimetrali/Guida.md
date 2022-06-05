@@ -10,6 +10,10 @@
   - [Guida alla verifica](#4.1)
   - [Guida al rapporto](#4.2)
 - [PIANO DEI CONTROLLI](#5)
+ - [Laterizio](#5.1)
+ - [Calcesttruzzo](#5.2)
+ - [Malta](#5.3)
+ - [Opere murarie](#5.4)
 - [ALLEGATI](#6)
 - [RIFERIMENTI](#7)
   - [Normativa di riferimento](#7.1)
@@ -209,7 +213,7 @@ Dove si intende per:
 
 ## PIANO DEI CONTROLLI <a id='5'></a>
 
->### **<font color="maroon"> L_LATERIZIO </font>**
+>### **<font color="maroon"> L_LATERIZIO </font>** <a id='5.1'></a>
 >>### *A_Informazioni generali*
 >>#### <font color="orange"> *1_Chiarezza e completezza* </font>
 >>**L_A.1.1:** Specificazione elemento di laterizio (blocco o mattone)
@@ -368,16 +372,10 @@ Dove si intende per:
 >>**Esito:**
 >>
 >>**Note:**
->>
 
+[Torna al sommario](#0)
 
-
-
-
-
-
-
->### **<font color="blue"> C_CALCESTRUZZO </font>**
+>### **<font color="blue"> C_CALCESTRUZZO </font>** <a id='5.2'></a>
 >>### *A_Informazioni generali*
 >>#### <font color="orange"> *1_Chiarezza e completezza* </font>
 >> **C_A.1.1:**
@@ -393,7 +391,9 @@ Dove si intende per:
 >>
 >>**Note:**
 
->### **<font color="lime"> M_MALTA </font>**
+[Torna al sommario](#0)
+
+>### **<font color="lime"> M_MALTA </font>** <a id='5.3'></a>
 >>### *A_Informazioni generali*
 >>#### <font color="orange"> *1_Chiarezza e completezza* </font>
 >> **M_A.1.1:**
@@ -409,7 +409,9 @@ Dove si intende per:
 >>
 >>**Note:**
 
->### **<font color="grey"> OM_OPERE MURARIE </font>**
+[Torna al sommario](#0)
+
+>### **<font color="grey"> OM_OPERE MURARIE </font>** <a id='5.4'></a>
 >>### *A_Informazioni generali*
 >>#### <font color="orange"> *1_Chiarezza e completezza* </font>
 >> **M_A.1.1:**
@@ -425,7 +427,7 @@ Dove si intende per:
 >>
 >>**Note:**
 
-
+[Torna al sommario](#0)
 
 ## ALLEGATI <a id='6'></a>
 Alla guida, viene allegato un file in formato “xlsx” contenente la tabella che servirà da checklist per il processo di validazione, dell’opera muraria, dei progetti successivi.
