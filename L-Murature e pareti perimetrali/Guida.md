@@ -218,7 +218,7 @@ Dove si intende per:
 >>#### <font color="orange"> *1_Chiarezza e completezza* </font>
 >>**L_A.1.1:** Specificazione elemento di laterizio (blocco o mattone)
 >>
->>**Esito:** <font color="green"> *CONFORME* </font>
+>>**Esito:**
 >>
 >>**Note:**
 >>
