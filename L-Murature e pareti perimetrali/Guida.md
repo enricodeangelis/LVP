@@ -219,6 +219,8 @@ Dove si intende per:
 2.	<font color="red"> Non conformità </font>: elemento del progetto che contrasta con Leggi cogenti, norme di riferimento, con le richieste prestazionali espresse dal Quadro esigenziale o può essere tale da poter rappresentare oggetto di potenziale contenzioso (economico, tecnico, etc.) tra i soggetti coinvolti nella realizzazione dell’opera.
 3.	<font color="gold"> Osservazione </font>: aspetto progettuale non sufficientemente approfondito, senza che questo si configuri come “non conformità” o indicazioni di tipo non prescrittivo. Le osservazioni non devono essere riferibili a un potenziale errore progettuale e cioè non devono pregiudicare l’opera, il suo utilizzo, e la gestione dell’Appalto
 
+All'interno del file Excel comparirà tra gli esiti anche la seguente posizione: "Non previsto (<font color="grey"> NP </font>)"; in questa categoria rientrano le verifiche elementari non previste, ad esempio, se quelle verifiche sono relative solamente al capitolato o alla relazione strutturale oppure se nel progetto non è presente una determinata tipologia vuol dire che le verifiche relative ad essa non verranno considerate. Nel rapporto di verifica finale verranno riportate solamente le prime tre in quanto quest'ultima serve solamente al validatore. 
+
 [Torna al sommario](#0)
 
 ## 5. PIANO DEI CONTROLLI <a id='5'></a>
