@@ -1197,6 +1197,9 @@ Alla guida, viene allegato un file in formato “xlsx” contenente la tabella c
 -	UNI EN 771-4: Specifica per elementi per muratura – Parte 4: Elementi per muratura di calcestruzzo aerato autoclavato
 -	UNI EN 998-2:2016: Specifiche per malte per opere murarie - Parte 2: Malte da muratura
 -	Norme Tecniche per le costruzioni – Decreto 17 gennaio 2018
+- Eurocodice 6: Progettazione delle strutture in muratura - Parte 1-1: Regole generali per strutture di muratura armata e non armata
+- Eurocodice 6 - Progettazione delle strutture di muratura - Parte 1-2: Regole generali - Progettazione strutturale contro l'incendio
+- Eurocodice 6 - Progettazione delle strutture di muratura - Parte 2: Considerazioni progettuali, selezione dei materiali ed esecuzione delle murature
 
 [Torna al sommario](#0)
 
