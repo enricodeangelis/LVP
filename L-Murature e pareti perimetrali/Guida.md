@@ -187,7 +187,7 @@ Ognuna di queste categorie può avere due tipologie di azioni di controllo rigua
 
 Si riporta in seguito la classificazione schematica delle verifiche elementari, con i relativi caratteri alfanumerici utilizzati per la codifica, in modo da consentirne una chiara e semplice reperibilità.
 
-![image](https://user-images.githubusercontent.com/100944734/172070378-8b23a46d-5650-4c08-a3fc-c207fee36c67.png)
+![image](https://user-images.githubusercontent.com/100944734/172205580-f6b9b4ed-75b1-4a23-b88b-13b41139d076.png)
 
 [Torna al sommario](#0)
 
@@ -207,7 +207,7 @@ Di seguito si riportano le intestazioni delle colonne in questione:
 
 ![image](https://user-images.githubusercontent.com/100944734/172070867-a183adb0-554b-4d12-b3af-711b650398ba.png)
 
-![image](https://user-images.githubusercontent.com/100944734/172070917-0fa30496-4e5a-43be-9226-dd2fbd9cfbdf.png)
+![image](https://user-images.githubusercontent.com/100944734/172206116-7b867d8f-4a3a-47e1-b735-47964621911c.png)
 
 [Torna al sommario](#0)
 
