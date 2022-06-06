@@ -25,6 +25,12 @@ Il seguente documento ha come fine ultimo la stesura di verifiche elementari uti
 
 Si procederà con una descrizione generale sulle pareti perimetrali e i requisiti prestazionali che deve soddisfare, per poi passare ad una trattazione più ampia riguardante le opere murarie e i suoi componenti. Lo scopo della guida è, come accennato in precedenza, quello di agevolare il processo di validazione, essendo uno strumento replicabile e capace di adattarsi a differenti contesti.
 
+> **NB** Questa è una guida specialistica, ovvero, le verifiche riportate all'interno permettono di analizzare diversi aspetti, generali e tecnici, riguardanti una o più tipologie di documento solo in relazione alle opere murarie. Invece, le verifiche distinte per tipologia di documento si intende facciano parte di guide di tipo generale, il cui scopo è quello di analizzare gli aspetti relativi allo specifico documento. Queste ultime saranno da considerarsi a parte.
+>
+> Ad esempio, una relazione strutturale contenente un'opera muraria in laterizio e malta, dovrà essere analizzata:
+- in generale come “Relazione strutturale”;
+- nello specifico con le guide “Materiali_Laterizio”, “Materiali_Malta”, ”Opere murarie”.
+
 [Torna al sommario](#0)
 
 ## 2. PARETE PERIMETRALE <a id='2'></a>
@@ -225,7 +231,7 @@ All'interno del file Excel comparirà tra gli esiti anche la seguente posizione:
 
 ## 5. PIANO DEI CONTROLLI <a id='5'></a>
 
->### **<font color="maroon"> 5.1. L_LATERIZIO </font>** <a id='5.1'></a>
+### **<font color="maroon"> 5.1. L_LATERIZIO </font>** <a id='5.1'></a>
 >>### *A_Informazioni generali*
 >>#### <font color="orange"> *1_Chiarezza e completezza* </font>
 >>**L_A.1.1:** Specificazione elemento di laterizio (blocco o mattone)
@@ -387,7 +393,7 @@ All'interno del file Excel comparirà tra gli esiti anche la seguente posizione:
 
 [Torna al sommario](#0)
 
->### **<font color="blue"> 5.2. C_CALCESTRUZZO </font>** <a id='5.2'></a>
+### **<font color="blue"> 5.2. C_CALCESTRUZZO </font>** <a id='5.2'></a>
 >>### *A_Informazioni generali*
 >>#### <font color="orange"> *1_Chiarezza e completezza* </font>
 >> **C_A.1.1:** Specificazione elemento di cls (blocco da intonaco, facciavista o portante)
@@ -525,7 +531,7 @@ All'interno del file Excel comparirà tra gli esiti anche la seguente posizione:
 
 [Torna al sommario](#0)
 
->### **<font color="military green"> 5.3. M_MALTA </font>** <a id='5.3'></a>
+### **<font color="military green"> 5.3. M_MALTA </font>** <a id='5.3'></a>
 >>### *A_Informazioni generali*
 >>#### <font color="orange"> *1_Chiarezza e completezza* </font>
 >> **M_A.1.1:** Prescrizione marcatura CE
@@ -656,7 +662,7 @@ All'interno del file Excel comparirà tra gli esiti anche la seguente posizione:
 
 [Torna al sommario](#0)
 
->### **<font color="grey"> 5.4. OM_OPERE MURARIE </font>** <a id='5.4'></a>
+### **<font color="grey"> 5.4. OM_OPERE MURARIE </font>** <a id='5.4'></a>
 >>### *A_Informazioni generali*
 >>#### <font color="orange"> *1_Chiarezza e completezza* </font>
 >> **OM_A.1.1:** Posizione di giacitura dei mattoni o blocchi. (elaborato grafico)
