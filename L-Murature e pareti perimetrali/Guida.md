@@ -1,4 +1,4 @@
-# **Guida L - Murature e pareti perimetrali**
+# *Guida L - Murature e pareti perimetrali*
 ## SOMMARIO  <a id='0'></a>
 - [1. PREMESSA](#1)
 - [2. PARETE PERIMETRALE](#2)
