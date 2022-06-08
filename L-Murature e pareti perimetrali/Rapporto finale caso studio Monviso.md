@@ -16,20 +16,22 @@
   - [CAPITOLATO](#4.1)
   - [RELAZIONE STRUTTURALE](#4.2)
   - [RELAZIONE TECNICA](#4.3)
+- [RIFERIMENTI](#5)
 
 ## **PREMESSA** <a id='0'></a>
 
 > ### Presentazione del progetto
->
 >*Il progetto Monviso prevede opere di consolidamento per le murature portanti perimetrali, costituite da mattoni pieni e malta. Vi è, inoltre, la nuova costruzione, tramite l'utilizzo di blocchi in calcestruzzo vibrocompresso, di partizioni verticali interne di delimitazione dei cavedi impiantistici.*
 
-> ### Metodo di applicazione
-> Il presente rapporto finale, riporta gli esiti delle verifiche, ottenuti analizzando sia il capitolato che la relazione strutturale, a partire dalle guide riguardanti i materiali (laterizio, calcestruzzo e malta).
+> ### Individuazione criticità
+> Il presente rapporto finale, riporta gli esiti delle verifiche, ottenuti analizzando sia il capitolato che la relazione strutturale, a partire dalle guide riguardanti i **materiali** (laterizio, calcestruzzo e malta).
 >
-> Durante il processo di applicazione delle verifiche ai materiali, si sono già individuate le prime mancanze della documentazione progettuale. Infatti, per quanto riguarda le pareti con elementi in calcestruzzo, mancano totalmente informazioni nella relazione strutturale, mentre nel capitolato ci sono chiare mancanze di informazioni.
+> Prima del processo di applicazione delle verifiche ai materiali, si sono individuate le principali mancanze della documentazione progettuale. Infatti, per quanto riguarda le pareti con elementi in calcestruzzo, nella relazione tecnica vi è indicato solamente che "*La chiusura dei cavedi impianti sarà realizzata con blocchetti in cls vibrocompressi REI 120, spessore 20cm.*". A seguire, si è notata la mancanza totale di informazioni nella relazione strutturale e negli elaborati grafici, mentre nel capitolato ci sono chiare mancanze di indicazioni.
 >
-> A seguito di quanto riscontrato studiando i documenti, si è deciso di applicare le verifiche riguardanti le opere murarie nel loro insieme, unicamente alle murature composte da laterizio e malta, esaminandone anche la relazione tecnica generale.
+> A seguito di quanto riscontrato studiando i documenti, si è deciso di applicare le verifiche riguardanti le **opere murarie** nel loro insieme, unicamente alle murature composte da laterizio e malta, esaminandone anche la relazione tecnica generale (non esaminabile nelle guide dei materiali).
 Gli elaborati grafici non risultavano particolarmente significativi ai fini della validazione del progetto delle opere murarie in quanto non vi sono riferimenti chiari agli interventi in questione, dunque si è analizzato un solo documento che riporta, in numero esiguo, i particolari costruttivi relativi al consolidamento delle pareti con elementi in laterizio.
+
+Nei capitoli successivi si presentano gli esiti a tutte le verifiche applicabili ai documenti di progetto in nostro possesso, con i relativi commenti da rivolgere al progettista ai fini di consentire l'appaltabilità del progetto sotto gli aspetti analizzati.
 
 [Torna al sommario](#0)
 
@@ -1317,5 +1319,10 @@ Gli elaborati grafici non risultavano particolarmente significativi ai fini dell
 >>**Esito:**
 >>
 >>**Note:**
+
+[Torna al sommario](#0)
+
+## **RIFERIMENTI** <a id='5'></a>
+Il presente rapporto viene consegnato come complemento del documento "*Guida L - Murature e pareti perimetrali*".
 
 [Torna al sommario](#0)
