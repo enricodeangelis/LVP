@@ -2,23 +2,23 @@
 # **RAPPORTO DI VERIFICA FINALE**
 
 ## **SOMMARIO**  <a id='0'></a>
-- [PREMESSA](#0)
-- [LATERIZIO](#1)
-  - [CAPITOLATO](#1.1)
-  - [RELAZIONE STRUTTURALE](#1.2)
-- [CALCESTRUZZO](#2)
+- [PREMESSA](#1)
+- [LATERIZIO](#2)
   - [CAPITOLATO](#2.1)
   - [RELAZIONE STRUTTURALE](#2.2)
-- [MALTA](#3)
+- [CALCESTRUZZO](#3)
   - [CAPITOLATO](#3.1)
   - [RELAZIONE STRUTTURALE](#3.2)
-- [OPERE MURARIE](#4)
+- [MALTA](#4)
   - [CAPITOLATO](#4.1)
   - [RELAZIONE STRUTTURALE](#4.2)
-  - [RELAZIONE TECNICA](#4.3)
-- [RIFERIMENTI](#5)
+- [OPERE MURARIE](#5)
+  - [CAPITOLATO](#5.1)
+  - [RELAZIONE STRUTTURALE](#5.2)
+  - [RELAZIONE TECNICA](#5.3)
+- [RIFERIMENTI](#6)
 
-## **PREMESSA** <a id='0'></a>
+## **PREMESSA** <a id='1'></a>
 
 > ### Presentazione del progetto
 >*Il progetto Monviso prevede opere di consolidamento per le murature portanti perimetrali, costituite da mattoni pieni e malta. Vi è, inoltre, la nuova costruzione, tramite l'utilizzo di blocchi in calcestruzzo vibrocompresso, di partizioni verticali interne di delimitazione dei cavedi impiantistici.*
@@ -35,8 +35,8 @@ Nei capitoli successivi si presentano gli esiti a tutte le verifiche applicabili
 
 [Torna al sommario](#0)
 
-## **<font color="maroon"> L_LATERIZIO </font>** <a id='1'></a>
->### **CAPITOLATO** <a id='1.1'></a>
+## **<font color="maroon"> L_LATERIZIO </font>** <a id='2'></a>
+>### **CAPITOLATO** <a id='2.1'></a>
 >>### *A_Informazioni generali*
 >>#### <font color="orange"> *1_Chiarezza e completezza* </font>
 >>**L_A.1.1:** Specificazione elemento di laterizio (blocco o mattone)
@@ -133,7 +133,7 @@ Nei capitoli successivi si presentano gli esiti a tutte le verifiche applicabili
 
 [Torna al sommario](#0)
 
->### **RELAZIONE STRUTTURALE** <a id='1.2'></a>
+>### **RELAZIONE STRUTTURALE** <a id='2.2'></a>
 >>### *A_Informazioni generali*
 >>#### <font color="orange"> *1_Chiarezza e completezza* </font>
 >>**L_A.1.1:** Specificazione elemento di laterizio (blocco o mattone)
@@ -184,8 +184,8 @@ Nei capitoli successivi si presentano gli esiti a tutte le verifiche applicabili
 
 [Torna al sommario](#0)
 
-### **<font color="blue"> C_CALCESTRUZZO </font>** <a id='2'></a>
->### **CAPITOLATO** <a id='2.1'></a>
+### **<font color="blue"> C_CALCESTRUZZO </font>** <a id='3'></a>
+>### **CAPITOLATO** <a id='3.1'></a>
 >>### *A_Informazioni generali*
 >>#### <font color="orange"> *1_Chiarezza e completezza* </font>
 >> **C_A.1.1:** Specificazione elemento di cls (blocco da intonaco, facciavista o portante)
@@ -260,7 +260,7 @@ Nei capitoli successivi si presentano gli esiti a tutte le verifiche applicabili
 
 [Torna al sommario](#0)
 
->### **RELAZIONE STRUTTURALE** <a id='2.2'></a>
+>### **RELAZIONE STRUTTURALE** <a id='3.2'></a>
 >>### *A_Informazioni generali*
 >>#### <font color="orange"> *1_Chiarezza e completezza* </font>
 >> **C_A.1.1:** Specificazione elemento di cls (blocco da intonaco, facciavista o portante)
@@ -337,8 +337,8 @@ Nei capitoli successivi si presentano gli esiti a tutte le verifiche applicabili
 
 [Torna al sommario](#0)
 
-## **<font color="military green"> M_MALTA </font>** <a id='3'></a>
->### **CAPITOLATO** <a id='3.1'></a>
+## **<font color="military green"> M_MALTA </font>** <a id='4'></a>
+>### **CAPITOLATO** <a id='4.1'></a>
 >>### *A_Informazioni generali*
 >>#### <font color="orange"> *1_Chiarezza e completezza* </font>
 >> **M_A.1.1:** Prescrizione marcatura CE
@@ -425,7 +425,7 @@ Nei capitoli successivi si presentano gli esiti a tutte le verifiche applicabili
 
 [Torna al sommario](#0)
 
->### **RELAZIONE STRUTTURALE** <a id='3.2'></a>
+>### **RELAZIONE STRUTTURALE** <a id='4.2'></a>
 >>### *A_Informazioni generali*
 >>#### <font color="orange"> *1_Chiarezza e completezza* </font>
 >> **M_A.1.2:** Specificazione tipologia di malta (a prestazione garantita o a composizione prescritta)
@@ -465,8 +465,8 @@ Nei capitoli successivi si presentano gli esiti a tutte le verifiche applicabili
 
 [Torna al sommario](#0)
 
-### **<font color="grey"> OM_OPERE MURARIE </font>** <a id='4'></a>
->### **CAPITOLATO** <a id='4.1'></a>
+### **<font color="grey"> OM_OPERE MURARIE </font>** <a id='5'></a>
+>### **CAPITOLATO** <a id='5.1'></a>
 >>### *A_Informazioni generali*
 >>#### <font color="violet"> *2_Adeguatezza* </font>
 >>#### <font color="pink"> *3_Coerenza* </font>
@@ -619,7 +619,7 @@ Nei capitoli successivi si presentano gli esiti a tutte le verifiche applicabili
 
 [Torna al sommario](#0)
 
->### **RELAZIONE STRUTTURALE** <a id='4.2'></a>
+>### **RELAZIONE STRUTTURALE** <a id='5.2'></a>
 >>### *A_Informazioni generali*
 >>#### <font color="orange"> *1_Chiarezza e completezza* </font>
 >> **OM_A.1.2:** Per murature esistenti, siano conoscibili la geometria, particolari costruttivi, proprietà meccaniche dei materiali e dei terreni e carichi permanenti
@@ -836,7 +836,7 @@ Nei capitoli successivi si presentano gli esiti a tutte le verifiche applicabili
 
 [Torna al sommario](#0)
 
->### **RELAZIONE TECNICA** <a id='4.3'></a>
+>### **RELAZIONE TECNICA** <a id='5.3'></a>
 >>### *A_Informazioni generali*
 >>#### <font color="orange"> *1_Chiarezza e completezza* </font>
 >> **OM_A.1.1:** Posizione di giacitura dei mattoni o blocchi. (elaborato grafico)
@@ -1322,7 +1322,7 @@ Nei capitoli successivi si presentano gli esiti a tutte le verifiche applicabili
 
 [Torna al sommario](#0)
 
-## **RIFERIMENTI** <a id='5'></a>
+## **RIFERIMENTI** <a id='6'></a>
 Il presente rapporto viene consegnato come complemento del documento "*Guida L - Murature e pareti perimetrali*".
 
 [Torna al sommario](#0)
