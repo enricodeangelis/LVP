@@ -1,6 +1,6 @@
 # L-Murature e pareti perimetrali
 
-> **NB** Normative cercate inizialmente, quindi sono incluse anche normative che poi si sono rivelate non utili ai fini della stesura della guida.
+> **NB** Normative cercate inizialmente, per avere un quadro generale; sono incluse anche normative che poi si sono rivelate non utili ai fini della stesura della guida.
 
 ## Riferimenti
 
