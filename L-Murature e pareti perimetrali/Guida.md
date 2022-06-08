@@ -1181,6 +1181,10 @@ Alla guida, viene allegato un file in formato “xlsx” contenente la tabella c
 
 -	Quaderno del manuale di progettazione edilizia “le chiusure verticali”, Hoepli
 -	Tubi, La realizzazione di murature in laterizio, Roma, Laterservice, 2004, Quinta edizione
+-	Manuale di posa calcestruzzo aerato autoclavato, ASSOBETON
+-	Volume 2 - BLOCCHI - Codice di pratica per la posa in opera di blocchi in calcestruzzo, ASSOBETON
+
+
 
 [Torna al sommario](#0)
 
