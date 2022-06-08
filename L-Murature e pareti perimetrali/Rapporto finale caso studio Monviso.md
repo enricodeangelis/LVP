@@ -8,7 +8,6 @@
   - [RELAZIONE STRUTTURALE](#2.2)
 - [CALCESTRUZZO](#3)
   - [CAPITOLATO](#3.1)
-  - [RELAZIONE STRUTTURALE](#3.2)
 - [MALTA](#4)
   - [CAPITOLATO](#4.1)
   - [RELAZIONE STRUTTURALE](#4.2)
@@ -761,7 +760,6 @@ Nei capitoli successivi si presentano gli esiti a tutte le verifiche applicabili
 
 >### **RELAZIONE TECNICA** <a id='5.3'></a>
 >>### *A_Informazioni generali*
->>
 >>#### <font color="violet"> *2_Adeguatezza* </font>
 >>**OM_A.2.1:** Per murature esistenti, corrispondenza con relazione delle indagini struttuali
 >>
@@ -779,9 +777,7 @@ Nei capitoli successivi si presentano gli esiti a tutte le verifiche applicabili
 >>**OM_A.3.2:** Coerenza delle informazioni indicate con i dati di progetto (in relazione generale o altri elaborati), tra cui: destinazione d'uso dell'edificio, località di progetto, vita nominale dell'opera.
 >>
 >>**Esito:** <font color="green"> *CONFORME* </font>
->>
->>**Note:**
->>
+>
 >>### *C_Specifiche tecniche*
 >>#### <font color="violet"> *2_Adeguatezza* </font>
 >>**OM_C.2.5:** Spessore di 150 mm per muratura in elementi resistenti artificiali pieni
@@ -792,19 +788,16 @@ Nei capitoli successivi si presentano gli esiti a tutte le verifiche applicabili
 >>
 >>**OM_C.2.9:** Rapporto tra altezza di interpiano e spessore del muro non dovrà essere superiore a 20 cm
 >>
->>
 >>**Esito:** <font color="red"> *NON CONFORME* </font>
 >>
 >>**Note:** Nella relazione non vi sono le informazionin riguardanti lo spessore totale delle pareti perimetrali, e nemmeno attraverso il confronto con altri documenti emerge il dato. Si sarebbe valutata con il caso più sfavorevole: altezza interpiano massima da progetto (270 cm) e spessore del muro minimo previsto.
 >>
->
 >>#### <font color="pink"> *3_Coerenza* </font>
 >>**OM_C.3.2:** Coerenza conducibilità termica con quanto riportato nelle relazioni specialistiche impiantistiche
 >>
 >>**Esito:**  <font color="gold"> *OSSERVAZIONE* </font>
 >>
 >>**Note:** Non è presente l'indicazione della conducibilità, non è pertanto possibile valutarne la coerenza.
->>
 >
 >>### *D_Modalità di posa*
 >>#### <font color="orange"> *1_Chiarezza e completezza* </font>
@@ -813,7 +806,6 @@ Nei capitoli successivi si presentano gli esiti a tutte le verifiche applicabili
 >>**Esito:** <font color="gold"> *OSSERVAZIONE* </font>
 >>
 >>**Note:** Non è presente l'indicazione richiesta, risulta utile il rimando ad altri elaborati.
-
 
 [Torna al sommario](#0)
 
