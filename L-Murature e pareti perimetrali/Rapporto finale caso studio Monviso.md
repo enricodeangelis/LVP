@@ -10,11 +10,8 @@
   - [CAPITOLATO](#2.1)
   - [RELAZIONE STRUTTURALE](#2.2)
 - [MALTA](#3)
-  - [Per laterizio](#3.1)
-    - [CAPITOLATO](#3.1.1)
-    - [RELAZIONE STRUTTURALE](#3.1.2)
-  - [Per calcestruzzo](#3.2)
-      - [CAPITOLATO](#3.2.1)
+  - [CAPITOLATO](#3.1)
+  - [RELAZIONE STRUTTURALE](#3.2)
 - [OPERE MURARIE](#4)
   - [CAPITOLATO](#4.1)
   - [RELAZIONE STRUTTURALE](#4.2)
@@ -328,8 +325,7 @@
 [Torna al sommario](#0)
 
 ## **<font color="military green"> M_MALTA </font>** <a id='3'></a>
-### *Per laterizio* <a id='3.1'></a>
->### **CAPITOLATO** <a id='3.1.1'></a>
+>### **CAPITOLATO** <a id='3.1'></a>
 >>### *A_Informazioni generali*
 >>#### <font color="orange"> *1_Chiarezza e completezza* </font>
 >> **M_A.1.1:** Prescrizione marcatura CE
@@ -398,17 +394,17 @@
 >>**Esito:** <font color="green"> *CONFORME* </font>
 >>
 >>#### <font color="violet"> *2_Adeguatezza* </font>
->>**L_M.2.1:** Verificare che la resistenza media a compressione non sia inferiore a 5 Mpa
+>>**M.C.2.1:** Verificare che la resistenza media a compressione non sia inferiore a 5 Mpa
 >>
 >>**Esito:** <font color="green"> *CONFORME* </font>
 >>
->>**L_M.2.2:** Specificazione del contenuto di cloruri, della malta secca,  inferiore allo 0,1%.
+>>**M.C.2.2:** Specificazione del contenuto di cloruri, della malta secca,  inferiore allo 0,1%.
 >>
 >>**Esito:** <font color="gold"> *OSSERVAZIONE* </font>
 >>
 >>**Note:** Non sono presenti indicazioni sul contenuto di cloruri della malta secca. Dice solamente che deve essere rispondente alla norma UNI EN 998. Sarebbe opportuno indicarla specificatamente nel capitolato
 >>
->>**L_M.2.3:** Verificare che la descrizione delle prove di accettazione sia conforme rispetto a quanto riportato nel paragrafo 11.10.2.4 delle NTC 2018 (pg. 367)
+>>**M.C.2.3:** Verificare che la descrizione delle prove di accettazione sia conforme rispetto a quanto riportato nel paragrafo 11.10.2.4 delle NTC 2018 (pg. 367)
 >>
 >>**Esito:** <font color="gold"> *OSSERVAZIONE* </font>
 >>
@@ -416,7 +412,7 @@
 
 [Torna al sommario](#0)
 
->### **RELAZIONE STRUTTURALE** <a id='3.1.2'></a>
+>### **RELAZIONE STRUTTURALE** <a id='3.2'></a>
 >>### *A_Informazioni generali*
 >>#### <font color="orange"> *1_Chiarezza e completezza* </font>
 >> **M_A.1.2:** Specificazione tipologia di malta (a prestazione garantita o a composizione prescritta)
@@ -450,141 +446,9 @@
 >>**Note:** Non sono presenti indicazioni sulla vita utile della malta. Dice solamente che deve essere rispondente alla norma UNI EN 998. Sarebbe opportuno indicarla specificatamente nel capitolato
 >>
 >>#### <font color="violet"> *2_Adeguatezza* </font>
->>**L_M.2.1:** Verificare che la resistenza media a compressione non sia inferiore a 5 Mpa
+>>**M.C.2.1:** Verificare che la resistenza media a compressione non sia inferiore a 5 Mpa
 >>
 >>**Esito:** <font color="green"> *CONFORME* </font>
-
-[Torna al sommario](#0)
-
-### *Per calcestruzzo* <a id='3.2'></a>
->### **CAPITOLATO** <a id='3.2.1'></a>
->>### *A_Informazioni generali*
->>#### <font color="orange"> *1_Chiarezza e completezza* </font>
->> **M_A.1.1:** Prescrizione marcatura CE
->>
->>**Esito:**
->>
->>**Note:**
->>
->> **M_A.1.2:** Specificazione tipologia di malta (a prestazione garantita o a composizione prescritta)
->>
->>**Esito:**
->>
->>**Note:**
->>
->> **M_A.1.3:** Specificazione spessore malta
->>
->>**Esito:**
->>
->>**Note:**
->>
->> **M_A.1.4:** Se muratura con blocchi rettificati, ove lo spessore della malta è inferiore a 5mm, la resistenza della muratura deve essere calcolata sperimentalmente
->>
->>**Esito:**
->>
->>**Note:**
->>
->> **M_A.1.5:** Se muratura con spessore della malta superiore a 15mm, la resistenza della muratura deve essere calcolata sperimentalmente
->>
->>**Esito:**
->>
->>**Note:**
->>
->> **M_A.1.6:** Specificazione caratteristiche giunto orizzontale e verticali
->>
->>**Esito:**
->>
->>**Note:**
->>
->>#### <font color="violet"> *2_Adeguatezza* </font>
->>**M_A.2.1:** Per murature comuni lo spessore deve essere compreso tra 5mm e 15mm
->>
->>**Esito:**
->>
->>**Note:**
->
->>### *B_Normativa di riferimento*
->>#### <font color="violet"> *2_Adeguatezza* </font>
->>**M_B.2.1:** Rispondenza alla norma europea UNI EN 998-2:2016
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**M_B.2.2:** Rispondenza alle Norme Tecniche per le Costruzioni
->>
->>**Esito:**
->>
->>**Note:**
->
->>### *C_Specifiche tecniche*
->>#### <font color="orange"> *1_Chiarezza e completezza* </font>
->>**M_C.1.1:** Specificazione del valore di resistenza a media a compressione espresso in N/mm²
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**M_C.1.2:** Specificazione classe di resistenza a compressione tramite classificazione riportata nella Tab.11.10.II delle NTC 2018 (pg. 366)
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**M_C.1.3:** Specificazione classe di resistenza a compressione e proporzioni di composizione in volume o massa di tutti i costituenti tramite classificazione riportata nella Tab.11.10.V delle NTC 2018 (pg. 366)
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**M_C.1.4:** Specificazione del valore del coefficiente di assorbimento d'acqua espresso in g/m2s
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**M_C.1.5:** Specificazione del valore medio della conducibilità termica espresso in W/(mK)
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**M_C.1.6:** Vita utile della malta
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**M_C.1.7:** Classificazione di reazione al fuoco
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**M_C.1.8:** Verificare che siano indicate le prove di accettazione che il DL è tenuto ad eseguire sugli elementi in laterizio pervenuti in centiere
->>
->>**Esito:**
->>
->>**Note:**
->>
->>#### <font color="violet"> *2_Adeguatezza* </font>
->>**m_C.2.1:** Verificare che la resistenza media a compressione non sia inferiore a 5 Mpa
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**M_C.2.2:** Specificazione del contenuto di cloruri, della malta secca,  inferiore allo 0,1%.
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**M_C.2.3:** Verificare che la descrizione delle prove di accettazione sia conforme rispetto a quanto riportato nel paragrafo 11.10.2.4 delle NTC 2018 (pg. 367)
->>
->>**Esito:**
->>
->>**Note:**
 
 [Torna al sommario](#0)
 
