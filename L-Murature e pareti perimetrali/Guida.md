@@ -235,6 +235,8 @@ Per facilitare l'inserimento degli esiti delle verifiche su Atom è possibile fi
 
 Di seguito un immagine per facilitare la comprensione.
 
+![image](https://user-images.githubusercontent.com/100944734/172574223-565f3d4b-cd5c-45f7-abff-fc10dbc067c5.png)
+
 [Torna al sommario](#0)
 
 ## 5. PIANO DEI CONTROLLI <a id='5'></a>
