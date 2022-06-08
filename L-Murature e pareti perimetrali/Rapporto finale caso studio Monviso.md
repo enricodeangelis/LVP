@@ -18,7 +18,18 @@
   - [RELAZIONE TECNICA](#4.3)
 
 ## **PREMESSA** <a id='0'></a>
-> Per il laterizio, il calcestruzzo e la malta, sono stati analizzati  sia il capitolato che la relazione strutturale. Per quanto riguarda le verifiche inerenti alle opere murarie sono stati analizzati capitolato, relazione strutturale e relazione tecnica della muratura in laterizio in quanto quella relativa al calcestruzzo era già carente a livello di materiale.
+
+> ### Presentazione del progetto
+>
+>*Il progetto Monviso prevede opere di consolidamento per le murature portanti perimetrali, costituite da mattoni pieni e malta. Vi è, inoltre, la nuova costruzione, tramite l'utilizzo di blocchi in calcestruzzo vibrocompresso, di partizioni verticali interne di delimitazione dei cavedi impiantistici.*
+
+> ### Metodo di applicazione
+> Il presente rapporto finale, riporta gli esiti delle verifiche, ottenuti analizzando sia il capitolato che la relazione strutturale, a partire dalle guide riguardanti i materiali (laterizio, calcestruzzo e malta).
+>
+> Durante il processo di applicazione delle verifiche ai materiali, si sono già individuate le prime mancanze della documentazione progettuale. Infatti, per quanto riguarda le pareti con elementi in calcestruzzo, mancano totalmente informazioni nella relazione strutturale, mentre nel capitolato ci sono chiare mancanze di informazioni.
+>
+> A seguito di quanto riscontrato studiando i documenti, si è deciso di applicare le verifiche riguardanti le opere murarie nel loro insieme, unicamente alle murature composte da laterizio e malta, esaminandone anche la relazione tecnica generale.
+Gli elaborati grafici non risultavano particolarmente significativi ai fini della validazione del progetto delle opere murarie in quanto non vi sono riferimenti chiari agli interventi in questione, dunque si è analizzato un solo documento che riporta, in numero esiguo, i particolari costruttivi relativi al consolidamento delle pareti con elementi in laterizio.
 
 [Torna al sommario](#0)
 
@@ -510,9 +521,9 @@
 >>
 >>**OM_C.1.19:** Indicazione delle modalità di gestione della muratura dopo l'esecuzione.
 >>
->>**Esito:** <font color="red"> *NON CONFORME* </font>
+>>**Esito:** <font color="gold"> *OSSERVAZIONE* </font>
 >>
->>**Note:** Non ci sono dati relativi alla manutenzione della muratura dopo l'esecuzione. Sarebbe opportuno trattare l'argomento.
+>>**Note:** Non ci sono dati relativi alla manutenzione della muratura dopo l'esecuzione. Sarebbe opportuno trattare l'argomento o rimandare ad altri documenti.
 >>
 >>#### <font color="violet"> *2_Adeguatezza* </font>
 >>**OM_C.2.5:** Spessore di 150 mm per muratura in elementi resistenti artificiali pieni
