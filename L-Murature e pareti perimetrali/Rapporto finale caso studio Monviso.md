@@ -2,6 +2,7 @@
 # **RAPPORTO DI VERIFICA FINALE**
 
 ## **SOMMARIO**  <a id='0'></a>
+- [PREMESSA](#0)
 - [LATERIZIO](#1)
   - [CAPITOLATO](#1.1)
   - [RELAZIONE STRUTTURALE](#1.2)
@@ -9,14 +10,20 @@
   - [CAPITOLATO](#2.1)
   - [RELAZIONE STRUTTURALE](#2.2)
 - [MALTA](#3)
-  - [CAPITOLATO](#3.1)
-  - [RELAZIONE STRUTTURALE](#3.2)
+  - [Per laterizio](#3.1)
+    - [CAPITOLATO](#3.1.1)
+    - [RELAZIONE STRUTTURALE](#3.1.2)
+  - [Per calcestruzzo](#3.2)
+      - [CAPITOLATO](#3.2.1)
 - [OPERE MURARIE](#4)
   - [CAPITOLATO](#4.1)
   - [RELAZIONE STRUTTURALE](#4.2)
-  - [ELABORATI GRAFICI](#4.3)
-  - [RELAZIONE GENERALE](#4.4)
+  - [RELAZIONE TECNICA](#4.3)
 
+## **PREMESSA** <a id='0'></a>
+> Per il laterizio, il calcestruzzo e la malta, sono stati analizzati  sia il capitolato che la relazione strutturale. Per quanto riguarda le verifiche inerenti alle opere murarie sono stati analizzati capitolato, relazione strutturale e relazione tecnica della muratura in laterizio in quanto quella relativa al calcestruzzo era già carente a livello di materiale.
+
+[Torna al sommario](#0)
 
 ## **<font color="maroon"> L_LATERIZIO </font>** <a id='1'></a>
 >### **CAPITOLATO** <a id='1.1'></a>
@@ -173,135 +180,73 @@
 >>#### <font color="orange"> *1_Chiarezza e completezza* </font>
 >> **C_A.1.1:** Specificazione elemento di cls (blocco da intonaco, facciavista o portante)
 >>
->>**Esito:**
->>
->>**Note:**
+>>**Esito:** <font color="green"> *CONFORME* </font>
 >>
 >> **C_A.1.2:** Specificazione elemento di cls (blocco cavo o multicamera)
 >>
->>**Esito:**
->>
->>**Note:**
->>
->> **C_A.1.3:** Specificazione elemento di cls (blocco correa, incastro, cassero o pilastro)
->>
->>**Esito:**
->>
->>**Note:**
+>>**Esito:** <font color="green"> *CONFORME* </font>
 >>
 >> **C_A.1.4:** Prescrizione marcatura CE
 >>
->>**Esito:**
+>>**Esito:** <font color="gold"> *OSSERVAZIONE* </font>
 >>
->>**Note:**
+>>**Note:** Non è prescritta la marcatura CE per i blocchi in calcestruzzo
 >>
 >>#### <font color="violet"> *2_Adeguatezza* </font>
 >>**C_A.2.1:** Verifica della percentuale volumetrica degli eventuali vuoti, non superiore al 45% del volume totale del blocco
 >>
->>**Esito:**
+>>**Esito:** <font color="gold"> *OSSERVAZIONE* </font>
 >>
->>**Note:**
+>>**Note:** Mancanza di informazione: verificare in relazione di calcolo
 >
 >>### *B_Normativa di riferimento*
 >>#### <font color="violet"> *2_Adeguatezza* </font>
 >> **C_B.2.1:** Rispondenza alla norma europea UNI EN 771-3, Specifica per elementi per muratura – Parte 3: Elementi per muratura di calcestruzzo vibrocompresso
 >>
->>**Esito:**
+>>**Esito:** <font color="gold"> *OSSERVAZIONE* </font>
 >>
->>**Note:**
->>
->> **C_B.2.2:** Rispondenza alla norma europea UNI EN 771-4, Specifica per elementi per muratura – Parte 4: Elementi per muratura di calcestruzzo aerato autoclavato
->>
->>**Esito:**
->>
->>**Note:**
+>>**Note:** Il documento fa riferimento all'utilizzo della normativa nel capitolo 3.16.5, quindi in riferimento al cap. 3.16 "Muratura portante il laterizio"
 >>
 >> **C_B.2.3:** Rispondenza alle Norme Tecniche per le Costruzioni
 >>
->>**Esito:**
->>
->>**Note:**
+>>**Esito:** <font color="green"> *CONFORME* </font>
 >
 >>### *C_Specifiche tecniche*
 >>#### <font color="orange"> *1_Chiarezza e completezza* </font>
 >> **C_C.1.1:** Specificazione delle dimensioni dell'elemento in calcestruzzo per lunghezza, larghezza e altezza
 >>
->>**Esito:**
+>>**Esito:** <font color="gold"> *OSSERVAZIONE* </font>
 >>
->>**Note:**
->>
->> **C_C.1.2:** Specificazione della categoria di tolleranza dimensionale espressa in mm
->>
->>**Esito:**
->>
->>**Note:**
->>
->> **C_C.1.3:** Specificazione della densità (valore netto e lordo) espressa in kg/m3
->>
->>**Esito:**
->>
->>**Note:**
->>
->> **C_C.1.4:** Specificazione del valore medio della conducibilità termica espresso in W/(mK)
->>
->>**Esito:**
->>
->>**Note:**
->>
->> **C_C.1.5:** Specificazione del valore di resistenza al gelo/disgelo
->>
->>**Esito:**
->>
->>**Note:**
->>
->> **C_C.1.6:** Specificazione del valore di resistenza caratteristica a compressione e categoria (I o II) espresso in N/mm2
->>
->>**Esito:**
->>
->>**Note:**
->>
->> **C_C.1.7:** Specificazione del valore del massimo coefficiente di assorbimento d'acqua dovuto a azione capillare della faccia esposta dell'unità in g/m2s
->>
->>**Esito:**
->>
->>**Note:**
+>>**Note:** Nel cap. 3.17.1 viene indicata una distanza dal bordo esterno al foro più vicino pari a 2 cm. Mancano indicazioni relative le dimensioni generale dei prodotti: valutare rimando ad altri elaborati
 >>
 >> **C_C.1.8:** Verificare che, nel capitolato, siano indicate le prove di accettazione che il DL è tenuto ad eseguire sugli elementi in calcestruzzo pervenuti in centiere
 >>
->>**Esito:**
->>
->>**Note:**
+>>**Esito:** <font color="green"> *CONFORME* </font>
 >>
 >>#### <font color="violet"> *2_Adeguatezza* </font>
 >> **C_C.2.1:** Valori di resistenza a compressione caratteristica e normalizzata, per blocchi in calcestruzzo vibrocompresso, non devono essere inferiori a quanto dichiarato, in caso di prove su campionatura secondo EN 772-1
 >>
->>**Esito:**
+>>**Esito:** <font color="gold"> *OSSERVAZIONE* </font>
 >>
->>**Note:**
+>>**Note:** Assente: valutazione in relazione di calcolo
 >>
 >> **C_C.2.2:** Valore di resistenza a compressione, per blocchi in calcestruzzo autoclavato, non inferiore a 1,5 N/mm2
 >>
->>**Esito:**
+>>**Esito:** <font color="gold"> *OSSERVAZIONE* </font>
 >>
->>**Note:**
+>>**Note:** Assente: valutazione in relazione di calcolo
 >>
 >> **C_C.2.3:** Le unità in muratura, contenenti una frazione di massa o volume > 1,0 % (a seconda di quale sia il più oneroso) di materiali organici distribuiti omogeneamente, devono essere classificate secondo la EN 13501-1 e deve essere dichiarata la classe di reazione al fuoco appropriata
 >>
->>**Esito:**
+>>**Esito:** <font color="gold"> *OSSERVAZIONE* </font>
 >>
->>**Note:**
->>
->> **C_C.2.4:** Verificare che il materiale sia conforme al paragrafo 7.8.1.2 (pg. 261) per progettazione sismica
->>
->>**Esito:**
->>
->>**Note:**
+>>**Note:** Assente: valutazione in relazione di calcolo
 >>
 >> **C_C.2.5:** Verificare che la descrizione delle prove di accettazione sia conforme rispetto a quanto riportato nel paragrafo 11.10.1.1.1 della NTC (pg. 365)
 >>
->>**Esito:**
+>>**Esito:** <font color="gold"> *OSSERVAZIONE* </font>
 >>
->>**Note:**
+>>**Note:** Per la descrizione delle prove di accettazione, il documento cita alcuni riferimenti normativi ma non le NTC, e non sono descritte nel capitolato
 
 [Torna al sommario](#0)
 
@@ -310,141 +255,81 @@
 >>#### <font color="orange"> *1_Chiarezza e completezza* </font>
 >> **C_A.1.1:** Specificazione elemento di cls (blocco da intonaco, facciavista o portante)
 >>
->>**Esito:**
+>>**Esito:** <font color="gold"> *OSSERVAZIONE* </font>
 >>
->>**Note:**
+>>**Note:** Mancanza di informazione: verificare in capitolato
 >>
 >> **C_A.1.2:** Specificazione elemento di cls (blocco cavo o multicamera)
 >>
->>**Esito:**
+>>**Esito:** <font color="gold"> *OSSERVAZIONE* </font>
 >>
->>**Note:**
->>
->> **C_A.1.3:** Specificazione elemento di cls (blocco correa, incastro, cassero o pilastro)
->>
->>**Esito:**
->>
->>**Note:**
->>
->> **C_A.1.4:** Prescrizione marcatura CE
->>
->>**Esito:**
->>
->>**Note:**
+>>**Note:** Mancanza di informazione: verificare in capitolato
 >>
 >>#### <font color="violet"> *2_Adeguatezza* </font>
 >>**C_A.2.1:** Verifica della percentuale volumetrica degli eventuali vuoti, non superiore al 45% del volume totale del blocco
 >>
->>**Esito:**
+>>**Esito:** <font color="red"> *NON CONFORME* </font>
 >>
->>**Note:**
+>>**Note:** Mancanza di capitolo relativo alla muratura in blocchetti in calcestruzzo
 >
 >>### *B_Normativa di riferimento*
 >>#### <font color="violet"> *2_Adeguatezza* </font>
 >> **C_B.2.1:** Rispondenza alla norma europea UNI EN 771-3, Specifica per elementi per muratura – Parte 3: Elementi per muratura di calcestruzzo vibrocompresso
 >>
->>**Esito:**
+>>**Esito:** <font color="red"> *NON CONFORME* </font>
 >>
->>**Note:**
->>
->> **C_B.2.2:** Rispondenza alla norma europea UNI EN 771-4, Specifica per elementi per muratura – Parte 4: Elementi per muratura di calcestruzzo aerato autoclavato
->>
->>**Esito:**
->>
->>**Note:**
+>>**Note:** Mancanza di capitolo relativo alla muratura in blocchetti in calcestruzzo
 >>
 >> **C_B.2.3:** Rispondenza alle Norme Tecniche per le Costruzioni
 >>
->>**Esito:**
+>>**Esito:** <font color="gold"> *OSSERVAZIONE* </font>
 >>
->>**Note:**
+>>**Note:** Non viene specificato l'utilizzo per le murature in blocchi in cls
 >
 >>### *C_Specifiche tecniche*
 >>#### <font color="orange"> *1_Chiarezza e completezza* </font>
 >> **C_C.1.1:** Specificazione delle dimensioni dell'elemento in calcestruzzo per lunghezza, larghezza e altezza
 >>
->>**Esito:**
+>>**Esito:** <font color="gold"> *OSSERVAZIONE* </font>
 >>
->>**Note:**
+>>**Note:** Mancano indicazioni relative le dimensioni generale dei prodotti: valutare rimando ad altri elaborati
 >>
 >> **C_C.1.2:** Specificazione della categoria di tolleranza dimensionale espressa in mm
 >>
->>**Esito:**
+>>**Esito:** <font color="gold"> *OSSERVAZIONE* </font>
 >>
->>**Note:**
->>
->> **C_C.1.3:** Specificazione della densità (valore netto e lordo) espressa in kg/m3
->>
->>**Esito:**
->>
->>**Note:**
+>>**Note:** Mancanza di informazione
 >>
 >> **C_C.1.4:** Specificazione del valore medio della conducibilità termica espresso in W/(mK)
 >>
->>**Esito:**
+>>**Esito:** <font color="gold"> *OSSERVAZIONE* </font>
 >>
->>**Note:**
->>
->> **C_C.1.5:** Specificazione del valore di resistenza al gelo/disgelo
->>
->>**Esito:**
->>
->>**Note:**
->>
->> **C_C.1.6:** Specificazione del valore di resistenza caratteristica a compressione e categoria (I o II) espresso in N/mm2
->>
->>**Esito:**
->>
->>**Note:**
->>
->> **C_C.1.7:** Specificazione del valore del massimo coefficiente di assorbimento d'acqua dovuto a azione capillare della faccia esposta dell'unità in g/m2s
->>
->>**Esito:**
->>
->>**Note:**
->>
->> **C_C.1.8:** Verificare che, nel capitolato, siano indicate le prove di accettazione che il DL è tenuto ad eseguire sugli elementi in calcestruzzo pervenuti in centiere
->>
->>**Esito:**
->>
->>**Note:**
+>>**Note:** Mancanza di informazione: valutare di fare riferimento ad altri elaborati
 >>
 >>#### <font color="violet"> *2_Adeguatezza* </font>
 >> **C_C.2.1:** Valori di resistenza a compressione caratteristica e normalizzata, per blocchi in calcestruzzo vibrocompresso, non devono essere inferiori a quanto dichiarato, in caso di prove su campionatura secondo EN 772-1
 >>
->>**Esito:**
+>>**Esito:** <font color="red"> *NON CONFORME* </font>
 >>
->>**Note:**
+>>**Note:** Mancanza di capitolo relativo alla muratura in blocchetti in calcestruzzo
 >>
 >> **C_C.2.2:** Valore di resistenza a compressione, per blocchi in calcestruzzo autoclavato, non inferiore a 1,5 N/mm2
 >>
->>**Esito:**
+>>**Esito:** <font color="red"> *NON CONFORME* </font>
 >>
->>**Note:**
+>>**Note:** Mancanza di capitolo relativo alla muratura in blocchetti in calcestruzzo
 >>
 >> **C_C.2.3:** Le unità in muratura, contenenti una frazione di massa o volume > 1,0 % (a seconda di quale sia il più oneroso) di materiali organici distribuiti omogeneamente, devono essere classificate secondo la EN 13501-1 e deve essere dichiarata la classe di reazione al fuoco appropriata
 >>
->>**Esito:**
+>>**Esito:** <font color="red"> *NON CONFORME* </font>
 >>
->>**Note:**
->>
->> **C_C.2.4:** Verificare che il materiale sia conforme al paragrafo 7.8.1.2 (pg. 261) per progettazione sismica
->>
->>**Esito:**
->>
->>**Note:**
->>
->> **C_C.2.5:** Verificare che la descrizione delle prove di accettazione sia conforme rispetto a quanto riportato nel paragrafo 11.10.1.1.1 della NTC (pg. 365)
->>
->>**Esito:**
->>
->>**Note:**
+>>**Note:** Mancanza di capitolo relativo alla muratura in blocchetti in calcestruzzo
 
 [Torna al sommario](#0)
 
-
 ## **<font color="military green"> M_MALTA </font>** <a id='3'></a>
->### **CAPITOLATO** <a id='3.1'></a>
+### *Per laterizio* <a id='3.1'></a>
+>### **CAPITOLATO** <a id='3.1.1'></a>
 >>### *A_Informazioni generali*
 >>#### <font color="orange"> *1_Chiarezza e completezza* </font>
 >> **M_A.1.1:** Prescrizione marcatura CE
@@ -531,7 +416,7 @@
 
 [Torna al sommario](#0)
 
->### **RELAZIONE STRUTTURALE** <a id='3.2'></a>
+>### **RELAZIONE STRUTTURALE** <a id='3.1.2'></a>
 >>### *A_Informazioni generali*
 >>#### <font color="orange"> *1_Chiarezza e completezza* </font>
 >> **M_A.1.2:** Specificazione tipologia di malta (a prestazione garantita o a composizione prescritta)
@@ -568,6 +453,138 @@
 >>**L_M.2.1:** Verificare che la resistenza media a compressione non sia inferiore a 5 Mpa
 >>
 >>**Esito:** <font color="green"> *CONFORME* </font>
+
+[Torna al sommario](#0)
+
+### *Per calcestruzzo* <a id='3.2'></a>
+>### **CAPITOLATO** <a id='3.2.1'></a>
+>>### *A_Informazioni generali*
+>>#### <font color="orange"> *1_Chiarezza e completezza* </font>
+>> **M_A.1.1:** Prescrizione marcatura CE
+>>
+>>**Esito:**
+>>
+>>**Note:**
+>>
+>> **M_A.1.2:** Specificazione tipologia di malta (a prestazione garantita o a composizione prescritta)
+>>
+>>**Esito:**
+>>
+>>**Note:**
+>>
+>> **M_A.1.3:** Specificazione spessore malta
+>>
+>>**Esito:**
+>>
+>>**Note:**
+>>
+>> **M_A.1.4:** Se muratura con blocchi rettificati, ove lo spessore della malta è inferiore a 5mm, la resistenza della muratura deve essere calcolata sperimentalmente
+>>
+>>**Esito:**
+>>
+>>**Note:**
+>>
+>> **M_A.1.5:** Se muratura con spessore della malta superiore a 15mm, la resistenza della muratura deve essere calcolata sperimentalmente
+>>
+>>**Esito:**
+>>
+>>**Note:**
+>>
+>> **M_A.1.6:** Specificazione caratteristiche giunto orizzontale e verticali
+>>
+>>**Esito:**
+>>
+>>**Note:**
+>>
+>>#### <font color="violet"> *2_Adeguatezza* </font>
+>>**M_A.2.1:** Per murature comuni lo spessore deve essere compreso tra 5mm e 15mm
+>>
+>>**Esito:**
+>>
+>>**Note:**
+>
+>>### *B_Normativa di riferimento*
+>>#### <font color="violet"> *2_Adeguatezza* </font>
+>>**M_B.2.1:** Rispondenza alla norma europea UNI EN 998-2:2016
+>>
+>>**Esito:**
+>>
+>>**Note:**
+>>
+>>**M_B.2.2:** Rispondenza alle Norme Tecniche per le Costruzioni
+>>
+>>**Esito:**
+>>
+>>**Note:**
+>
+>>### *C_Specifiche tecniche*
+>>#### <font color="orange"> *1_Chiarezza e completezza* </font>
+>>**M_C.1.1:** Specificazione del valore di resistenza a media a compressione espresso in N/mm²
+>>
+>>**Esito:**
+>>
+>>**Note:**
+>>
+>>**M_C.1.2:** Specificazione classe di resistenza a compressione tramite classificazione riportata nella Tab.11.10.II delle NTC 2018 (pg. 366)
+>>
+>>**Esito:**
+>>
+>>**Note:**
+>>
+>>**M_C.1.3:** Specificazione classe di resistenza a compressione e proporzioni di composizione in volume o massa di tutti i costituenti tramite classificazione riportata nella Tab.11.10.V delle NTC 2018 (pg. 366)
+>>
+>>**Esito:**
+>>
+>>**Note:**
+>>
+>>**M_C.1.4:** Specificazione del valore del coefficiente di assorbimento d'acqua espresso in g/m2s
+>>
+>>**Esito:**
+>>
+>>**Note:**
+>>
+>>**M_C.1.5:** Specificazione del valore medio della conducibilità termica espresso in W/(mK)
+>>
+>>**Esito:**
+>>
+>>**Note:**
+>>
+>>**M_C.1.6:** Vita utile della malta
+>>
+>>**Esito:**
+>>
+>>**Note:**
+>>
+>>**M_C.1.7:** Classificazione di reazione al fuoco
+>>
+>>**Esito:**
+>>
+>>**Note:**
+>>
+>>**M_C.1.8:** Verificare che siano indicate le prove di accettazione che il DL è tenuto ad eseguire sugli elementi in laterizio pervenuti in centiere
+>>
+>>**Esito:**
+>>
+>>**Note:**
+>>
+>>#### <font color="violet"> *2_Adeguatezza* </font>
+>>**m_C.2.1:** Verificare che la resistenza media a compressione non sia inferiore a 5 Mpa
+>>
+>>**Esito:**
+>>
+>>**Note:**
+>>
+>>**M_C.2.2:** Specificazione del contenuto di cloruri, della malta secca,  inferiore allo 0,1%.
+>>
+>>**Esito:**
+>>
+>>**Note:**
+>>
+>>**M_C.2.3:** Verificare che la descrizione delle prove di accettazione sia conforme rispetto a quanto riportato nel paragrafo 11.10.2.4 delle NTC 2018 (pg. 367)
+>>
+>>**Esito:**
+>>
+>>**Note:**
 
 [Torna al sommario](#0)
 
@@ -621,36 +638,36 @@
 >>
 >>**Note:** La resistenza a taglio caratteristica nel piano rottura parallelo ai giunti di letto non è identificata. Sarebbe opportuno inserirla
 >>
->>**OM_C.1.24:** Correttezza dell'identificazione della classe di esposizione dell'edificio in relazione al degrado. Condizioni di esposizione presenti nella tabella A.1 della BS EN 1996-2:2016 (pg 30)
+>>**OM_C.1.18:** Correttezza dell'identificazione della classe di esposizione dell'edificio in relazione al degrado. Condizioni di esposizione presenti nella tabella A.1 della BS EN 1996-2:2016 (pg 30)
 >>
 >>**Esito:** <font color="red"> *NON CONFORME* </font>
 >>
 >>**Note:** Non ci sono dati relativi all'identificazione della classe di esposizione dell'edificio. Sarebbe opportuno trattare questo argomento.
 >>
->>**OM_C.1.25:** Indicazione delle modalità di gestione della muratura dopo l'esecuzione.
+>>**OM_C.1.19:** Indicazione delle modalità di gestione della muratura dopo l'esecuzione.
 >>
 >>**Esito:** <font color="red"> *NON CONFORME* </font>
 >>
 >>**Note:** Non ci sono dati relativi alla manutenzione della muratura dopo l'esecuzione. Sarebbe opportuno trattare l'argomento.
 >>
 >>#### <font color="violet"> *2_Adeguatezza* </font>
->>**OM_C.2.6:** Spessore di 150 mm per muratura in elementi resistenti artificiali pieni
+>>**OM_C.2.5:** Spessore di 150 mm per muratura in elementi resistenti artificiali pieni
 >>
 >>**Esito:** <font color="green"> *CONFORME* </font>
 >>
->>**OM_C.2.16:** Verificare che la resistenza al gelo/disgelo dell'elemento resistente sia prescritta in conformità rispetto alle condizioni di esposizione. (Tabella B.1 dell'allegato della BS EN 1996-2:2016 (pg 34))
+>>**OM_C.2.15:** Verificare che la resistenza al gelo/disgelo dell'elemento resistente sia prescritta in conformità rispetto alle condizioni di esposizione. (Tabella B.1 dell'allegato della BS EN 1996-2:2016 (pg 34))
 >>
 >>**Esito:** <font color="gold"> *OSSERVAZIONE* </font>
 >>
 >>**Note:** Non è presente l'idicazione sulla classe di esposizione, ma è stato comunque prescritto un mattone pieno ingelivo. Sarebbe comunque opportuno considerarla in relazione alla classe.
 >>
->>**OM_C.2.17:** Verificare che il contenuto di sali solubili dell'elemento resistente sia prescritta in conformità rispetto alle condizioni di esposizione. (Tabella B.1 dell'allegato della BS EN 1996-2:2016 (pg 34))
+>>**OM_C.2.16:** Verificare che il contenuto di sali solubili dell'elemento resistente sia prescritta in conformità rispetto alle condizioni di esposizione. (Tabella B.1 dell'allegato della BS EN 1996-2:2016 (pg 34))
 >>
 >>**Esito:** <font color="gold"> *OSSERVAZIONE* </font>
 >>
 >>**Note:** Non è presente l'idicazione sulla classe di esposizione. Sarebbe opportuno indicare la classe di esposizione per capire quale deve essere il contenuto di sali solubili.
 >>
->>**OM_C.2.18:** Verificare che la malta utilizzata sia prescritta in conformità rispetto alle condizioni di esposizione ((Tabella B.2 dell'allegato della BS EN 1996-2:2016 (pg 34))
+>>**OM_C.2.17:** Verificare che la malta utilizzata sia prescritta in conformità rispetto alle condizioni di esposizione ((Tabella B.2 dell'allegato della BS EN 1996-2:2016 (pg 34))
 >>
 >>**Esito:** <font color="red"> *NON CONFORME* </font>
 >>
@@ -728,532 +745,221 @@
 >### **RELAZIONE STRUTTURALE** <a id='4.2'></a>
 >>### *A_Informazioni generali*
 >>#### <font color="orange"> *1_Chiarezza e completezza* </font>
->> **OM_A.1.1:** Posizione di giacitura dei mattoni o blocchi. (elaborato grafico)
->>
->>**Esito:**
->>
->>**Note:**
->>
 >> **OM_A.1.2:** Per murature esistenti, siano conoscibili la geometria, particolari costruttivi, proprietà meccaniche dei materiali e dei terreni e carichi permanenti
 >>
->>**Esito:**
->>
->>**Note:**
+>>**Esito:** <font color="green"> *CONFORME* </font>
 >>
 >> **OM_A.1.3:** Per murature esistenti, verificare che sia presente un'indicazione sul rilievo eseguito, in conformità al paragrafo 8.5.2 della NTC (pg 296)
 >>
->>**Esito:**
->>
->>**Note:**
+>>**Esito:** <font color="green"> *CONFORME* </font>
 >>
 >> **OM_A.1.4:** Per murature esistenti, verificare che sia presente una valutazione di sicurezza in conformità al paragrafo 8.3 della NTC (pg 294)
 >>
->>**Esito:**
+>>**Esito:** <font color="gold"> *OSSERVAZIONE* </font>
 >>
->>**Note:**
+>>**Note:** Non vengono riportate le informazioni sulla progettazione alla sicurezza in questo documento.
 >>
 >> **OM_A.1.5:** Per murature esistenti, verificare che sia presente una classificazione degli interventi in conformità al paragrafo 8.4 della NTC (pg 295)
 >>
->>**Esito:**
+>>**Esito:** <font color="gold"> *OSSERVAZIONE* </font>
 >>
->>**Note:**
+>>**Note:** Non vengono riportate le informazioni sulla classificazione degli interventi in questo documento.
 >>
 >> **OM_A.1.6:** Per murature esistenti, verificare che sia presente un'indicazione sulla caratterizzazione meccanica dei materiali, in conformità al paragrafo 8.5.3 della NTC (pg 297)
 >>
->>**Esito:**
->>
->>**Note:**
+>>**Esito:** <font color="green"> *CONFORME* </font>
 >>
 >> **OM_A.1.7:** Per muratura esistente, verificare che siano individuati livelli di conoscenza dei diversi parametri coinvolti nel modello
 >>
->>**Esito:**
->>
->>**Note:**
+>>**Esito:** <font color="green"> *CONFORME* </font>
 >>
 >> **OM_A.1.8:** Per muratura esistente, verificare la rispondenza all'appendice del capitolo 8 della NTC (C8A)
 >>
->>**Esito:**
->>
->>**Note:**
+>>**Esito:** <font color="green"> *CONFORME* </font>
 >>
 >> **OM_A.1.9:** Per muratura esistente, verificare che siano definiti i fattori di confidenza da utilizzare nelle verifiche di sicurezza
 >>
->>**Esito:**
->>
->>**Note:**
+>>**Esito:** <font color="green"> *CONFORME* </font>
 >>
 >> **OM_A.1.10:** Per progettazione in zona sismica di muratura esistente, verificare che sia rispondente al paragrafo 8.7.1, 8.7.4 e 8.7.5 della NTC (pg 297 e 299)
 >>
->>**Esito:**
+>>**Esito:** <font color="gold"> *OSSERVAZIONE* </font>
 >>
->>**Note:**
+>>**Note:** Non vi sono riferimenti ai capitoli della normativa, mancanza di alcune informazioni, capitolo 8.7.4 non viene approfondito e vi è la macanza di valutazioni su var aspetti.
 >>
 >>#### <font color="violet"> *2_Adeguatezza* </font>
 >>**OM_A.2.1:** Per murature esistenti, corrispondenza con relazione delle indagini struttuali
 >>
->>**Esito:**
->>
->>**Note:**
+>>**Esito:** <font color="green"> *CONFORME* </font>
 >>
 >>#### <font color="pink"> *3_Coerenza* </font>
 >>**OM_A.3.1:** Coerenza delle informazioni indicate con le scelte progettuali (relazione generale), tra cui: tipologia dell'opera strutturale, descrizione geometrica dell'opera, dimensioni dell'opera,
 >>
->>**Esito:**
->>
->>**Note:**
+>>**Esito:** <font color="green"> *CONFORME* </font>
 >>
 >>**OM_A.3.2:** Coerenza delle informazioni indicate con i dati di progetto (in relazione generale o altri elaborati), tra cui: destinazione d'uso dell'edificio, località di progetto, vita nominale dell'opera.
 >>
->>**Esito:**
->>
->>**Note:**
+>>**Esito:** <font color="green"> *CONFORME* </font>
 >>
 >>**OM_A.3.3:** Coerenza con quanto riportato nella relazione generale
 >>
->>**Esito:**
->>
->>**Note:**
+>>**Esito:** <font color="green"> *CONFORME* </font>
 >>
 >>**OM_A.3.4:** Coerenza relazione strutturale con quanto riportato negli elaborati grafici
 >>
->>**Esito:**
->>
->>**Note:**
+>>**Esito:** <font color="green"> *CONFORME* </font>
 >
 >>### *B_Normativa di riferimento*
 >>#### <font color="orange"> *1_Chiarezza e completezza* </font>
 >>**OM_B.1.1:** Chiarezza dell'esplicitazione della normativa di riferimento per il dimensionamento
 >>
->>**Esito:**
->>
->>**Note:**
+>>**Esito:** <font color="green"> *CONFORME* </font>
 >>
 >>**OM_B.1.2:** Unicità della normativa di riferimento per il dimensionamento
 >>
->>**Esito:**
->>
->>**Note:**
+>>**Esito:** <font color="green"> *CONFORME* </font>
 >>
 >>**OM_B.1.3:** Coerenza della normativa di riferimento per il dimensionamento rispetto all'elemento strutturale
 >>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_B.1.4:** Chiarezza della motivazione dell'utilizzo di una normativa diversa da quella di riferimento
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_B.1.5:** Illustrazione modalità di esecuzione
->>
->>**Esito:**
->>
->>**Note:**
+>>**Esito:** <font color="green"> *CONFORME* </font>
 >>
 >>#### <font color="violet"> *2_Adeguatezza* </font>
 >>**OM_B.2.1:** Verificare che le normative applicate siano in vigore durante la fase di progettazione
 >>
->>**Esito:**
->>
->>**Note:**
+>>**Esito:** <font color="green"> *CONFORME* </font>
 >
 >>### *C_Specifiche tecniche*
 >>#### <font color="orange"> *1_Chiarezza e completezza* </font>
 >>**OM_C.1.1:** Presenza dei calcoli delle azioni agenti sulla struttura
 >>
->>**Esito:**
+>>**Esito:** <font color="red"> *NON CONFORME* </font>
 >>
->>**Note:**
+>>**Note:** Sono riportati solo i valori di peso proprio dei materiali strutturali.
 >>
 >>**OM_C.1.2:** Chiarezza dell'identificazione dell'area competente e delle azioni agenti sull'elemento
 >>
->>**Esito:**
+>>**Esito:** <font color="red"> *NON CONFORME* </font>
 >>
->>**Note:**
+>>**Note:** Sono riportati solo i valori di peso proprio dei materiali strutturali.
 >>
 >>**OM_C.1.3:** Correttezza del dimensionamento dell'elemento in relazione alle azioni agenti
 >>
->>**Esito:**
+>>**Esito:** <font color="gold"> *OSSERVAZIONE* </font>
 >>
->>**Note:**
+>>**Note:** Vengono dimensionati gli architravi per le aperture nelle murature portanti, ma non vi sono indicazioni sulla muratura esistente in questo elaborato
 >>
 >>**OM_C.1.4:** Presenza delle combinazioni di calcolo
 >>
->>**Esito:**
->>
->>**Note:**
+>>**Esito:** <font color="green"> *CONFORME* </font>
 >>
 >>**OM_C.1.5:** Specificazione della forza di adesione a taglio dell'unità in combinazione con malta, dichiarata in termini di resistenza a taglio iniziale caratteristica secondo la EN 1052-3
 >>
->>**Esito:**
+>>**Esito:** <font color="red"> *NON CONFORME* </font>
 >>
->>**Note:**
+>>**Note:** La resistenza a taglio iniziale non è identificata. Sarebbe opportuno inserirla
 >>
 >>**OM_C.1.6:** Specificazione della forza di adesione a flessione delle unità e della malta, dichiarata in termini di resistenza a flessione caratteristica della muratura nel piano di rottura perpendicolare ai giunti
 >>
->>**Esito:**
+>>**Esito:** <font color="red"> *NON CONFORME* </font>
 >>
->>**Note:**
+>>**Note:** La resistenza a flessione caratteristica nel piano rottura perpendicolare ai giunti di letto non è identificata. Sarebbe opportuno inserirla
 >>
 >>**OM_C.1.7:** Specificazione della forza di adesione a flessione delle unità e della malta, dichiarata in termini di resistenza a flessione caratteristica della muratura nel piano di rottura parallelo ai giunti di letto
 >>
->>**Esito:**
+>>**Esito:** <font color="red"> *NON CONFORME* </font>
 >>
->>**Note:**
+>>**Note:** La resistenza a taglio caratteristica nel piano rottura parallelo ai giunti di letto non è identificata. Sarebbe opportuno inserirla.
 >>
 >>**OM_C.1.8:** Specificazione della classe di duttilità (Alta o Media) del comportamento strutturale dissipativo (azione sismica)
 >>
->>**Esito:**
+>>**Esito:** <font color="gold"> *OSSERVAZIONE* </font>
 >>
->>**Note:**
->>
->>**OM_C.1.9:** Progettazione in termini di capacità e fattori di sovraresistenza per comportamento duttile secondo capitolo 7.2.2 delle NTC 2018 (pg. 209)
->>
->>**Esito:**
->>
->>**Note:**
+>>**Note:** Informazione assente nel documento
 >>
 >>**OM_C.1.10:** Calcoli allo stato limite ultimo
 >>
->>**Esito:**
+>>**Esito:** <font color="gold"> *OSSERVAZIONE* </font>
 >>
->>**Note:**
+>>**Note:** Vengono dimensionati gli architravi per le aperture nelle murature portanti, ma non vi sono indicazioni sulla muratura esistente in questo elaborato
 >>
->>**OM_C.1.11:** Correttezza della verifica a pressoflessione per carichi laterali muro (cap. 4.5.6.2, pg. 148)
+>>**OM_C.1.11:** Ripercorribilità delle verifiche allo stato limite ultimo
 >>
->>**Esito:**
+>>**Esito:** <font color="red"> *NON CONFORME* </font>
 >>
->>**Note:**
+>>**Note:** I calcoli risultano essere ripercorribili, ma non è sempre chiara la provenienza dei dati utili
 >>
->>**OM_C.1.12:** Correttezza della verifica a presso flessione nel piano del muro (cap. 4.5.6.2, pg. 148)
+>>**OM_C.1.12:** Controllo manuale dei risultati ottenuti dai programmi
 >>
->>**Esito:**
+>>**Esito:** <font color="red"> *NON CONFORME* </font>
 >>
->>**Note:**
+>>**Note:** I calcoli risultano essere ripercorribili, ma non è sempre chiara la provenienza dei dati utili
 >>
->>**OM_C.1.13:** Correttezza della verifica a taglio per azioni nel piano del muro (cap. 4.5.6.2, pg. 148)
+>>**OM_C.1.16:** Indicazione degli elementi che costituiscono i confini del compartimento antincendio, compresi i giunti
 >>
->>**Esito:**
+>>**Esito:** <font color="red"> *NON CONFORME* </font>
 >>
->>**Note:**
+>>**Note:** Non sono specificati i confini di compartimentazione antincendio, se non per i locali tecnici
 >>
->>**OM_C.1.14:** Correttezza della verifica a carichi concentrati  (cap. 4.5.6.2, pg. 148)
+>>**OM_C.1.17:** Indicazione dei criteri di esposizione al fuoco degli elementi secondo capitolo 2.1.2 dell'Eurocodice 6, parte1-2 (pg. 17)
 >>
->>**Esito:**
+>>**Esito:** <font color="gold"> *OSSERVAZIONE* </font>
 >>
->>**Note:**
->>
->>**OM_C.1.15:** Correttezza della verifica a flessione e taglio di travi di accoppiamento  (cap. 4.5.6.2, pg. 148)
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.1.16:** Ripercorribilità delle verifiche allo stato limite ultimo
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.1.17:** Controllo manuale dei risultati ottenuti dai programmi
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.1.18:** Verificare che, se i parametri meccanici sono calcolati sperimentalmente, siano rispondenti alla UNI EN 1052
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.1.19:** Verificare che la stima della resistenza a compressione sia conforme al paragrafo 11.10.3.1.2 delle NTC 2018 (pg. 367)
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.1.20:** Verificare che la stima della resistenza a taglio e della resistenza caratteristica a taglio siano conformi, rispettivamente, al paragrafo 11.10.3.2.2 e  11.10.3.2.3 delle NTC 2018 (pg. 368, 369)
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.1.21:** Presenza di eventuale armatura e calcestruzzo di riempimento per muratura armata
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.1.22:** Indicazione degli elementi che costituiscono i confini del compartimento antincendio, compresi i giunti
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.1.23:** Indicazione dei criteri di esposizione al fuoco degli elementi secondo capitolo 2.1.2 dell'Eurocodice 6, parte1-2 (pg. 17)
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.1.24:** Correttezza dell'identificazione della classe di esposizione dell'edificio in relazione al degrado. Condizioni di esposizione presenti nella tabella A.1 della BS EN 1996-2:2016 (pg 30)
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.1.25:** Indicazione delle modalità di gestione della muratura dopo l'esecuzione.
->>
->>**Esito:**
->>
->>**Note:**
+>>**Note:** Vedi nota a OM_C.1.16
 >>
 >>#### <font color="violet"> *2_Adeguatezza* </font>
->>**OM_C.2.1:** Specificazione della presenza di eventuali irrigidimenti, valutati in seguito al calcolo statico, per sopportare carichi orizzontali
->>
->>**Esito:**
->>
->>**Note:**
->>
 >>**OM_C.2.2:** Correttezza dei calcoli delle azioni agenti
 >>
->>**Esito:**
+>>**Esito:** <font color="red"> *NON CONFORME* </font>
 >>
->>**Note:**
+>>**Note:** Non è possibile verificarlo: procedura di calcolo assente.
 >>
->>**OM_C.2.3:** Verificare che le resistenze di progetto siano calcolate in conformità alla NTC18. (cap. 4.5.6.1, pg. 148)
+>>**OM_C.2.4:** Verificare che la progettazione in zona sismica sia stata effettuata in conformità al paragrafo 7.8 delle NTC 2018 (pg. 261)
 >>
->>**Esito:**
+>>**Esito:** <font color="green"> *CONFORME* </font>
 >>
->>**Note:**
+>>**OM_C.2.5:** Spessore di 150 mm per muratura in elementi resistenti artificiali pieni
 >>
->>**OM_C.2.4:** In caso di muratura armata, la parete e i suoi elementi devono essere conformi a quanto scritto nel capitolo 4.5.7 delle NTC 2018 (pg. 150)
+>>**Esito:** <font color="red"> *NON CONFORME* </font>
 >>
->>**Esito:**
+>>**Note:** Non è presente questa indicazione nel documento, sarebbe utile riportarla o fare riferimento ad altri elaborati
 >>
->>**Note:**
+>>**OM_C.2.9:** Rapporto tra altezza di interpiano e spessore del muro non dovrà essere superiore a 20 cm
 >>
->>**OM_C.2.5:** Verificare che la progettazione in zona sismica sia stata effettuata in conformità al paragrafo 7.8 delle NTC 2018 (pg. 261)
+>>**Esito:** <font color="gold"> *OSSERVAZIONE* </font>
 >>
->>**Esito:**
+>>**Note:** Non sono riportate queste informazioni nel documento: si necessita di rimando ad altri elaborati.
 >>
->>**Note:**
+>>**OM_C.2.10:** Spessore per murature portanti non inferiore a 24 cm se siamo in zona sismica 1,2,3
 >>
->>**OM_C.2.6:** Spessore di 150 mm per muratura in elementi resistenti artificiali pieni
+>>**Esito:** <font color="green"> *CONFORME* </font>
 >>
->>**Esito:**
+>>**OM_C.2.11:** Progettazione delle strutture in modo che mantengano la loro funzione portante e/o di separazione durante la relativa esposizione al fuoco.
 >>
->>**Note:**
+>>**Esito:** <font color="gold"> *OSSERVAZIONE* </font>
 >>
->>**OM_C.2.7:** Spessore di 200 mm per muratura in elementi resistenti artificial semipieni
+>>**Note:** Vedi nota a OM_C.1.17
 >>
->>**Esito:**
+>>**OM_C.2.12:** Verifiche di resistenza al fuoco eseguite con riferimento a UNI EN 1996-1-2, utilizzando i coefficienti γM (vedi capitolo 4.5.10 delle NTC 2018) relativi alle combinazioni eccezionali (pg. 147)
 >>
->>**Note:**
+>>**Esito:** <font color="gold"> *OSSERVAZIONE* </font>
 >>
->>**OM_C.2.8:** Spessore di 240 mm per muratura in elementi resistenti artificial forati
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.2.9:** Verificare che il calcestruzzo di riempimento e le barre di armatura (per la muratura armata) siano conformi alla norma EN 206 (per il cls) e conforme con quanto indicato nella UNI EN 1996 - 1 (pg. 32)
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.2.10:** Rapporto tra altezza di interpiano e spessore del muro non dovrà essere superiore a 20 cm
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.2.11:** Spessore per murature portanti non inferiore a 24 cm se siamo in zona sismica 1,2,3
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.2.12:** Progettazione delle strutture in modo che mantengano la loro funzione portante e/o di separazione durante la relativa esposizione al fuoco.
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.2.13:** Verifiche di resistenza al fuoco eseguite con riferimento a UNI EN 1996-1-2, utilizzando i coefficienti γM (vedi capitolo 4.5.10 delle NTC 2018) relativi alle combinazioni eccezionali (pg. 147)
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.2.14:** Quando si tratta di muratura senza ulteriori strati, controllare che la trasmittanza termica sia conforme alle limitazioni imposte da normativa
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.2.15:** Quando si tratta di muratura senza ulteriori strati, controllare che l'acustica sia conforme alle limitazioni imposte da normativa
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.2.16:** Verificare che la resistenza al gelo/disgelo dell'elemento resistente sia prescritta in conformità rispetto alle condizioni di esposizione. (Tabella B.1 dell'allegato della BS EN 1996-2:2016 (pg 34))
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.2.17:** Verificare che il contenuto di sali solubili dell'elemento resistente sia prescritta in conformità rispetto alle condizioni di esposizione. (Tabella B.1 dell'allegato della BS EN 1996-2:2016 (pg 34))
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.2.18:** Verificare che la malta utilizzata sia prescritta in conformità rispetto alle condizioni di esposizione ((Tabella B.2 dell'allegato della BS EN 1996-2:2016 (pg 34))
->>
->>**Esito:**
->>
->>**Note:**
->>
->>#### <font color="pink"> *3_Coerenza* </font>
->>**OM_C.3.1:** Coerenza di progettazione dell'intera stratigrafia delle murature nel rispetto delle Norme Tecniche di riferimento per il calcolo della prestazione energetica degli edifici (Allegato 2, art.3 - Gazzetta Ufficiale 15 luglio 2015)
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.3.2:** Coerenza conducibilità termica con quanto riportato nelle relazioni specialistiche impiantistiche
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.3.3:** Coerenza di progettazione dell'intera stratigrafia delle murature nel rispetto del D.P.C.M. 5 dicembre 1997
->>
->>**Esito:**
->>
->>**Note:**
+>>**Note:** Vedi nota a OM_C.2.11
 >
 >>### *D_Modalità di posa*
->>#### <font color="orange"> *1_Chiarezza e completezza* </font>
->>**OM_D.1.1:** Specificazione degli strumenti necessari in fase esecutiva
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_D.1.2:** Indicazione degli elementi e delle tecniche di protezione dalle intemperie, utili in fase esecutiva
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_D.1.3:** Verificare che sia presente l'indicazione sulla bagnatura dell'elemento resistente prima della posa
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_D.1.4:** Verificare che sia presente l'indicazione sulla disposizione sfalsata o allineata dei giunti verticali
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_D.1.5:** Indicazione della valutazione di scostamento massimo dalla planarità delle facce del letto per elementi nel caso di malta a strato sottile
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_D.1.6:** Verificare che sia presente l'indicazione sull'utilizzo di pezzi speciali a fori verticali in corrispondenza delle aperture di porte e finestre
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_D.1.7:** Verificare che sia presente l'indicazione sull'utilizzo di materiali omogenei, con stesse caratteristiche
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_D.1.8:** Specificazione dell'allineamento della parete tramite traccia di partenza, calandri e filo orizzontale (per murature con intercapedine saranno necessari due fili)
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_D.1.9:** Specificazione del passo degli eventuali irrigidimenti verticali o orizzontali
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_D.1.10:** Verificare che siano presenti le indicazioni sulle cure durante l'esecuzione (pg18 Manuale Andil)
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_D.1.11:** Verificare che siano presenti le indicazioni sulle cure durante l'esecuzione (Manuale Assobeton)
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_D.1.12:** Verificare che siano specificate le modalità di ispezione e collaudo in fase di realizzazione della muratura (pg. 17 Codice di pratica per la posa in opera di blocchi in calcestruzzo-Assobeton)
->>
->>**Esito:**
->>
->>**Note:**
->>
 >>#### <font color="violet"> *2_Adeguatezza* </font>
->>**OM_D.2.1:** Lo sfalsamento dei giunti deve essere conforme con quanto riportato nel manuale Andil (pg10)
->>
->>**Esito:**
->>
->>**Note:**
->>
 >>**OM_D.2.2:** Verificare che sia presente l'indicazione sull'esecuzione di giunti di malta continui, o, se si vogliono eseguire giunti di malta interrotti, la distanza fra i due cordoni non deve essere maggiore di 2-3 cm (in caso contrario ne risentirebbe la resistenza a compressione della muratura che andrebbe opportunatamente ridotta)
 >>
->>**Esito:**
+>>**Esito:** <font color="gold"> *OSSERVAZIONE* </font>
 >>
->>**Note:**
->>
->>**OM_D.2.3:** Specificare che le murature esterne non devono essere incollate alle strutture portanti (pilastri e solai), ma è necessario lasciare un giunto elastico. (da verificare anche l'elaborato grafico)
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_D.2.4:** Specificare che i blocchi dovranno essere perfettamente ammorsati (se maschio o femmina) o incollati tra loro (se lisci)
->>
->>**Esito:**
->>
->>**Note:**
+>>**Note:** Assente in relazione di calcolo, si rimanda a capitolato
 >>
 >>**OM_D.2.5:** Specifica delle modalità di posa in corrispondenza di connessioni tra murature, architravi, infissi ed altri elementi tecnici
 >>
->>**Esito:**
->>
->>**Note:**
->>
->>#### <font color="pink"> *3_Coerenza* </font>
->>**OM_D.3.1:** Verificare che l'indicazione riguardante la modalità di posa dei letti e giunti di malta sia coerente con la tipologia di blocco utilizzato
->>
->>**Esito:**
->>
->>**Note:**
+>>**Esito:** <font color="green"> *CONFORME* </font>
 
 [Torna al sommario](#0)
 
->### **ELABORATI GRAFICI** <a id='4.3'></a>
+>### **RELAZIONE TECNICA** <a id='4.3'></a>
 >>### *A_Informazioni generali*
 >>#### <font color="orange"> *1_Chiarezza e completezza* </font>
 >> **OM_A.1.1:** Posizione di giacitura dei mattoni o blocchi. (elaborato grafico)
@@ -1449,91 +1155,55 @@
 >>
 >>**Note:**
 >>
->>**OM_C.1.11:** Correttezza della verifica a pressoflessione per carichi laterali muro (cap. 4.5.6.2, pg. 148)
+>>**OM_C.1.11:** Ripercorribilità delle verifiche allo stato limite ultimo
 >>
 >>**Esito:**
 >>
 >>**Note:**
 >>
->>**OM_C.1.12:** Correttezza della verifica a presso flessione nel piano del muro (cap. 4.5.6.2, pg. 148)
+>>**OM_C.1.12:** Controllo manuale dei risultati ottenuti dai programmi
 >>
 >>**Esito:**
 >>
 >>**Note:**
 >>
->>**OM_C.1.13:** Correttezza della verifica a taglio per azioni nel piano del muro (cap. 4.5.6.2, pg. 148)
+>>**OM_C.1.13:** Verificare che la stima della resistenza a compressione sia conforme al paragrafo 11.10.3.1.2 delle NTC 2018 (pg. 367)
 >>
 >>**Esito:**
 >>
 >>**Note:**
 >>
->>**OM_C.1.14:** Correttezza della verifica a carichi concentrati  (cap. 4.5.6.2, pg. 148)
+>>**OM_C.1.14:** Verificare che la stima della resistenza a taglio e della resistenza caratteristica a taglio siano conformi, rispettivamente, al paragrafo 11.10.3.2.2 e  11.10.3.2.3 delle NTC 2018 (pg. 368, 369)
 >>
 >>**Esito:**
 >>
 >>**Note:**
 >>
->>**OM_C.1.15:** Correttezza della verifica a flessione e taglio di travi di accoppiamento  (cap. 4.5.6.2, pg. 148)
+>>**OM_C.1.15:** Presenza di eventuale armatura e calcestruzzo di riempimento per muratura armata
 >>
 >>**Esito:**
 >>
 >>**Note:**
 >>
->>**OM_C.1.16:** Ripercorribilità delle verifiche allo stato limite ultimo
+>>**OM_C.1.16:** Indicazione degli elementi che costituiscono i confini del compartimento antincendio, compresi i giunti
 >>
 >>**Esito:**
 >>
 >>**Note:**
 >>
->>**OM_C.1.17:** Controllo manuale dei risultati ottenuti dai programmi
+>>**OM_C.1.17:** Indicazione dei criteri di esposizione al fuoco degli elementi secondo capitolo 2.1.2 dell'Eurocodice 6, parte1-2 (pg. 17)
 >>
 >>**Esito:**
 >>
 >>**Note:**
 >>
->>**OM_C.1.18:** Verificare che, se i parametri meccanici sono calcolati sperimentalmente, siano rispondenti alla UNI EN 1052
+>>**OM_C.1.18:** Correttezza dell'identificazione della classe di esposizione dell'edificio in relazione al degrado. Condizioni di esposizione presenti nella tabella A.1 della BS EN 1996-2:2016 (pg 30)
 >>
 >>**Esito:**
 >>
 >>**Note:**
 >>
->>**OM_C.1.19:** Verificare che la stima della resistenza a compressione sia conforme al paragrafo 11.10.3.1.2 delle NTC 2018 (pg. 367)
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.1.20:** Verificare che la stima della resistenza a taglio e della resistenza caratteristica a taglio siano conformi, rispettivamente, al paragrafo 11.10.3.2.2 e  11.10.3.2.3 delle NTC 2018 (pg. 368, 369)
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.1.21:** Presenza di eventuale armatura e calcestruzzo di riempimento per muratura armata
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.1.22:** Indicazione degli elementi che costituiscono i confini del compartimento antincendio, compresi i giunti
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.1.23:** Indicazione dei criteri di esposizione al fuoco degli elementi secondo capitolo 2.1.2 dell'Eurocodice 6, parte1-2 (pg. 17)
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.1.24:** Correttezza dell'identificazione della classe di esposizione dell'edificio in relazione al degrado. Condizioni di esposizione presenti nella tabella A.1 della BS EN 1996-2:2016 (pg 30)
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.1.25:** Indicazione delle modalità di gestione della muratura dopo l'esecuzione.
+>>**OM_C.1.19:** Indicazione delle modalità di gestione della muratura dopo l'esecuzione.
 >>
 >>**Esito:**
 >>
@@ -1552,625 +1222,91 @@
 >>
 >>**Note:**
 >>
->>**OM_C.2.3:** Verificare che le resistenze di progetto siano calcolate in conformità alla NTC18. (cap. 4.5.6.1, pg. 148)
+>>**OM_C.2.3:** In caso di muratura armata, la parete e i suoi elementi devono essere conformi a quanto scritto nel capitolo 4.5.7 delle NTC 2018 (pg. 150)
 >>
 >>**Esito:**
 >>
 >>**Note:**
 >>
->>**OM_C.2.4:** In caso di muratura armata, la parete e i suoi elementi devono essere conformi a quanto scritto nel capitolo 4.5.7 delle NTC 2018 (pg. 150)
+>>**OM_C.2.4:** Verificare che la progettazione in zona sismica sia stata effettuata in conformità al paragrafo 7.8 delle NTC 2018 (pg. 261)
 >>
 >>**Esito:**
 >>
 >>**Note:**
 >>
->>**OM_C.2.5:** Verificare che la progettazione in zona sismica sia stata effettuata in conformità al paragrafo 7.8 delle NTC 2018 (pg. 261)
+>>**OM_C.2.5:** Spessore di 150 mm per muratura in elementi resistenti artificiali pieni
 >>
 >>**Esito:**
 >>
 >>**Note:**
 >>
->>**OM_C.2.6:** Spessore di 150 mm per muratura in elementi resistenti artificiali pieni
+>>**OM_C.2.6:** Spessore di 200 mm per muratura in elementi resistenti artificial semipieni
 >>
 >>**Esito:**
 >>
 >>**Note:**
 >>
->>**OM_C.2.7:** Spessore di 200 mm per muratura in elementi resistenti artificial semipieni
+>>**OM_C.2.7:** Spessore di 240 mm per muratura in elementi resistenti artificial forati
 >>
 >>**Esito:**
 >>
 >>**Note:**
 >>
->>**OM_C.2.8:** Spessore di 240 mm per muratura in elementi resistenti artificial forati
+>>**OM_C.2.8:** Verificare che il calcestruzzo di riempimento e le barre di armatura (per la muratura armata) siano conformi alla norma EN 206 (per il cls) e conforme con quanto indicato nella UNI EN 1996 - 1 (pg. 32)
 >>
 >>**Esito:**
 >>
 >>**Note:**
 >>
->>**OM_C.2.9:** Verificare che il calcestruzzo di riempimento e le barre di armatura (per la muratura armata) siano conformi alla norma EN 206 (per il cls) e conforme con quanto indicato nella UNI EN 1996 - 1 (pg. 32)
+>>**OM_C.2.9:** Rapporto tra altezza di interpiano e spessore del muro non dovrà essere superiore a 20 cm
 >>
 >>**Esito:**
 >>
 >>**Note:**
 >>
->>**OM_C.2.10:** Rapporto tra altezza di interpiano e spessore del muro non dovrà essere superiore a 20 cm
+>>**OM_C.2.10:** Spessore per murature portanti non inferiore a 24 cm se siamo in zona sismica 1,2,3
 >>
 >>**Esito:**
 >>
 >>**Note:**
 >>
->>**OM_C.2.11:** Spessore per murature portanti non inferiore a 24 cm se siamo in zona sismica 1,2,3
+>>**OM_C.2.11:** Progettazione delle strutture in modo che mantengano la loro funzione portante e/o di separazione durante la relativa esposizione al fuoco.
 >>
 >>**Esito:**
 >>
 >>**Note:**
 >>
->>**OM_C.2.12:** Progettazione delle strutture in modo che mantengano la loro funzione portante e/o di separazione durante la relativa esposizione al fuoco.
+>>**OM_C.2.12:** Verifiche di resistenza al fuoco eseguite con riferimento a UNI EN 1996-1-2, utilizzando i coefficienti γM (vedi capitolo 4.5.10 delle NTC 2018) relativi alle combinazioni eccezionali (pg. 147)
 >>
 >>**Esito:**
 >>
 >>**Note:**
 >>
->>**OM_C.2.13:** Verifiche di resistenza al fuoco eseguite con riferimento a UNI EN 1996-1-2, utilizzando i coefficienti γM (vedi capitolo 4.5.10 delle NTC 2018) relativi alle combinazioni eccezionali (pg. 147)
+>>**OM_C.2.13:** Quando si tratta di muratura senza ulteriori strati, controllare che la trasmittanza termica sia conforme alle limitazioni imposte da normativa
 >>
 >>**Esito:**
 >>
 >>**Note:**
 >>
->>**OM_C.2.14:** Quando si tratta di muratura senza ulteriori strati, controllare che la trasmittanza termica sia conforme alle limitazioni imposte da normativa
+>>**OM_C.2.14:** Quando si tratta di muratura senza ulteriori strati, controllare che l'acustica sia conforme alle limitazioni imposte da normativa
 >>
 >>**Esito:**
 >>
 >>**Note:**
 >>
->>**OM_C.2.15:** Quando si tratta di muratura senza ulteriori strati, controllare che l'acustica sia conforme alle limitazioni imposte da normativa
+>>**OM_C.2.15:** Verificare che la resistenza al gelo/disgelo dell'elemento resistente sia prescritta in conformità rispetto alle condizioni di esposizione. (Tabella B.1 dell'allegato della BS EN 1996-2:2016 (pg 34))
 >>
 >>**Esito:**
 >>
 >>**Note:**
 >>
->>**OM_C.2.16:** Verificare che la resistenza al gelo/disgelo dell'elemento resistente sia prescritta in conformità rispetto alle condizioni di esposizione. (Tabella B.1 dell'allegato della BS EN 1996-2:2016 (pg 34))
+>>**OM_C.2.16:** Verificare che il contenuto di sali solubili dell'elemento resistente sia prescritta in conformità rispetto alle condizioni di esposizione. (Tabella B.1 dell'allegato della BS EN 1996-2:2016 (pg 34))
 >>
 >>**Esito:**
 >>
 >>**Note:**
 >>
->>**OM_C.2.17:** Verificare che il contenuto di sali solubili dell'elemento resistente sia prescritta in conformità rispetto alle condizioni di esposizione. (Tabella B.1 dell'allegato della BS EN 1996-2:2016 (pg 34))
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.2.18:** Verificare che la malta utilizzata sia prescritta in conformità rispetto alle condizioni di esposizione ((Tabella B.2 dell'allegato della BS EN 1996-2:2016 (pg 34))
->>
->>**Esito:**
->>
->>**Note:**
->>
->>#### <font color="pink"> *3_Coerenza* </font>
->>**OM_C.3.1:** Coerenza di progettazione dell'intera stratigrafia delle murature nel rispetto delle Norme Tecniche di riferimento per il calcolo della prestazione energetica degli edifici (Allegato 2, art.3 - Gazzetta Ufficiale 15 luglio 2015)
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.3.2:** Coerenza conducibilità termica con quanto riportato nelle relazioni specialistiche impiantistiche
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.3.3:** Coerenza di progettazione dell'intera stratigrafia delle murature nel rispetto del D.P.C.M. 5 dicembre 1997
->>
->>**Esito:**
->>
->>**Note:**
->
->>### *D_Modalità di posa*
->>#### <font color="orange"> *1_Chiarezza e completezza* </font>
->>**OM_D.1.1:** Specificazione degli strumenti necessari in fase esecutiva
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_D.1.2:** Indicazione degli elementi e delle tecniche di protezione dalle intemperie, utili in fase esecutiva
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_D.1.3:** Verificare che sia presente l'indicazione sulla bagnatura dell'elemento resistente prima della posa
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_D.1.4:** Verificare che sia presente l'indicazione sulla disposizione sfalsata o allineata dei giunti verticali
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_D.1.5:** Indicazione della valutazione di scostamento massimo dalla planarità delle facce del letto per elementi nel caso di malta a strato sottile
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_D.1.6:** Verificare che sia presente l'indicazione sull'utilizzo di pezzi speciali a fori verticali in corrispondenza delle aperture di porte e finestre
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_D.1.7:** Verificare che sia presente l'indicazione sull'utilizzo di materiali omogenei, con stesse caratteristiche
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_D.1.8:** Specificazione dell'allineamento della parete tramite traccia di partenza, calandri e filo orizzontale (per murature con intercapedine saranno necessari due fili)
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_D.1.9:** Specificazione del passo degli eventuali irrigidimenti verticali o orizzontali
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_D.1.10:** Verificare che siano presenti le indicazioni sulle cure durante l'esecuzione (pg18 Manuale Andil)
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_D.1.11:** Verificare che siano presenti le indicazioni sulle cure durante l'esecuzione (Manuale Assobeton)
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_D.1.12:** Verificare che siano specificate le modalità di ispezione e collaudo in fase di realizzazione della muratura (pg. 17 Codice di pratica per la posa in opera di blocchi in calcestruzzo-Assobeton)
->>
->>**Esito:**
->>
->>**Note:**
->>
->>#### <font color="violet"> *2_Adeguatezza* </font>
->>**OM_D.2.1:** Lo sfalsamento dei giunti deve essere conforme con quanto riportato nel manuale Andil (pg10)
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_D.2.2:** Verificare che sia presente l'indicazione sull'esecuzione di giunti di malta continui, o, se si vogliono eseguire giunti di malta interrotti, la distanza fra i due cordoni non deve essere maggiore di 2-3 cm (in caso contrario ne risentirebbe la resistenza a compressione della muratura che andrebbe opportunatamente ridotta)
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_D.2.3:** Specificare che le murature esterne non devono essere incollate alle strutture portanti (pilastri e solai), ma è necessario lasciare un giunto elastico. (da verificare anche l'elaborato grafico)
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_D.2.4:** Specificare che i blocchi dovranno essere perfettamente ammorsati (se maschio o femmina) o incollati tra loro (se lisci)
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_D.2.5:** Specifica delle modalità di posa in corrispondenza di connessioni tra murature, architravi, infissi ed altri elementi tecnici
->>
->>**Esito:**
->>
->>**Note:**
->>
->>#### <font color="pink"> *3_Coerenza* </font>
->>**OM_D.3.1:** Verificare che l'indicazione riguardante la modalità di posa dei letti e giunti di malta sia coerente con la tipologia di blocco utilizzato
->>
->>**Esito:**
->>
->>**Note:**
-
-[Torna al sommario](#0)
-
->### **RELAZIONE GENERALE** <a id='4.4'></a>
->>### *A_Informazioni generali*
->>#### <font color="orange"> *1_Chiarezza e completezza* </font>
->> **OM_A.1.1:** Posizione di giacitura dei mattoni o blocchi. (elaborato grafico)
->>
->>**Esito:**
->>
->>**Note:**
->>
->> **OM_A.1.2:** Per murature esistenti, siano conoscibili la geometria, particolari costruttivi, proprietà meccaniche dei materiali e dei terreni e carichi permanenti
->>
->>**Esito:**
->>
->>**Note:**
->>
->> **OM_A.1.3:** Per murature esistenti, verificare che sia presente un'indicazione sul rilievo eseguito, in conformità al paragrafo 8.5.2 della NTC (pg 296)
->>
->>**Esito:**
->>
->>**Note:**
->>
->> **OM_A.1.4:** Per murature esistenti, verificare che sia presente una valutazione di sicurezza in conformità al paragrafo 8.3 della NTC (pg 294)
->>
->>**Esito:**
->>
->>**Note:**
->>
->> **OM_A.1.5:** Per murature esistenti, verificare che sia presente una classificazione degli interventi in conformità al paragrafo 8.4 della NTC (pg 295)
->>
->>**Esito:**
->>
->>**Note:**
->>
->> **OM_A.1.6:** Per murature esistenti, verificare che sia presente un'indicazione sulla caratterizzazione meccanica dei materiali, in conformità al paragrafo 8.5.3 della NTC (pg 297)
->>
->>**Esito:**
->>
->>**Note:**
->>
->> **OM_A.1.7:** Per muratura esistente, verificare che siano individuati livelli di conoscenza dei diversi parametri coinvolti nel modello
->>
->>**Esito:**
->>
->>**Note:**
->>
->> **OM_A.1.8:** Per muratura esistente, verificare la rispondenza all'appendice del capitolo 8 della NTC (C8A)
->>
->>**Esito:**
->>
->>**Note:**
->>
->> **OM_A.1.9:** Per muratura esistente, verificare che siano definiti i fattori di confidenza da utilizzare nelle verifiche di sicurezza
->>
->>**Esito:**
->>
->>**Note:**
->>
->> **OM_A.1.10:** Per progettazione in zona sismica di muratura esistente, verificare che sia rispondente al paragrafo 8.7.1, 8.7.4 e 8.7.5 della NTC (pg 297 e 299)
->>
->>**Esito:**
->>
->>**Note:**
->>
->>#### <font color="violet"> *2_Adeguatezza* </font>
->>**OM_A.2.1:** Per murature esistenti, corrispondenza con relazione delle indagini struttuali
->>
->>**Esito:**
->>
->>**Note:**
->>
->>#### <font color="pink"> *3_Coerenza* </font>
->>**OM_A.3.1:** Coerenza delle informazioni indicate con le scelte progettuali (relazione generale), tra cui: tipologia dell'opera strutturale, descrizione geometrica dell'opera, dimensioni dell'opera,
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_A.3.2:** Coerenza delle informazioni indicate con i dati di progetto (in relazione generale o altri elaborati), tra cui: destinazione d'uso dell'edificio, località di progetto, vita nominale dell'opera.
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_A.3.3:** Coerenza con quanto riportato nella relazione generale
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_A.3.4:** Coerenza relazione strutturale con quanto riportato negli elaborati grafici
->>
->>**Esito:**
->>
->>**Note:**
->
->>### *B_Normativa di riferimento*
->>#### <font color="orange"> *1_Chiarezza e completezza* </font>
->>**OM_B.1.1:** Chiarezza dell'esplicitazione della normativa di riferimento per il dimensionamento
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_B.1.2:** Unicità della normativa di riferimento per il dimensionamento
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_B.1.3:** Coerenza della normativa di riferimento per il dimensionamento rispetto all'elemento strutturale
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_B.1.4:** Chiarezza della motivazione dell'utilizzo di una normativa diversa da quella di riferimento
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_B.1.5:** Illustrazione modalità di esecuzione
->>
->>**Esito:**
->>
->>**Note:**
->>
->>#### <font color="violet"> *2_Adeguatezza* </font>
->>**OM_B.2.1:** Verificare che le normative applicate siano in vigore durante la fase di progettazione
->>
->>**Esito:**
->>
->>**Note:**
->
->>### *C_Specifiche tecniche*
->>#### <font color="orange"> *1_Chiarezza e completezza* </font>
->>**OM_C.1.1:** Presenza dei calcoli delle azioni agenti sulla struttura
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.1.2:** Chiarezza dell'identificazione dell'area competente e delle azioni agenti sull'elemento
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.1.3:** Correttezza del dimensionamento dell'elemento in relazione alle azioni agenti
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.1.4:** Presenza delle combinazioni di calcolo
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.1.5:** Specificazione della forza di adesione a taglio dell'unità in combinazione con malta, dichiarata in termini di resistenza a taglio iniziale caratteristica secondo la EN 1052-3
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.1.6:** Specificazione della forza di adesione a flessione delle unità e della malta, dichiarata in termini di resistenza a flessione caratteristica della muratura nel piano di rottura perpendicolare ai giunti
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.1.7:** Specificazione della forza di adesione a flessione delle unità e della malta, dichiarata in termini di resistenza a flessione caratteristica della muratura nel piano di rottura parallelo ai giunti di letto
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.1.8:** Specificazione della classe di duttilità (Alta o Media) del comportamento strutturale dissipativo (azione sismica)
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.1.9:** Progettazione in termini di capacità e fattori di sovraresistenza per comportamento duttile secondo capitolo 7.2.2 delle NTC 2018 (pg. 209)
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.1.10:** Calcoli allo stato limite ultimo
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.1.11:** Correttezza della verifica a pressoflessione per carichi laterali muro (cap. 4.5.6.2, pg. 148)
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.1.12:** Correttezza della verifica a presso flessione nel piano del muro (cap. 4.5.6.2, pg. 148)
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.1.13:** Correttezza della verifica a taglio per azioni nel piano del muro (cap. 4.5.6.2, pg. 148)
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.1.14:** Correttezza della verifica a carichi concentrati  (cap. 4.5.6.2, pg. 148)
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.1.15:** Correttezza della verifica a flessione e taglio di travi di accoppiamento  (cap. 4.5.6.2, pg. 148)
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.1.16:** Ripercorribilità delle verifiche allo stato limite ultimo
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.1.17:** Controllo manuale dei risultati ottenuti dai programmi
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.1.18:** Verificare che, se i parametri meccanici sono calcolati sperimentalmente, siano rispondenti alla UNI EN 1052
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.1.19:** Verificare che la stima della resistenza a compressione sia conforme al paragrafo 11.10.3.1.2 delle NTC 2018 (pg. 367)
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.1.20:** Verificare che la stima della resistenza a taglio e della resistenza caratteristica a taglio siano conformi, rispettivamente, al paragrafo 11.10.3.2.2 e  11.10.3.2.3 delle NTC 2018 (pg. 368, 369)
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.1.21:** Presenza di eventuale armatura e calcestruzzo di riempimento per muratura armata
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.1.22:** Indicazione degli elementi che costituiscono i confini del compartimento antincendio, compresi i giunti
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.1.23:** Indicazione dei criteri di esposizione al fuoco degli elementi secondo capitolo 2.1.2 dell'Eurocodice 6, parte1-2 (pg. 17)
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.1.24:** Correttezza dell'identificazione della classe di esposizione dell'edificio in relazione al degrado. Condizioni di esposizione presenti nella tabella A.1 della BS EN 1996-2:2016 (pg 30)
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.1.25:** Indicazione delle modalità di gestione della muratura dopo l'esecuzione.
->>
->>**Esito:**
->>
->>**Note:**
->>
->>#### <font color="violet"> *2_Adeguatezza* </font>
->>**OM_C.2.1:** Specificazione della presenza di eventuali irrigidimenti, valutati in seguito al calcolo statico, per sopportare carichi orizzontali
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.2.2:** Correttezza dei calcoli delle azioni agenti
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.2.3:** Verificare che le resistenze di progetto siano calcolate in conformità alla NTC18. (cap. 4.5.6.1, pg. 148)
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.2.4:** In caso di muratura armata, la parete e i suoi elementi devono essere conformi a quanto scritto nel capitolo 4.5.7 delle NTC 2018 (pg. 150)
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.2.5:** Verificare che la progettazione in zona sismica sia stata effettuata in conformità al paragrafo 7.8 delle NTC 2018 (pg. 261)
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.2.6:** Spessore di 150 mm per muratura in elementi resistenti artificiali pieni
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.2.7:** Spessore di 200 mm per muratura in elementi resistenti artificial semipieni
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.2.8:** Spessore di 240 mm per muratura in elementi resistenti artificial forati
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.2.9:** Verificare che il calcestruzzo di riempimento e le barre di armatura (per la muratura armata) siano conformi alla norma EN 206 (per il cls) e conforme con quanto indicato nella UNI EN 1996 - 1 (pg. 32)
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.2.10:** Rapporto tra altezza di interpiano e spessore del muro non dovrà essere superiore a 20 cm
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.2.11:** Spessore per murature portanti non inferiore a 24 cm se siamo in zona sismica 1,2,3
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.2.12:** Progettazione delle strutture in modo che mantengano la loro funzione portante e/o di separazione durante la relativa esposizione al fuoco.
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.2.13:** Verifiche di resistenza al fuoco eseguite con riferimento a UNI EN 1996-1-2, utilizzando i coefficienti γM (vedi capitolo 4.5.10 delle NTC 2018) relativi alle combinazioni eccezionali (pg. 147)
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.2.14:** Quando si tratta di muratura senza ulteriori strati, controllare che la trasmittanza termica sia conforme alle limitazioni imposte da normativa
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.2.15:** Quando si tratta di muratura senza ulteriori strati, controllare che l'acustica sia conforme alle limitazioni imposte da normativa
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.2.16:** Verificare che la resistenza al gelo/disgelo dell'elemento resistente sia prescritta in conformità rispetto alle condizioni di esposizione. (Tabella B.1 dell'allegato della BS EN 1996-2:2016 (pg 34))
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.2.17:** Verificare che il contenuto di sali solubili dell'elemento resistente sia prescritta in conformità rispetto alle condizioni di esposizione. (Tabella B.1 dell'allegato della BS EN 1996-2:2016 (pg 34))
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.2.18:** Verificare che la malta utilizzata sia prescritta in conformità rispetto alle condizioni di esposizione ((Tabella B.2 dell'allegato della BS EN 1996-2:2016 (pg 34))
+>>**OM_C.2.17:** Verificare che la malta utilizzata sia prescritta in conformità rispetto alle condizioni di esposizione ((Tabella B.2 dell'allegato della BS EN 1996-2:2016 (pg 34))
 >>
 >>**Esito:**
 >>

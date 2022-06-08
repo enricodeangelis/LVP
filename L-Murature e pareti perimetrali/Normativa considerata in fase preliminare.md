@@ -1,4 +1,7 @@
 # L-Murature e pareti perimetrali
+
+> **NB** Normative cercate inizialmente, quindi sono incluse anche normative che poi si sono rivelate non utili ai fini della stesura della guida.
+
 ## Riferimenti
 
  1. Codice di pratica per la posa in opera di blocchi in calcestruzzo

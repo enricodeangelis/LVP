@@ -199,6 +199,10 @@ Ai fini della validazione di un progetto, è quindi necessario individuare la va
 
 L’applicabilità della guida è stata resa sistematica grazie alla possibilità di filtrare, per colonne, quali controlli effettuare, in base alla classificazione della muratura ed ai documenti di progetto. Infatti, si è indicato, tramite un segno x, in quali campi (uno per colonna) si deve applicare una certa verifica elementare.
 
+Per facilitare la ricerca è stata inserita una colonna "Riferimento" dove, se la verifica elementare è unica, vi è il riferimento normativo, se invece è una verifica più argomentata, quindi divisa in più parti, vi è un link che rimanda alla normativa di riferimento ed è anche indicata la pagina, del file pdf, dove è presente tale indicazione.
+
+Alla fine di ogni sezione di verifiche vi è un conteggio automatico sia per avere una visone immediata sull'esito generale, sia per un controllo di coerenza con il rapporto di verifica finale. 
+
 Di seguito si riportano le intestazioni delle colonne in questione:
 
 ![image](https://user-images.githubusercontent.com/100944734/172070590-b8fded23-34fb-4272-b119-af1890ffae55.png)
@@ -226,6 +230,10 @@ Dove si intende per:
 3.	<font color="gold"> Osservazione </font>: aspetto progettuale non sufficientemente approfondito, senza che questo si configuri come “non conformità” o indicazioni di tipo non prescrittivo. Le osservazioni non devono essere riferibili a un potenziale errore progettuale e cioè non devono pregiudicare l’opera, il suo utilizzo, e la gestione dell’Appalto
 
 All'interno del file Excel comparirà tra gli esiti anche la seguente posizione: "Non previsto (<font color="grey"> NP </font>)"; in questa categoria rientrano le verifiche elementari non previste, ad esempio, se quelle verifiche sono relative solamente al capitolato o alla relazione strutturale oppure se nel progetto non è presente una determinata tipologia vuol dire che le verifiche relative ad essa non verranno considerate. Nel rapporto di verifica finale verranno riportate solamente le prime tre in quanto quest'ultima serve solamente al validatore.
+
+Per facilitare l'inserimento degli esiti delle verifiche su Atom è possibile filtrare la colonna "Codifica" in quanto nel Piano dei Controlli sono divisi per *categoria* e in ordine rispetto all'*azione di controllo*.
+
+Di seguito un immagine per facilitare la comprensione.
 
 [Torna al sommario](#0)
 
@@ -858,91 +866,55 @@ All'interno del file Excel comparirà tra gli esiti anche la seguente posizione:
 >>
 >>**Note:**
 >>
->>**OM_C.1.11:** Correttezza della verifica a pressoflessione per carichi laterali muro (cap. 4.5.6.2, pg. 148)
+>>**OM_C.1.11:** Ripercorribilità delle verifiche allo stato limite ultimo
 >>
 >>**Esito:**
 >>
 >>**Note:**
 >>
->>**OM_C.1.12:** Correttezza della verifica a presso flessione nel piano del muro (cap. 4.5.6.2, pg. 148)
+>>**OM_C.1.12:** Controllo manuale dei risultati ottenuti dai programmi
 >>
 >>**Esito:**
 >>
 >>**Note:**
 >>
->>**OM_C.1.13:** Correttezza della verifica a taglio per azioni nel piano del muro (cap. 4.5.6.2, pg. 148)
+>>**OM_C.1.13:** Verificare che la stima della resistenza a compressione sia conforme al paragrafo 11.10.3.1.2 delle NTC 2018 (pg. 367)
 >>
 >>**Esito:**
 >>
 >>**Note:**
 >>
->>**OM_C.1.14:** Correttezza della verifica a carichi concentrati  (cap. 4.5.6.2, pg. 148)
+>>**OM_C.1.14:** Verificare che la stima della resistenza a taglio e della resistenza caratteristica a taglio siano conformi, rispettivamente, al paragrafo 11.10.3.2.2 e  11.10.3.2.3 delle NTC 2018 (pg. 368, 369)
 >>
 >>**Esito:**
 >>
 >>**Note:**
 >>
->>**OM_C.1.15:** Correttezza della verifica a flessione e taglio di travi di accoppiamento  (cap. 4.5.6.2, pg. 148)
+>>**OM_C.1.15:** Presenza di eventuale armatura e calcestruzzo di riempimento per muratura armata
 >>
 >>**Esito:**
 >>
 >>**Note:**
 >>
->>**OM_C.1.16:** Ripercorribilità delle verifiche allo stato limite ultimo
+>>**OM_C.1.16:** Indicazione degli elementi che costituiscono i confini del compartimento antincendio, compresi i giunti
 >>
 >>**Esito:**
 >>
 >>**Note:**
 >>
->>**OM_C.1.17:** Controllo manuale dei risultati ottenuti dai programmi
+>>**OM_C.1.17:** Indicazione dei criteri di esposizione al fuoco degli elementi secondo capitolo 2.1.2 dell'Eurocodice 6, parte1-2 (pg. 17)
 >>
 >>**Esito:**
 >>
 >>**Note:**
 >>
->>**OM_C.1.18:** Verificare che, se i parametri meccanici sono calcolati sperimentalmente, siano rispondenti alla UNI EN 1052
+>>**OM_C.1.18:** Correttezza dell'identificazione della classe di esposizione dell'edificio in relazione al degrado. Condizioni di esposizione presenti nella tabella A.1 della BS EN 1996-2:2016 (pg 30)
 >>
 >>**Esito:**
 >>
 >>**Note:**
 >>
->>**OM_C.1.19:** Verificare che la stima della resistenza a compressione sia conforme al paragrafo 11.10.3.1.2 delle NTC 2018 (pg. 367)
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.1.20:** Verificare che la stima della resistenza a taglio e della resistenza caratteristica a taglio siano conformi, rispettivamente, al paragrafo 11.10.3.2.2 e  11.10.3.2.3 delle NTC 2018 (pg. 368, 369)
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.1.21:** Presenza di eventuale armatura e calcestruzzo di riempimento per muratura armata
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.1.22:** Indicazione degli elementi che costituiscono i confini del compartimento antincendio, compresi i giunti
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.1.23:** Indicazione dei criteri di esposizione al fuoco degli elementi secondo capitolo 2.1.2 dell'Eurocodice 6, parte1-2 (pg. 17)
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.1.24:** Correttezza dell'identificazione della classe di esposizione dell'edificio in relazione al degrado. Condizioni di esposizione presenti nella tabella A.1 della BS EN 1996-2:2016 (pg 30)
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.1.25:** Indicazione delle modalità di gestione della muratura dopo l'esecuzione.
+>>**OM_C.1.19:** Indicazione delle modalità di gestione della muratura dopo l'esecuzione.
 >>
 >>**Esito:**
 >>
@@ -961,97 +933,91 @@ All'interno del file Excel comparirà tra gli esiti anche la seguente posizione:
 >>
 >>**Note:**
 >>
->>**OM_C.2.3:** Verificare che le resistenze di progetto siano calcolate in conformità alla NTC18. (cap. 4.5.6.1, pg. 148)
+>>**OM_C.2.3:** In caso di muratura armata, la parete e i suoi elementi devono essere conformi a quanto scritto nel capitolo 4.5.7 delle NTC 2018 (pg. 150)
 >>
 >>**Esito:**
 >>
 >>**Note:**
 >>
->>**OM_C.2.4:** In caso di muratura armata, la parete e i suoi elementi devono essere conformi a quanto scritto nel capitolo 4.5.7 delle NTC 2018 (pg. 150)
+>>**OM_C.2.4:** Verificare che la progettazione in zona sismica sia stata effettuata in conformità al paragrafo 7.8 delle NTC 2018 (pg. 261)
 >>
 >>**Esito:**
 >>
 >>**Note:**
 >>
->>**OM_C.2.5:** Verificare che la progettazione in zona sismica sia stata effettuata in conformità al paragrafo 7.8 delle NTC 2018 (pg. 261)
+>>**OM_C.2.5:** Spessore di 150 mm per muratura in elementi resistenti artificiali pieni
 >>
 >>**Esito:**
 >>
 >>**Note:**
 >>
->>**OM_C.2.6:** Spessore di 150 mm per muratura in elementi resistenti artificiali pieni
+>>**OM_C.2.6:** Spessore di 200 mm per muratura in elementi resistenti artificial semipieni
 >>
 >>**Esito:**
 >>
 >>**Note:**
 >>
->>**OM_C.2.7:** Spessore di 200 mm per muratura in elementi resistenti artificial semipieni
+>>**OM_C.2.7:** Spessore di 240 mm per muratura in elementi resistenti artificial forati
 >>
 >>**Esito:**
 >>
 >>**Note:**
 >>
->>**OM_C.2.8:** Spessore di 240 mm per muratura in elementi resistenti artificial forati
+>>**OM_C.2.8:** Verificare che il calcestruzzo di riempimento e le barre di armatura (per la muratura armata) siano conformi alla norma EN 206 (per il cls) e conforme con quanto indicato nella UNI EN 1996 - 1 (pg. 32)
 >>
 >>**Esito:**
 >>
 >>**Note:**
 >>
->>**OM_C.2.9:** Verificare che il calcestruzzo di riempimento e le barre di armatura (per la muratura armata) siano conformi alla norma EN 206 (per il cls) e conforme con quanto indicato nella UNI EN 1996 - 1 (pg. 32)
+>>**OM_C.2.9:** Rapporto tra altezza di interpiano e spessore del muro non dovrà essere superiore a 20 cm
 >>
 >>**Esito:**
 >>
 >>**Note:**
 >>
->>**OM_C.2.10:** Rapporto tra altezza di interpiano e spessore del muro non dovrà essere superiore a 20 cm
+>>**OM_C.2.10:** Spessore per murature portanti non inferiore a 24 cm se siamo in zona sismica 1,2,3
 >>
 >>**Esito:**
 >>
 >>**Note:**
 >>
->>**OM_C.2.11:** Spessore per murature portanti non inferiore a 24 cm se siamo in zona sismica 1,2,3
+>>**OM_C.2.11:** Progettazione delle strutture in modo che mantengano la loro funzione portante e/o di separazione durante la relativa esposizione al fuoco.
 >>
 >>**Esito:**
 >>
 >>**Note:**
 >>
->>**OM_C.2.12:** Progettazione delle strutture in modo che mantengano la loro funzione portante e/o di separazione durante la relativa esposizione al fuoco.
+>>**OM_C.2.12:** Verifiche di resistenza al fuoco eseguite con riferimento a UNI EN 1996-1-2, utilizzando i coefficienti γM (vedi capitolo 4.5.10 delle NTC 2018) relativi alle combinazioni eccezionali (pg. 147)
 >>
 >>**Esito:**
 >>
 >>**Note:**
 >>
->>**OM_C.2.13:** Verifiche di resistenza al fuoco eseguite con riferimento a UNI EN 1996-1-2, utilizzando i coefficienti γM (vedi capitolo 4.5.10 delle NTC 2018) relativi alle combinazioni eccezionali (pg. 147)
+>>**OM_C.2.13:** Quando si tratta di muratura senza ulteriori strati, controllare che la trasmittanza termica sia conforme alle limitazioni imposte da normativa
 >>
 >>**Esito:**
 >>
 >>**Note:**
 >>
->>**OM_C.2.14:** Quando si tratta di muratura senza ulteriori strati, controllare che la trasmittanza termica sia conforme alle limitazioni imposte da normativa
+>>**OM_C.2.14:** Quando si tratta di muratura senza ulteriori strati, controllare che l'acustica sia conforme alle limitazioni imposte da normativa
 >>
 >>**Esito:**
 >>
 >>**Note:**
 >>
->>**OM_C.2.15:** Quando si tratta di muratura senza ulteriori strati, controllare che l'acustica sia conforme alle limitazioni imposte da normativa
+>>**OM_C.2.15:** Verificare che la resistenza al gelo/disgelo dell'elemento resistente sia prescritta in conformità rispetto alle condizioni di esposizione. (Tabella B.1 dell'allegato della BS EN 1996-2:2016 (pg 34))
 >>
 >>**Esito:**
 >>
 >>**Note:**
 >>
->>**OM_C.2.16:** Verificare che la resistenza al gelo/disgelo dell'elemento resistente sia prescritta in conformità rispetto alle condizioni di esposizione. (Tabella B.1 dell'allegato della BS EN 1996-2:2016 (pg 34))
+>>**OM_C.2.16:** Verificare che il contenuto di sali solubili dell'elemento resistente sia prescritta in conformità rispetto alle condizioni di esposizione. (Tabella B.1 dell'allegato della BS EN 1996-2:2016 (pg 34))
 >>
 >>**Esito:**
 >>
 >>**Note:**
 >>
->>**OM_C.2.17:** Verificare che il contenuto di sali solubili dell'elemento resistente sia prescritta in conformità rispetto alle condizioni di esposizione. (Tabella B.1 dell'allegato della BS EN 1996-2:2016 (pg 34))
->>
->>**Esito:**
->>
->>**Note:**
->>
->>**OM_C.2.18:** Verificare che la malta utilizzata sia prescritta in conformità rispetto alle condizioni di esposizione ((Tabella B.2 dell'allegato della BS EN 1996-2:2016 (pg 34))
+>>**OM_C.2.17:** Verificare che la malta utilizzata sia prescritta in conformità rispetto alle condizioni di esposizione ((Tabella B.2 dell'allegato della BS EN 1996-2:2016 (pg 34))
 >>
 >>**Esito:**
 >>
