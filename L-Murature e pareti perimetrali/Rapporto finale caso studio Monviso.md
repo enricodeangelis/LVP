@@ -810,6 +810,6 @@ Nei capitoli successivi si presentano gli esiti a tutte le verifiche applicabili
 [Torna al sommario](#0)
 
 ## **RIFERIMENTI** <a id='6'></a>
-Il presente rapporto viene consegnato come complemento del documento "*Guida L - Murature e pareti perimetrali*".
+> Il presente rapporto viene consegnato come complemento del documento "*Guida L - Murature e pareti perimetrali*".
 
 [Torna al sommario](#0)
