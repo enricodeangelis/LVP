@@ -13,7 +13,7 @@ La norma specifica le caratteristiche e i requisiti prestazionali degli elementi
 > ### UNI EN 771-4: Specifica per elementi per muratura – Parte 4: Elementi per muratura di calcestruzzo aerato autoclavato
 La norma specifica le caratteristiche e i requisiti prestazionali degli elementi per muratura di calcestruzzo aerato autoclavato (AAC) le cui principali destinazioni d'uso sono differenti tipi di applicazioni strutturali e non strutturali in tutte le forme di costruzioni murarie inclusi muri a parete semplice, cavità, tramezzi, muri di sostegno, basamenti e impieghi sotterranei, compresi muri che possono fornire protezione all'incendio, isolamento termico, isolamento acustico e muratura esterna dei camini (esclusi i condotti dei camini). Include inoltre i requisiti di marcatura.
 
-#### Norme Tecniche per le Costruzioni (NTC2018)
+> #### Norme Tecniche per le Costruzioni (NTC2018)
 
 ## NORMATIVA PER MALTA
 
