@@ -3,7 +3,7 @@
 
 
 ## Norme ISO
-1. ISO 20987:2019 **Performance standards in building. Performance test for precast concrete floors. Behaviour under concentrated load** [link](https://bsol.bsigroup.com/Download/SubscriptionPdfDocument?materialNumber=000000000030212172&documentNumber=BS%20EN%2015037-5%3A2013)
+1. ISO 20987:2019 **Performance standards in building. Performance test for precast concrete floors. Behaviour under concentrated load** [link](https://www.iso.org/standard/69686.html)
 1. ISO 9883:1993 **Performance standards in building. Performance test for precast concrete floors. Behaviour under concentrated load** [link](https://bsol.bsigroup.com/Bibliographic/BibliographicInfoData/000000000011167545)
 1. ISO 9882:1993 **Performance standards in building. Performance test for precast concrete floors. Behaviour under non-concentrated load** [link](https://bsol.bsigroup.com/Bibliographic/BibliographicInfoData/000000000011167534)
 
@@ -81,14 +81,7 @@
 [AITEC](https://www.aitecweb.com/Pubblicazioni/Pubblicazioni-in-vendita)
 
  ## Linee Guida 
- 1. Progetto SAFECAST - Regole per la progettazione delle connessioni nelle strutture prefabricate, [link](https://www.assobeton.it/ASSOBETON/gest_sito.nsf/Allegato.xsp?documentId=5C20B12759B1BCDDC12584C000555889&action=openDocument)
+
+1. Progetto SAFECAST - Regole per la progettazione delle connessioni nelle strutture prefabricate, [link](https://www.assobeton.it/ASSOBETON/gest_sito.nsf/Allegato.xsp?documentId=5C20B12759B1BCDDC12584C000555889&action=openDocument)
  1. Progetto SAFECLADDING - Regole per la progettazione sismica delle connessioni pannello-struttura negli edifici prefabbricati, [link](https://www.assobeton.it/ASSOBETON/gest_sito.nsf/Allegato.xsp?documentId=DB6D0A2AC656C7C3C125879D0058BE97&action=openDocument)
-
-
  1. STC - Direzione lavori in presenza di manufatti prefabbricati, [link]() ONE DRIVE MANCANTE
-
-
-
-
-
-
