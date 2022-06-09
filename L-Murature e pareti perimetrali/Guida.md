@@ -11,7 +11,7 @@
   - [4.2. Guida al rapporto finale](#4.2)
 - [5. PIANO DEI CONTROLLI](#5)
   - [5.1. Laterizio](#5.1)
-  - [5.2. Calcesttruzzo](#5.2)
+  - [5.2. Calcestruzzo](#5.2)
   - [5.3. Malta](#5.3)
   - [5.4. Opere murarie](#5.4)
 - [6. ALLEGATI](#6)
