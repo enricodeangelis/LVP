@@ -199,6 +199,8 @@ Ai fini della validazione di un progetto, è quindi necessario individuare la va
 
 L’applicabilità della guida è stata resa sistematica grazie alla possibilità di filtrare, per colonne, quali controlli effettuare, in base alla classificazione della muratura ed ai documenti di progetto. Infatti, si è indicato, tramite un segno x, in quali campi (uno per colonna) si deve applicare una certa verifica elementare.
 
+Alcune voci di verifica elementare sono state evidenziate in grigio in quanto si ritiene che, in caso di esito negativo, non comprometta l'appaltabilità del progetto. Se il documento non dovesse risultare conforme alle suddette verifiche, l'esito dovrà necessariamente essere "Osservazione" anzichè "Non conforme".
+
 Per facilitare la ricerca è stata inserita una colonna "Riferimento" dove, se la verifica elementare è unica, vi è il riferimento normativo, se invece è una verifica più argomentata, quindi divisa in più parti, vi è un link che rimanda alla normativa di riferimento ed è anche indicata la pagina, del file pdf, dove è presente tale indicazione.
 
 Alla fine di ogni sezione di verifiche vi è un conteggio automatico sia per avere una visone immediata sull'esito generale, sia per un controllo di coerenza con il rapporto di verifica finale. 
