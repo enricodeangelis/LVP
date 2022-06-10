@@ -95,8 +95,7 @@ Riferimento:
 *Verificare che il progettista prescriva il requisito di planarità con riferimento ad ANNEX J della UNI EN 13369 o il TR 15739*
 
 Riferimento:
-**EN 13369
-**
+**EN 13369**
 
 ### ALL_A.1 E.1_PD_DIM_12 ###
 *Verificare che siano prescritte le tolleranze per le caratteristiche superficiali del prodotto finito, in termini di valori dimensionali come raccomandati dall'Allegato H al punto 4 della EN 13369. (Superfici appositamente trattate, ad esempio con aggregati a vista, lucidati, gettati tramite matrice, ecc. Non sono coperti da queste raccomandazioni di tolleranza)*
@@ -108,15 +107,13 @@ Riferimento:
 *Verificare che, se ritenuto necessario, il progettista prescriva la tipologia di finitura e quella di tessitura andando a definire i limiti per le imperfezioni superficiali, le modalità di misurazione e le deviazioni ammissibili rispetto alla superficie di un elemento prefabbricato secondo UNI EN 13369 (Annex J) o secondo UNI/CEN/TR 15739 (definite al paragrafo 2).*
 
 Riferimento:
-**EN 13369
-**
+**EN 13369**
 
 ### ALL_A.1 E.1_PD_EST_14 ###
 *Verificare che il progettista prescriva il requisito del colore dell'elemento finito definito sulla base della scala CIB di grigi o nel caso di colorazioni diverse che la colorazione sia prescritta in modo univoco*
 
 Riferimento:
-**EN 13369
-**
+**EN 13369**
 
 ### ALL_A.2_PD_MEC_15 ###
 *Verificare che siano definiti i carichi, nominali e/o caratterisitci, relativi alla struttura per uso civile o industriale secondo capitolo 3 NTC 2018, specificando i valori assunti per le diverse azioni di carico agenti sulla struttura.*
@@ -140,7 +137,7 @@ Riferimento:
 **NTC 2018 par 4.1.2**
 
 ### ALL_A.2_PE_MEC_18 ###
-*Verificare che in caso di verifica mediante calcolo siano utilizzati i coefficienti parziali di sicurezza adeguati, riportati EN 1992-1-1 o NTC 2018 per le verifiche allo SLU e SLE. *
+*Verificare che in caso di verifica mediante calcolo siano utilizzati i coefficienti parziali di sicurezza adeguati, riportati EN 1992-1-1 o NTC 2018 per le verifiche allo SLU e SLE.*
 
 Riferimento:
 **EN 13369 par 4.3.3.3**
@@ -203,13 +200,13 @@ Riferimento:
 *Verificare che la scelta della tipologia strutturale corrisponda a una di quelle prescritte secondo 7.4.3.1 con in aggiunta quelle riportate nel paragrafo 7.4.5.1. *
 
 Riferimento:
-**NTC 2018 + CIRCOLARE **
+**NTC 2018 + CIRCOLARE**
 
 ### ALL_A.2_PE_SIS_29 ###
 *Verificare che i valori dei coefficienti di sovraresistenza γRD da utilizzare nella progettazione in capacità a livello locale per i diversi elementi strutturali e le singole verifiche siano ripresi da tabella 7.2.1 delle NTC 2018. Per il collegamento alla base del pilastro non citato nella tabella prendere come riferimento la Circolare in §C7.4.5.1.1 e §C7.4.5.1.2*
 
 Riferimento:
-**NTC 2018 + CIRCOLARE **
+**NTC 2018 + CIRCOLARE**
 
 ### ALL_A.2_PE_SIS_30 ###
 *Verificare che in generale siano state prese in considerazione le prescrizioni al paragrafo 7.4.5 delle NTC 2018 con le eventuali specifiche riportate dalla Circolare *
@@ -416,13 +413,13 @@ Riferimento:
 **CNR 10025/1998 § 4.3**
 
 ### SOL.NER_A.2_PE_DIM_6 ###
-*Verificare che in funzione della tipologia di collegamento degli elementi sia considerata in modo opportuno la distribuzione trasversale dei carichi (come indiato al par. 4.4 del CNR 10025/1998) *
+*Verificare che in funzione della tipologia di collegamento degli elementi sia considerata in modo opportuno la distribuzione trasversale dei carichi (come indiato al par. 4.4 del CNR 10025/1998)*
 
 Riferimento:
 **CNR 10025/1998 § 4.4**
 
 ### SOL.NER_A.2_PE_DIM_7 ###
-*Verificare che la dimensione minima degli elementi nervati sia pari a 50 mm *
+*Verificare che la dimensione minima degli elementi nervati sia pari a 50 mm*
 
 Riferimento:
 **CNR 10025/1998 § 4.2.1**
