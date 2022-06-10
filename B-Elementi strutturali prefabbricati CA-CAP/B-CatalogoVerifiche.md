@@ -104,7 +104,7 @@ Riferimento:
 **EN 13369 par 4.3.2**
 
 ### ALL_A.1 E.1_PD_EST_13 ###
-*Verificare che, se ritenuto necessario, il progettista prescriva la tipologia di finitura e quella di tessitura andando a definire i limiti per le imperfezioni superficiali, le modalità di misurazione e le deviazioni ammissibili rispetto alla superficie di un elemento prefabbricato secondo UNI EN 13369 (Annex J) o secondo UNI/CEN/TR 15739 (definite al paragrafo 2).*
+*Verificare che, se ritenuto necessario, il progettista prescriva la tipologia di finitura e quella di tessitura andando a definire i limiti per le imperfezioni superficiali, le modalità di misurazione e le deviazioni ammissibili rispetto alla superficie di un elemento prefabbricato secondo UNI EN 13369 (Annex J) o secondo UNI/CEN/TR 15739 (definite al paragrafo 2)*
 
 Riferimento:
 **EN 13369**
@@ -137,7 +137,7 @@ Riferimento:
 **NTC 2018 par 4.1.2**
 
 ### ALL_A.2_PE_MEC_18 ###
-*Verificare che in caso di verifica mediante calcolo siano utilizzati i coefficienti parziali di sicurezza adeguati, riportati EN 1992-1-1 o NTC 2018 per le verifiche allo SLU e SLE.*
+*Verificare che in caso di verifica mediante calcolo siano utilizzati i coefficienti parziali di sicurezza adeguati, riportati EN 1992-1-1 o NTC 2018 per le verifiche allo SLU e SLE*
 
 Riferimento:
 **EN 13369 par 4.3.3.3**
@@ -155,13 +155,13 @@ Riferimento:
 **NTC 2018 11.8.5**
 
 ### ALL_A.2_PE_MEC_21 ###
-*Verificare che nella documentazione prodotta dal prefabbricatore siano espressamente indicati i valori dei carichi di esercizio considerati e la loro distribuzione *
+*Verificare che nella documentazione prodotta dal prefabbricatore siano espressamente indicati i valori dei carichi di esercizio considerati e la loro distribuzione*
 
 Riferimento:
 **NTC 2018 11.8.5**
 
 ### ALL_A.2_PE_MEC_22 ###
-*Verificare che nella documentazione prodotta dal prefabbricatore sia prescritta la resistenza caratteristica richiesta del calcestruzzo nel caso in cui la sezione di manufatto resistente debba essere completata in opera con getto integrativo *
+*Verificare che nella documentazione prodotta dal prefabbricatore sia prescritta la resistenza caratteristica richiesta del calcestruzzo nel caso in cui la sezione di manufatto resistente debba essere completata in opera con getto integrativo*
 
 Riferimento:
 **NTC 2018 11.8.5**
@@ -197,7 +197,7 @@ Riferimento:
 **NTC 2018 par.7.4.5.2**
 
 ### ALL_A.2_PE_SIS_28 ###
-*Verificare che la scelta della tipologia strutturale corrisponda a una di quelle prescritte secondo 7.4.3.1 con in aggiunta quelle riportate nel paragrafo 7.4.5.1. *
+*Verificare che la scelta della tipologia strutturale corrisponda a una di quelle prescritte secondo 7.4.3.1 con in aggiunta quelle riportate nel paragrafo 7.4.5.1.*
 
 Riferimento:
 **NTC 2018 + CIRCOLARE**
@@ -209,13 +209,13 @@ Riferimento:
 **NTC 2018 + CIRCOLARE**
 
 ### ALL_A.2_PE_SIS_30 ###
-*Verificare che in generale siano state prese in considerazione le prescrizioni al paragrafo 7.4.5 delle NTC 2018 con le eventuali specifiche riportate dalla Circolare *
+*Verificare che in generale siano state prese in considerazione le prescrizioni al paragrafo 7.4.5 delle NTC 2018 con le eventuali specifiche riportate dalla Circolare*
 
 Riferimento:
 **NTC 2018 par.7.4.5**
 
 ### ALL_E.5_PE_MON_31 ###
-*Verificare che per situazioni transitorie (quali trasporto, stoccaggio,…) sia considerata una forza orizzontale trasversale nominale che prenda in considerazione gli effetti fuori piano dovuti ad azioni dinamiche o deviazioni di verticalità. Questa può essere considerata pari all'1,5 % del peso dell'elemento. *
+*Verificare che per situazioni transitorie (quali trasporto, stoccaggio,…) sia considerata una forza orizzontale trasversale nominale che prenda in considerazione gli effetti fuori piano dovuti ad azioni dinamiche o deviazioni di verticalità. Questa può essere considerata pari all'1,5 % del peso dell'elemento.*
 
 Riferimento:
 **EN 13369 par 4.3.3.4**
@@ -275,19 +275,19 @@ Riferimento:
 **EN 13369 par 4.3.3.4**
 
 ### ALL_A.1_PE_FIR_41 ###
-*Verificare che sia consegnata la certificazione di resistenza al fuoco dei singoli elementi prodotti redatta da un tecnico incaricato dall’Appaltatore ed iscritto agli elenchi del Ministero dell’Interno ai sensi della ex legge 7 dicembre 1984 n 818 *
+*Verificare che sia consegnata la certificazione di resistenza al fuoco dei singoli elementi prodotti redatta da un tecnico incaricato dall’Appaltatore ed iscritto agli elenchi del Ministero dell’Interno ai sensi della ex legge 7 dicembre 1984 n 818*
 
 Riferimento:
 **legge 7 Dicembre 1984 n°818**
 
 ### ALL_D.6_PE_FIR_42 ###
-*Verificare che i prodotti in calcestruzzo che includono materiali organici nella composizione del calcestruzzo superiore all'1 % in massa o in volume siano testati e classificati secondo la norma EN 13501-1. Viceversa, per i prodotti in calcestruzzo realizzati con al massimo l'1 % di materiali organici nella composizione del calcestruzzo può essere dichiarato come reazione al fuoco classe A1. *
+*Verificare che i prodotti in calcestruzzo che includono materiali organici nella composizione del calcestruzzo superiore all'1 % in massa o in volume siano testati e classificati secondo la norma EN 13501-1. Viceversa, per i prodotti in calcestruzzo realizzati con al massimo l'1 % di materiali organici nella composizione del calcestruzzo può essere dichiarato come reazione al fuoco classe A1*
 
 Riferimento:
 **EN 13369**
 
 ### ALL_D.5_PE_DUR_43 ###
-*Verificare che in fase progettuale siano previsti accorgimenti per limitare l'effetto delle azioni aggressive provenienti dall'ambiente : per esempio prevedendo opportuni drenaggi o impermeabilizzazioni allo scopo di limitare la presenza di acqua sulla superficie del calcestruzzo. *
+*Verificare che in fase progettuale siano previsti accorgimenti per limitare l'effetto delle azioni aggressive provenienti dall'ambiente : per esempio prevedendo opportuni drenaggi o impermeabilizzazioni allo scopo di limitare la presenza di acqua sulla superficie del calcestruzzo*
 
 Riferimento:
 **UNI 11417**
@@ -311,7 +311,7 @@ Riferimento:
 **EN 206 - UNI 1104**
 
 ### ALL_D.2_PE_DUR_47 ###
-*La classe di esposizione ambientale è definita dal progettista e identificata secondo UNI EN 206 . Si verifica che l'aggressività delle azioni ambientali dipende anche dalla geometria della struttura e dai dettagli costruttivi. *
+*La classe di esposizione ambientale è definita dal progettista e identificata secondo UNI EN 206 . Si verifica che l'aggressività delle azioni ambientali dipende anche dalla geometria della struttura e dai dettagli costruttivi.*
 
 Riferimento:
 **EN 206 - UNI 1104**
@@ -431,7 +431,7 @@ Riferimento:
 **EN 1168  § 4.3.1.2.2 § 4.3.1.2.2**
 
 ### SOL.ALV_A.2_PE_DIM_9 ###
-*Verificare che la forma del giunto longitudinale sia conforme a quanto indicato al § 4.3.1.2.4 della EN 1168 *
+*Verificare che la forma del giunto longitudinale sia conforme a quanto indicato al § 4.3.1.2.4 della EN 1168*
 
 Riferimento:
 **EN 1168  § 4.3.1.2.4**
@@ -455,7 +455,7 @@ Riferimento:
 **EN 13369 § 4.3.3.1**
 
 ### COP.SPE_A.2_PE_DIM_3 ###
-*Verificare che la dimensione minima degli elementi nervati sia pari a 50 mm *
+*Verificare che la dimensione minima degli elementi nervati sia pari a 50 mm*
 
 Riferimento:
 **CNR 10025/1998 § 5.2.6**
