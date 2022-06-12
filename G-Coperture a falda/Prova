@@ -2,7 +2,7 @@
 
 ## **SOMMARIO** <a id='00'></a>
 - [PREMESSA](#0)
-
+- [CLASSIFICAZIONE DELLE COPERTURE A FALDA](#1)
 
 
 
@@ -10,7 +10,8 @@
 
 ## **PREMESSA** <a id='0'></a>
 
-La copertura a falda (o copertura discontinue o tetto a falda) è una tipologia di chiusura orizzontale superiore caratterizzata dalla pendenza del piano di posa. Il tetto a falda (singola, doppia o multipla) permette un maggior controllo dei sovraccarichi (componente verticale del carico dovuto alla permanenza di neve, sovraccarico dovuto alla destinazione d’uso), mentre una maggiore attenzione deve essere riservata a eventuali sollecitazioni di tipo dinamico (vento, acqua meteorica, acqua dovuta allo scioglimento della neve, eventi sismici).
+La copertura a falda (o copertura discontinue o tetto a falda) è una tipologia di chiusura orizzontale superiore caratterizzata dalla pendenza del piano di posa.
+Il tetto a falda (singola, doppia o multipla) permette un maggior controllo dei sovraccarichi (componente verticale del carico dovuto alla permanenza di neve, sovraccarico dovuto alla destinazione d’uso), mentre una maggiore attenzione deve essere riservata a eventuali sollecitazioni di tipo dinamico (vento, acqua meteorica, acqua dovuta allo scioglimento della neve, eventi sismici).
 I punti critici, oltre ai raccordi con le superfici verticali, sono correlati al controllo delle pendenze per evitare la traslocazione degli elementi di tenuta, alle linee di raccordo tra le falde a differente pendenza, alla realizzazione dei canali di gronda, delle converse e dei pluviali (posizionamento, dimensionamento e tipologia di fissaggio).
 In relazione al grado di isolamento termico della copertura e alla modalità di evaporazione della condensazione interstiziale è possibile compiere una classificazione delle coperture a falda. È possibile distinguerle in:
 >-	copertura discontinua isolata,
@@ -18,3 +19,13 @@ In relazione al grado di isolamento termico della copertura e alla modalità di 
 >-	copertura discontinua ventilata,
 >-	copertura discontinua non isolata,
 >-	copertura discontinua ventilata sottotetto.
+
+## **CLASSIFICAZIONE DELLE COPERTURE A FALDA** <a id='1'></a>
+
+In questa parte dell’elaborato, sono stati presi in considerazione differenti schemi funzionali, ovvero è stata considerata la schematizzazione di un modello attraverso l’individuazione di un determinato meccanismo di funzionamento, classificati secondo la metodologia di controllo del comportamento termoigrometrico.
+
+> - Copertura senza elemento termoisolante, senza strato di ventilazione
+>> In questo schema funzionale la copertura non controlla il comportamento termoigrometrico attraverso lo strato di ventilazione e non controlla la trasmissione del calore attraverso un apposito elemento termoisolante. In ogni caso è presente lo strato di microventilazione, che è necessario per il buon funzionamento della copertura e per garantire una durata nel tempo dell’elemento di tenuta. Questo strato è costituito da listellature o cordoli su cui poggiano le tegole.
+
+> -
+>>
