@@ -124,7 +124,10 @@ Nelle coperture discontinue, l’elemento può essere realizzato mediante i segu
 >-	pannelli isolanti autoportanti con doppia faccia metallica;
 >-	altri.
 
-#### Requisiti elementi di tenuta per coperture a falda
+[Torna all'indice](#00)
+
+
+### Requisiti elementi di tenuta per coperture a falda
 
 ##### Comportamento agli agenti atmosferici
 
@@ -243,3 +246,69 @@ I raggi ultravioletti e l’esposizione ad atmosfere aggressive influenzano nega
 Per quanto riguarda la reazione alla prestazione al fuoco, è necessario, secondo la normativa vigente, che i prodotti soddisfino i requisiti per la classe di reazione al fuoco A1 senza alcuna necessità di effettuare prove.
 
 [Torna all'indice](#00)
+
+
+### Prodotti di laterizio
+
+I prodotti di laterizio sono degli elementi di piccole dimensioni, utilizzati per la realizzazione del manto di copertura delle falde inclinate dei tetti. Essi sono dei prodotti ottenuti per estrusione e/o stampaggio di un impasto di argilla, successivamente essiccati e cotti ad alta temperatura, usati per la realizzazione dello strato di tenuta di coperture discontinue.
+
+I principali tipi di prodotti di laterizio esistenti sono: tegola marsigliese, tegola portoghese, tegola olandese, coppo, tegola romana e tegola nuovi profili.
+
+##### Caratteristiche geometriche
+
+In questa parte dell’elaborato, sono riportate le caratteristiche geometriche delle tegole; in particolare, le caratteristiche di regolarità di forma e di curvatura sono state riportate solo a scopo descrittivo del prodotto, ma non ai fini della creazione della guida in quanto i requisiti dimensionali dei prodotti sono volti a una verifica da parte di enti accreditati.
+
+##### *Pendenza delle falde*
+
+La pendenza minima della falda di copertura necessaria per garantire l’impermeabilità all’acqua è funzione dei seguenti fattori:
+- zona climatica e situazione di esposizione locale (sito protetto, sito normale, sito esposto);
+- lunghezza della falda di copertura;
+	tipo di elemento di tenuta ed entità della sovrapposizione.
+
+La pendenza massima delle falde di copertura è in funzione della necessità di mantenere in posizione i prodotti senza che avvengano traslocazioni.
+
+Nel Prospetto 1 della norma UNI 9460:2008 è riportata la pendenza minima e massima delle falde in relazione alla tipologia di tegola in laterizio.
+
+##### *Lunghezza delle falde*
+
+Nel Prospetto 2 della norma UNI 9460:2008 è riportata la lunghezza massima delle falde in relazione alla tipologia di tegola in laterizio e delle regioni italiane.
+
+##### Requisiti meccanici
+
+##### *Requisiti di resistenza alla flessione*
+
+È necessario che il prodotto presenti un risultato soddisfacente della prova di resistenza alla flessione, ovvero se i provini sopportano senza rompersi un carico di almeno:
+- 600 N per tegole piane,
+- 900 N per tegole con incastro laterale,
+- 1000 N per coppi,
+- 1200 N per altre tipologie di tegole.
+
+Inoltre, ci si deve assicurare che i criteri di resistenza a flessione non siano stati applicati ai raccordi.
+
+##### Ventilazione
+
+Avendo riportato gli schemi funzionali delle varie tipologie di coperture discontinue, è necessario analizzare i requisiti di una copertura ventilata.
+
+La ventilazione avviene mediante flussi d’aria naturali tra la linea di gronda e il colmo e per passaggio attraverso i giunti delle tegole. Inoltre, può essere incrementata mediante l’impiego di tegole munite di aeratore.
+
+Gli aeratori possono essere utilizzati anche quando si vuole ventilare lo spazio sottotetto in presenza di struttura portante discontinua (travi).
+
+Quando si intende adottare un’intercapedine a spessore costante lungo la falda, lo spessore stesso e quindi la sezione utile di flusso, dipende dal tipo di tegola (geometria, ecc.) dalla lunghezza della falda, dalla sua pendenza e dal tipo di intercapedine (in comunicazione con il sottotegola o separato), dalla conformazione delle sezioni di ingresso e di uscita, nonché dalle condizioni ambientali interne ed esterne (vento, irraggiamento solare, ecc.).
+
+Generalmente, la sezione di flusso per intercapedini utili a ottenere la massima riduzione del flusso termico in clima estivo, nel caso di pendenze usuali in Italia (30 ÷ 35)% e lunghezza di falde usuali fino a 7 m, è almeno di 550 cm2 netti per ogni metro di larghezza della falda, al di sotto della listellatura, nel caso in cui l’intercapedine sia in comunicazione con la listellatura stessa.
+
+Tali prescrizioni devono essere rispettate anche quando si adotta un’intercapedine delimitata da due strati piani paralleli (doppio tavolato, pannelli, ecc.).
+
+Nel caso in cui siano considerate coperture in coppi posati in modo tradizionale, data l’alta permeabilità all’aria del sistema, i valori sopra riportati possono essere dimezzati. In ogni caso, deve essere considerato che possono essere presenti altri elementi (lucernari, abbaini finestrati, ecc.) capaci di influire significativamente sul regime termico del sottotetto.
+
+Affinché una copertura sia considerata ventilata, deve essere soddisfatto il seguente requisito, ovvero non deve essere presente solamente la microventilazione sottotegola di almeno 2 cm di spessore. Nel caso di irraggiamento medio ed elevato, la microventilazione risulta essere insufficiente per l’asportazione dell’energia termica incidente sulla copertura, mentre risulta essere ancora efficace per lo smaltimento dell’umidità in eccesso proveniente dagli ambienti riscaldati.
+
+La capacità di asportare l'energia incidente cresce all'aumentare dello spessore dell'intercapedine ventilante fino ad assestarsi intorno a un valore costante al di sopra dei 15 cm di spessore. Si considera come ottimale un valore di almeno 7 cm di spessore.
+
+Quando ci si riferisce allo spessore dell’intercapedine, si intende l'altezza netta della stessa; qualsiasi interruzione o variazione della forma dovuta alla presenza di sottostrutture di supporto lignee o metalliche del rivestimento di copertura o da eventuali interruzioni realizzate per l'inserimento di serramenti o lucernari, aumentando le perdite di carico e riducendo la sezione dell'intercapedine, peggiora il meccanismo di funzionamento della stessa.
+
+La portata d'aria attraverso l'intercapedine, che si traduce nell'effetto benefico di riduzione dei carichi termici estivi, dipende, oltre che dalle dimensioni e dalla forma dell'intercapedine, anche dalla velocità dell'aria all'interno della stessa.
+
+##### Microventilazione sottotegola
+
+Lo strato di smaltimento del vapore per microventilazione sottotegola è uno strato avente la funzione di evitare la persistenza di umidità e la formazione di condensazione, ciò è necessario a prolungare la durata del sistema. Questo strato è ottenuto posizionando gli elementi di tenuta (tegole) sui loro supporti (listelli, ecc.) e mantenendo quindi uno spazio libero tra intradosso delle tegole ed eventuali superfici continue della struttura di supporto. Inoltre, la microventilazione può essere incrementata con l’impiego di tegole munite di aeratore.
