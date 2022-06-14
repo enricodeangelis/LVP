@@ -156,7 +156,7 @@ Per quanto riguarda gli aspetti relativi all’impermeabilità all’acqua sulla
 
 ##### *Protezione contro neve, sabbia e pulviscolo con azione del vento*
 
-L’ingresso di neve, sabbia e pulviscolo con azione del vento non può essere completamente impedito a causa delle modalità di posa delle coperture discontinue e dei giunti risultanti tra i singoli elementi. Nel caso in cui dovesse essere ridotto o impedito, devono essere adottate opportuni sistemi sottotegola. 
+L’ingresso di neve, sabbia e pulviscolo con azione del vento non può essere completamente impedito a causa delle modalità di posa delle coperture discontinue e dei giunti risultanti tra i singoli elementi. Nel caso in cui dovesse essere ridotto o impedito, devono essere adottati opportuni sistemi sottotegola. 
 
 Un aspetto da considerare opportunamente è la possibilità di formazione di pozze d’acqua conseguentemente allo scioglimento locale della neve (ad esempio intorno ai camini). In queste condizioni le giunzioni potrebbero trovarsi sotto battente d’acqua e pertanto pregiudicare l’impermeabilità della copertura. Possono essere adottati opportuni accorgimenti atti a impedire la formazione di ghiaccio e la permanenza totale o parziale della neve purché sia garantito il corretto deflusso delle acque di risulta.
 
@@ -186,7 +186,7 @@ La sovrastante suddivisione viene integrata nel modo seguente:
 
 L’entità dei carichi di neve e ghiaccio agenti su coperture discontinue è specificata nella normativa nazionale NTC 2018. Tali valori sono dipendenti dalle previste precipitazioni nevose e prendono in considerazione la zona climatica, l’inclinazione e la forma della copertura, l’altitudine sul livello del mare, le condizioni locali.
 
-L’Italia è suddivisa in tre zone, che a loro volta sono distinte in funzione dell’altitudine di riferimento as (quota sul livello del mare nel sito di realizzazione dell’edificio). Inoltre, nella normativa sono riportati i coefficienti che tengono conto della conformazione della copertura e della relativa possibilità di accumulo disomogeneo della neve. 
+L’Italia è suddivisa in tre zone, che a loro volta sono distinte in funzione dell’altitudine di riferimento a_s (quota sul livello del mare nel sito di realizzazione dell’edificio). Inoltre, nella normativa sono riportati i coefficienti che tengono conto della conformazione della copertura e della relativa possibilità di accumulo disomogeneo della neve. 
 
 La copertura discontinua e la sua struttura di supporto devono resistere ai carichi previsti. Dunque, deve essere assicurato un sistema sicuro di trasferimento dei carichi gravanti sul tetto, dalla copertura alla struttura.
 
@@ -200,12 +200,12 @@ Possono essere utili degli elementi di fissaggio dei prodotti, ma in ogni caso n
 
 ##### *Requisiti relativi al sovraccarico delle coperture a falda*
 
-Sulle coperture in tegole deve essere possibile l’accesso occasionale di persone con determinate precauzione per consentire lo svolgersi di operazioni di riparazione o manutenzione.
+Sulle coperture discontinue deve essere possibile l’accesso occasionale di persone con determinate precauzioni per consentire lo svolgimento di operazioni di riparazione o manutenzione.
 
 La normativa vigente in Italia, NTC 2018, prevede che i valori dei sovraccarichi per coperture accessibili per sola manutenzione e riparazione siano:
--	carichi verticali uniformemente distribuiti qk: 0,50 kN/m2;
--	carichi verticali concentrati Qk: 1,20 kN;
--	carichi orizzontali lineari Hk: 1,00 kN.
+-	carichi verticali uniformemente distribuiti q_k: 0,50 kN/m^2;
+-	carichi verticali concentrati Q_k: 1,20 kN;
+-	carichi orizzontali lineari H_k: 1,00 kN.
 
 ##### *Requisiti relativi al carico dovuto alla grandine*
 
