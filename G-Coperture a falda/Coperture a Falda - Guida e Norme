@@ -285,15 +285,13 @@ Inoltre, ci si deve assicurare che i criteri di resistenza a flessione non siano
 
 ##### Ventilazione
 
-Avendo riportato gli schemi funzionali delle varie tipologie di coperture discontinue, è necessario analizzare i requisiti di una copertura ventilata.
-
 La ventilazione avviene mediante flussi d’aria naturali tra la linea di gronda e il colmo e per passaggio attraverso i giunti delle tegole. Inoltre, può essere incrementata mediante l’impiego di tegole munite di aeratore.
 
 Gli aeratori possono essere utilizzati anche quando si vuole ventilare lo spazio sottotetto in presenza di struttura portante discontinua (travi).
 
 Quando si intende adottare un’intercapedine a spessore costante lungo la falda, lo spessore stesso e quindi la sezione utile di flusso, dipende dal tipo di tegola (geometria, ecc.) dalla lunghezza della falda, dalla sua pendenza e dal tipo di intercapedine (in comunicazione con il sottotegola o separato), dalla conformazione delle sezioni di ingresso e di uscita, nonché dalle condizioni ambientali interne ed esterne (vento, irraggiamento solare, ecc.).
 
-Generalmente, la sezione di flusso per intercapedini utili a ottenere la massima riduzione del flusso termico in clima estivo, nel caso di pendenze usuali in Italia (30 ÷ 35)% e lunghezza di falde usuali fino a 7 m, è almeno di 550 cm2 netti per ogni metro di larghezza della falda, al di sotto della listellatura, nel caso in cui l’intercapedine sia in comunicazione con la listellatura stessa.
+Generalmente, la sezione di flusso per intercapedini utili a ottenere la massima riduzione del flusso termico in clima estivo, nel caso di pendenze usuali in Italia (30 ÷ 35)% e lunghezza di falde usuali fino a 7 m, è almeno di 550 cm^2 netti per ogni metro di larghezza della falda, al di sotto della listellatura, nel caso in cui l’intercapedine sia in comunicazione con la listellatura stessa.
 
 Tali prescrizioni devono essere rispettate anche quando si adotta un’intercapedine delimitata da due strati piani paralleli (doppio tavolato, pannelli, ecc.).
 
@@ -333,7 +331,7 @@ La portata che è definita come la capacità di una lastra di sopportare carichi
 -	la distanza e la resistenza degli arcarecci di sostegno o la resistenza dell'elemento di supporto continuo;
 -	la pendenza delle falde di tetto.
 
-Tutti questi elementi determinano una valutazione dello spessore e/o del profilo, in funzione del materiale metallico utilizzato, idonei per la copertura da realizzare. Relativamente alla sicurezza, ai carichi e sovraccarichi, le coperture non accessibili devono rispettare le prescrizioni della legislazione vigente. Le lastre devono assicurare la pedonabilità occasionale, secondo le modalità prescritte dal produttore o dall'installatore, senza subire deformazioni permanenti sotto il carico della persona, al fine di poter garantire la funzionalità richiesta e l'incolumità di chi ha accesso alla copertura in fase di montaggio o per eventuali successivi interventi di manutenzione del tetto stesso o dei camini, antenne TV, impianti fotovoltaici, ecc.
+Tutti questi elementi determinano una valutazione dello spessore e/o del profilo, in funzione del materiale metallico utilizzato, idonei per la copertura da realizzare. Relativamente alla sicurezza, ai carichi e sovraccarichi, le lastre devono assicurare la pedonabilità occasionale, secondo le modalità prescritte dal produttore o dall'installatore, senza subire deformazioni permanenti sotto il carico della persona, al fine di poter garantire la funzionalità richiesta e l'incolumità di chi ha accesso alla copertura in fase di montaggio o per eventuali successivi interventi di manutenzione del tetto stesso o dei camini, antenne TV, impianti fotovoltaici, ecc.
 
 Allo scopo di preservare l’integrità delle superfici dei prodotti finiti durante la lavorazione e la movimentazione è utile l’impiego di pellicole di protezione temporanea. I prodotti successivamente esaminati sono classificati per la reazione al fuoco secondo la normativa vigente.
 
@@ -348,11 +346,11 @@ Inoltre, se si dovessero aggiungere gli effetti dovuti alla ventilazione sotto l
 Sulla base di ciò, risulta indispensabile prendere in considerazione questo aspetto in fase progettuale. Le coperture, analizzate da un punto di vista costruttivo, possono essere suddivise in due grandi categorie, per le quali è possibile suggerire differenti soluzioni adottabili.
 
 > La prima categoria è rappresentata dai manti di copertura realizzati con nastri metallici piani utilizzando la tecnica di giunzione a doppia aggraffatura o a tassello. In questo caso si devono rispettare le seguenti condizioni:
->- lunghezze di falda <6 m, non sono necessarie particolari precauzioni;
+>- lunghezze di falda < 6 m, non sono necessarie particolari precauzioni;
 >- lunghezze di falda > 6 m, si può utilizzare sia la tecnica di segmentazione del nastro con idonea giunzione delle lastre successive, sia il fissaggio per mezzo di linguette di ancoraggio di tipo scorrevole.
 
 > La seconda categoria raggruppa le coperture utilizzanti lamiere nervate, grecate o pannelli compositi per le quali devono essere adattate le seguenti indicazioni:
->- lunghezze di falda <6 m, nessuna particolare prescrizione se il fissaggio della lastra avviene in corrispondenza della parte alta della nervatura; in tal caso l'elasticità dell'elemento di fissaggio consente di assorbire le dilatazioni;
+>- lunghezze di falda < 6 m, nessuna particolare prescrizione se il fissaggio della lastra avviene in corrispondenza della parte alta della nervatura, in tal caso l'elasticità dell'elemento di fissaggio consente di assorbire le dilatazioni;
 >- lunghezze di falda > 6 m, in funzione del coefficiente di dilazione del materiale costituente la lastra, del tipo e del coefficiente di dilatazione del materiale costituente la struttura portante, dello schema della copertura (ventilata, non ventilata, ecc.) e del tipo di fissaggio occorre verificare la necessità di eseguire ancoraggi scorrevoli o adottare altri adeguati accorgimenti. Nel caso che non sia possibile compensare le dilatazioni è necessario segmentare le lastre.
 
 Prodotti specificamente progettati possono essere installati nel rispetto delle specifiche indicazioni fornite dal fabbricante.
