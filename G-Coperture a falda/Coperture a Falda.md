@@ -404,7 +404,9 @@ Nelle zone a precipitazione meteorica elevata è opportuno sigillare il foro pas
 
 Inoltre, deve essere garantito il fissaggio delle tegole lungo i bordi della falda, di quelle lungo la gronda e lungo il colmo, nonché le tegole intorno alle emergenze (camini, ecc.), mediante apposito gancio o staffa fermategola o con altri dispositivi.
 
-La pendenza minima di falde realizzate con sistemi a lastre è in funzione delle tecniche di giunzione utilizzate e risulta, in condizioni normali, non minore del 5%. In particolari casi, è possibile realizzare coperture con pendenze minori, adottando adeguati sistemi di impermeabilizzazione dei giunti.
+### Sistemi di ancoraggio e fissaggio meccanico per coperture a falda a grandi elementi ed elementi di collegamento
+
+Per quanto riguarda gli elementi di tenuta a grandi elementi, la pendenza minima di falde realizzate con sistemi a lastre è in funzione delle tecniche di giunzione utilizzate e risulta, in condizioni normali, non minore del 5%. In particolari casi, è possibile realizzare coperture con pendenze minori, adottando adeguati sistemi di impermeabilizzazione dei giunti.
 
 Ogni tipologia di giunto presenta, nel campo delle pendenze, un limite inferiore di applicabilità che può essere dedotto dall’abaco riportato nella Figura 3 della norma UNI 10372:2013.
 
